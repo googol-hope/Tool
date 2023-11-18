@@ -8,7 +8,7 @@
 #
 # ================
 
-mixed-port: 7893      # 混合端口 HTTP和SOCKS5用一个端口
+mixed-port: 22332      # 混合端口 HTTP和SOCKS5用一个端口
 geodata-mode: true    #【Meta专属】使用geoip.dat数据库(默认：false使用mmdb数据库)
 tcp-concurrent: false #【Meta专属】TCP 并发连接所有 IP, 将使用最快握手的 TCP
 allow-lan: true       # 允许局域网的连接（可用来共享代理）
@@ -41,16 +41,16 @@ sniffer:               # 嗅探域名 可选配置
       ports: [80, 8080-8880]
       override-destination: true
       
-tun:                   # Tun 配置
-  enable: true
-  stack: system        # 可选： system/gvisor/lwip
-                       # tun模式堆栈,如无使用问题,建议使用 system 栈;
-                       # MacOS 用户推荐 gvisor栈,IOS无法使用system栈
-  dns-hijack:          # dns劫持,一般设置为 any:53 即可, 即劫持所有53端口的udp流量
-     - 'any:53'
-# strict_route: true   # 将所有连接路由到tun来防止泄漏，但你的设备将无法其他设备被访问
-  auto-route: true     # 自动设置全局路由，可以自动将全局流量路由进入tun网卡。
-  auto-detect-interface: true     # 自动识别出口网卡
+# tun:                   # Tun 配置
+#   enable: true
+#   stack: system        # 可选： system/gvisor/lwip
+#                        # tun模式堆栈,如无使用问题,建议使用 system 栈;
+#                        # MacOS 用户推荐 gvisor栈,IOS无法使用system栈
+#   dns-hijack:          # dns劫持,一般设置为 any:53 即可, 即劫持所有53端口的udp流量
+#      - 'any:53'
+# # strict_route: true   # 将所有连接路由到tun来防止泄漏，但你的设备将无法其他设备被访问
+#   auto-route: true     # 自动设置全局路由，可以自动将全局流量路由进入tun网卡。
+#   auto-detect-interface: true     # 自动识别出口网卡
         
 dns:
   enable: true             # 关闭将使用系统 DNS
