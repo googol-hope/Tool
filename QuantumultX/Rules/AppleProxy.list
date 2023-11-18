@@ -1,0 +1,25 @@
+# NAME: AppleProxy
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-10-07 14:20:19
+# DOMAIN: 9
+# HOST-SUFFIX: 5
+# 
+# USER-AGENT: 1
+# TOTAL: 16
+HOST,api-glb-sea.smoot.apple.com,PROXY
+HOST,books.itunes.apple.com,PROXY
+HOST,cvws.icloud-content.com,PROXY
+HOST,developer.apple.com,PROXY
+HOST,hls.itunes.apple.com,PROXY
+HOST,itunes.apple.com,PROXY
+HOST,lookup-api.apple.com,PROXY
+HOST,sandbox.itunes.apple.com,PROXY
+HOST,testflight.apple.com,PROXY
+HOST-SUFFIX,apple-dns.net,PROXY
+HOST-SUFFIX,apps.apple.com,PROXY
+HOST-SUFFIX,appsto.re,PROXY
+HOST-SUFFIX,blobstore.apple.com,PROXY
+HOST-SUFFIX,digicert.com,PROXY
+USER-AGENT,com.apple.trustd*,PROXY
+
