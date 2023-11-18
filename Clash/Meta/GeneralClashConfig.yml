@@ -22,14 +22,14 @@ external-controller: 127.0.0.1:9090   #外部控制器,可以使用 RESTful API 
 global-client-fingerprint: chrome   #全局 TLS 指纹，优先低于 proxy 内的 client-fingerprint
                                     #可选： "chrome","firefox","safari","ios","random","none" options.
 
-geox-url:             #自定义 geodata url
-  geoip: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geoip.dat"
-  geosite: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geosite.dat"
-  mmdb: "https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country.mmdb"
+# geox-url:             #自定义 geodata url
+#   geoip: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geoip.dat"
+#   geosite: "https://cdn.jsdelivr.net/gh/Loyalsoldier/v2ray-rules-dat@release/geosite.dat"
+#   mmdb: "https://cdn.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country.mmdb"
 
-profile:
-  store-selected: true # 存储 select 选择记录
-  store-fake-ip: true  # 持久化 fake-ip
+# profile:
+#   store-selected: true # 存储 select 选择记录
+#   store-fake-ip: true  # 持久化 fake-ip
   
 sniffer:               # 嗅探域名 可选配置
   enable: true
