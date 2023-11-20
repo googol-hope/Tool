@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202311200211
+## ! Version: 202311201550
 ## ! Title: EasyPrivacy
-## ! Last modified: 20 Nov 2023 02:11 UTC
+## ! Last modified: 20 Nov 2023 15:50 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -121,12 +121,14 @@ DOMAIN-SUFFIX,dwin2.com,extended-matching
 DOMAIN-SUFFIX,e1e.io,extended-matching
 DOMAIN-SUFFIX,eagle-insight.com,extended-matching
 DOMAIN-SUFFIX,easycompute.systems,extended-matching
+DOMAIN-SUFFIX,ed-sys.net,extended-matching
 DOMAIN-SUFFIX,efreecode.com,extended-matching
 DOMAIN-SUFFIX,egoi.site,extended-matching
 DOMAIN-SUFFIX,emailsnow.info,extended-matching
 DOMAIN-SUFFIX,emycewiw.xyz,extended-matching
 DOMAIN-SUFFIX,enthusiastgaming.net,extended-matching
 DOMAIN-SUFFIX,envato.market,extended-matching
+DOMAIN-SUFFIX,epsilondelta.co,extended-matching
 DOMAIN-SUFFIX,eqy.link,extended-matching
 DOMAIN-SUFFIX,etop.ro,extended-matching
 DOMAIN-SUFFIX,everesttech.net,extended-matching
@@ -1923,6 +1925,7 @@ DOMAIN-SUFFIX,tritebadge.com,extended-matching
 DOMAIN-SUFFIX,troubledtail.com,extended-matching
 DOMAIN-SUFFIX,troubleshade.com,extended-matching
 DOMAIN-SUFFIX,truckstomatoes.com,extended-matching
+DOMAIN-SUFFIX,truculentrate.com,extended-matching
 DOMAIN-SUFFIX,tumblebirds.com,extended-matching
 DOMAIN-SUFFIX,tumbleicicle.com,extended-matching
 DOMAIN-SUFFIX,tutorthing.com,extended-matching

@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202311200211
+## ! Version: 202311201550
 ## ! Title: EasyPrivacy
-## ! Last modified: 20 Nov 2023 02:11 UTC
+## ! Last modified: 20 Nov 2023 15:50 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -121,12 +121,14 @@ HOST-SUFFIX,dwin2.com,reject,REJECT
 HOST-SUFFIX,e1e.io,reject,REJECT
 HOST-SUFFIX,eagle-insight.com,reject,REJECT
 HOST-SUFFIX,easycompute.systems,reject,REJECT
+HOST-SUFFIX,ed-sys.net,reject,REJECT
 HOST-SUFFIX,efreecode.com,reject,REJECT
 HOST-SUFFIX,egoi.site,reject,REJECT
 HOST-SUFFIX,emailsnow.info,reject,REJECT
 HOST-SUFFIX,emycewiw.xyz,reject,REJECT
 HOST-SUFFIX,enthusiastgaming.net,reject,REJECT
 HOST-SUFFIX,envato.market,reject,REJECT
+HOST-SUFFIX,epsilondelta.co,reject,REJECT
 HOST-SUFFIX,eqy.link,reject,REJECT
 HOST-SUFFIX,etop.ro,reject,REJECT
 HOST-SUFFIX,everesttech.net,reject,REJECT
@@ -1923,6 +1925,7 @@ HOST-SUFFIX,tritebadge.com,reject,REJECT
 HOST-SUFFIX,troubledtail.com,reject,REJECT
 HOST-SUFFIX,troubleshade.com,reject,REJECT
 HOST-SUFFIX,truckstomatoes.com,reject,REJECT
+HOST-SUFFIX,truculentrate.com,reject,REJECT
 HOST-SUFFIX,tumblebirds.com,reject,REJECT
 HOST-SUFFIX,tumbleicicle.com,reject,REJECT
 HOST-SUFFIX,tutorthing.com,reject,REJECT
