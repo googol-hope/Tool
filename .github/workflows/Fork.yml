@@ -1,6 +1,7 @@
 name: Fork Filter lists
 
 on:
+  push: 
   workflow_dispatch:
   schedule:
     - cron: "50 * * * *"
