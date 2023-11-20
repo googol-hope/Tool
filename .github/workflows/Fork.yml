@@ -13,7 +13,7 @@ jobs:
     - name: Checkout target repository
       uses: actions/checkout@v4.1.0
       with:
-        repository: Repcz/Tool
+        repository: googol-hope/Tool
         path: Tool-repo
    
     - name: Download file to Surge
@@ -175,12 +175,12 @@ jobs:
       run: |
         mkdir -p Tool-repo/Clash/Rules
         # 代理规则
-        curl -L -o Tool-repo/Clash/Rules/Emby.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Emby.list"
+        curl -L -o Tool-repo/Clash/Rules/Emby.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Emby.list"
         curl -L -o Tool-repo/Clash/Rules/Lan.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
         curl -L -o Tool-repo/Clash/Rules/Download.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Download/Download.list"
         curl -L -o Tool-repo/Clash/Rules/Apple.list "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
-        curl -L -o Tool-repo/Clash/Rules/OpenAI.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/OpenAI.list"
-        curl -L -o Tool-repo/Clash/Rules/Telegram.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Telegram.list"
+        curl -L -o Tool-repo/Clash/Rules/OpenAI.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/OpenAI.list"
+        curl -L -o Tool-repo/Clash/Rules/Telegram.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Telegram.list"
         curl -L -o Tool-repo/Clash/Rules/Twitter.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list"
         curl -L -o Tool-repo/Clash/Rules/Instagram.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list"
         curl -L -o Tool-repo/Clash/Rules/Facebook.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list"
@@ -205,7 +205,7 @@ jobs:
         curl -L -o Tool-repo/Clash/Rules/Ads_EasyListChina.list "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/rule/Surge/easylistchina_surge.list"
         curl -L -o Tool-repo/Clash/Rules/Ads_EasyListPrivacy.list "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/rule/Surge/easyprivacy_surge.list"
         curl -L -o Tool-repo/Clash/Rules/Ads_Dlerio.list "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Reject.list"
-        curl -L -o Tool-repo/Clash/Rules/AdGuardChinese.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/AdGuardChinese.list"
+        curl -L -o Tool-repo/Clash/Rules/AdGuardChinese.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/AdGuardChinese.list"
 
     - name: Edit Clash/Rules
       run: |
@@ -239,8 +239,8 @@ jobs:
         curl -L -o Tool-repo/QuantumultX/Rules/iCloud.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/iCloud/iCloud.list"
         curl -L -o Tool-repo/QuantumultX/Rules/AppleProxy.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleProxy/AppleProxy.list"
         # 代理规则
-        curl -L -o Tool-repo/QuantumultX/Rules/OpenAI.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/OpenAI.list"
-        curl -L -o Tool-repo/QuantumultX/Rules/Telegram.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Telegram.list"
+        curl -L -o Tool-repo/QuantumultX/Rules/OpenAI.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/OpenAI.list"
+        curl -L -o Tool-repo/QuantumultX/Rules/Telegram.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Telegram.list"
         curl -L -o Tool-repo/QuantumultX/Rules/Twitter.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list"
         curl -L -o Tool-repo/QuantumultX/Rules/Instagram.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list"
         curl -L -o Tool-repo/QuantumultX/Rules/Facebook.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list"
@@ -263,14 +263,14 @@ jobs:
         curl -L -o Tool-repo/QuantumultX/Rules/Epic.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list"
         curl -L -o Tool-repo/QuantumultX/Rules/Game.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.list"
         # Emby
-        curl -L -o Tool-repo/QuantumultX/Rules/Emby.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Emby.list"
+        curl -L -o Tool-repo/QuantumultX/Rules/Emby.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Emby.list"
         # 防DNS泄漏
-        curl -L -o Tool-repo/QuantumultX/Rules/Prevent_DNS_Leaks.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Prevent_DNS_Leaks.list"
+        curl -L -o Tool-repo/QuantumultX/Rules/Prevent_DNS_Leaks.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Prevent_DNS_Leaks.list"
         # 广告规则
         curl -L -o Tool-repo/QuantumultX/Rules/Ads_EasyListChina.list "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/rule/Surge/easylistchina_surge.list"
         curl -L -o Tool-repo/QuantumultX/Rules/Ads_EasyListPrivacy.list "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/rule/QuantumultX/easyprivacy.list"
         curl -L -o Tool-repo/QuantumultX/Rules/Ads_Dlerio.list "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Reject.list"
-        curl -L -o Tool-repo/QuantumultX/Rules/AdGuardChinese.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/AdGuardChinese.list"
+        curl -L -o Tool-repo/QuantumultX/Rules/AdGuardChinese.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/AdGuardChinese.list"
         
     - name: Edit QuantumultX/Rules
       run: |
@@ -337,10 +337,10 @@ jobs:
         curl -L -o Tool-repo/Loon/Rules/TestFlight.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TestFlight/TestFlight.list"
         curl -L -o Tool-repo/Loon/Rules/AppleProxy.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleProxy/AppleProxy.list"
         # 代理规则
-        curl -L -o Tool-repo/Loon/Rules/Emby.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Emby.list"
+        curl -L -o Tool-repo/Loon/Rules/Emby.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Emby.list"
         curl -L -o Tool-repo/Loon/Rules/Lan.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
-        curl -L -o Tool-repo/Loon/Rules/OpenAI.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/OpenAI.list"
-        curl -L -o Tool-repo/Loon/Rules/Telegram.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/Telegram.list"
+        curl -L -o Tool-repo/Loon/Rules/OpenAI.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/OpenAI.list"
+        curl -L -o Tool-repo/Loon/Rules/Telegram.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Telegram.list"
         curl -L -o Tool-repo/Loon/Rules/Twitter.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Twitter.list"
         curl -L -o Tool-repo/Loon/Rules/Instagram.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Instagram.list"
         curl -L -o Tool-repo/Loon/Rules/Facebook.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Facebook.list"
@@ -366,7 +366,7 @@ jobs:
         curl -L -o Tool-repo/Loon/Rules/Ads_EasyListPrivacy.list "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/rule/Surge/easyprivacy_surge.list"
         curl -L -o Tool-repo/Loon/Rules/Ads_Dlerio.list "https://raw.githubusercontent.com/dler-io/Rules/main/Surge/Surge%203/Provider/Reject.list"
         curl -L -o Tool-repo/Loon/Rules/Ads_RuCu6.list "https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list"
-        curl -L -o Tool-repo/Loon/Rules/AdGuardChinese.list "https://raw.githubusercontent.com/Repcz/Tool/X/Surge/Rules/AdGuardChinese.list"
+        curl -L -o Tool-repo/Loon/Rules/AdGuardChinese.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/AdGuardChinese.list"
 
         
     - name: Edit Loon/Rules
