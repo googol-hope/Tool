@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202311201634
+## ! Version: 202311211509
 ## ! Title: EasyPrivacy
-## ! Last modified: 20 Nov 2023 16:34 UTC
+## ! Last modified: 21 Nov 2023 15:09 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1030,6 +1030,7 @@ HOST-SUFFIX,fujiladder.com,reject,REJECT
 HOST-SUFFIX,fumblingform.com,reject,REJECT
 HOST-SUFFIX,fumblingselection.com,reject,REJECT
 HOST-SUFFIX,functionalcrown.com,reject,REJECT
+HOST-SUFFIX,functionalfeather.com,reject,REJECT
 HOST-SUFFIX,funnyairplane.com,reject,REJECT
 HOST-SUFFIX,furryfork.com,reject,REJECT
 HOST-SUFFIX,furryhorses.com,reject,REJECT
