@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202311211509
+## ! Version: 202311221419
 ## ! Title: EasyPrivacy
-## ! Last modified: 21 Nov 2023 15:09 UTC
+## ! Last modified: 22 Nov 2023 14:19 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4044,6 +4044,7 @@ HOST-SUFFIX,metrics.spkt.io,reject,REJECT
 HOST-SUFFIX,metrics.syf.com,reject,REJECT
 HOST-SUFFIX,metrics.ted.com,reject,REJECT
 HOST-SUFFIX,metricsishare.rediff.com,reject,REJECT
+HOST-SUFFIX,mi.grubhub.com,reject,REJECT
 HOST-SUFFIX,miao.baidu.com,reject,REJECT
 HOST-SUFFIX,midas.chase.com,reject,REJECT
 HOST-SUFFIX,mixpanel-proxy.ted.com,reject,REJECT
@@ -4207,6 +4208,7 @@ HOST-SUFFIX,tags.aljazeera.com,reject,REJECT
 HOST-SUFFIX,tags.johnlewis.com,reject,REJECT
 HOST-SUFFIX,tags.stepstone.com,reject,REJECT
 HOST-SUFFIX,tao.barstoolsports.com,reject,REJECT
+HOST-SUFFIX,taplytics-umami.grubhub.com,reject,REJECT
 HOST-SUFFIX,target.nationwide.com,reject,REJECT
 HOST-SUFFIX,target.nejm.org,reject,REJECT
 HOST-SUFFIX,targeting.washpost.nile.works,reject,REJECT
@@ -21279,6 +21281,7 @@ HOST-SUFFIX,ymprove.gmx.net,reject,REJECT
 HOST-SUFFIX,ymprove.web.de,reject,REJECT
 HOST-SUFFIX,ia.ekstrabladet.dk,reject,REJECT
 HOST-SUFFIX,analytics.allovoisins.com,reject,REJECT
+HOST-SUFFIX,analytics.clubic.com,reject,REJECT
 HOST-SUFFIX,bmly.impots.gouv.fr,reject,REJECT
 HOST-SUFFIX,cdtm.cdiscount.com,reject,REJECT
 HOST-SUFFIX,compteur.developpez.com,reject,REJECT

@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202311211509
+## ! Version: 202311221419
 ## ! Title: EasyPrivacy
-## ! Last modified: 21 Nov 2023 15:09 UTC
+## ! Last modified: 22 Nov 2023 14:19 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4044,6 +4044,7 @@ DOMAIN-SUFFIX,metrics.spkt.io,extended-matching
 DOMAIN-SUFFIX,metrics.syf.com,extended-matching
 DOMAIN-SUFFIX,metrics.ted.com,extended-matching
 DOMAIN-SUFFIX,metricsishare.rediff.com,extended-matching
+DOMAIN-SUFFIX,mi.grubhub.com,extended-matching
 DOMAIN-SUFFIX,miao.baidu.com,extended-matching
 DOMAIN-SUFFIX,midas.chase.com,extended-matching
 DOMAIN-SUFFIX,mixpanel-proxy.ted.com,extended-matching
@@ -4207,6 +4208,7 @@ DOMAIN-SUFFIX,tags.aljazeera.com,extended-matching
 DOMAIN-SUFFIX,tags.johnlewis.com,extended-matching
 DOMAIN-SUFFIX,tags.stepstone.com,extended-matching
 DOMAIN-SUFFIX,tao.barstoolsports.com,extended-matching
+DOMAIN-SUFFIX,taplytics-umami.grubhub.com,extended-matching
 DOMAIN-SUFFIX,target.nationwide.com,extended-matching
 DOMAIN-SUFFIX,target.nejm.org,extended-matching
 DOMAIN-SUFFIX,targeting.washpost.nile.works,extended-matching
@@ -21279,6 +21281,7 @@ DOMAIN-SUFFIX,ymprove.gmx.net,extended-matching
 DOMAIN-SUFFIX,ymprove.web.de,extended-matching
 DOMAIN-SUFFIX,ia.ekstrabladet.dk,extended-matching
 DOMAIN-SUFFIX,analytics.allovoisins.com,extended-matching
+DOMAIN-SUFFIX,analytics.clubic.com,extended-matching
 DOMAIN-SUFFIX,bmly.impots.gouv.fr,extended-matching
 DOMAIN-SUFFIX,cdtm.cdiscount.com,extended-matching
 DOMAIN-SUFFIX,compteur.developpez.com,extended-matching
