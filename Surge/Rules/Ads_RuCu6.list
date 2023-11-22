@@ -1,4 +1,4 @@
-# 2023-11-15 09:10
+# 2023-11-22 14:40
 
 # ======= A ======= #
 # 阿里巴巴
@@ -50,8 +50,6 @@ DOMAIN,passport.bilibili.com,extended-matching
 DOMAIN,ad.cyapi.cn,extended-matching
 # 昌原云充
 DOMAIN,m.adyounger.com,extended-matching
-# ChatGPT
-DOMAIN,o33249.ingest.sentry.io,extended-matching
 # Clue 智库
 DOMAIN,api.helloclue.com,extended-matching
 DOMAIN,brahe.apptimize.com,extended-matching
@@ -75,11 +73,14 @@ DOMAIN,free-aos-cdn-image.amap.com,extended-matching
 # 工商银行 开屏广告
 DOMAIN,pageviewp.icbc.com.cn,extended-matching
 # 广告联盟
+DOMAIN,ad.zijieapi.com,extended-matching
 DOMAIN,i.snssdk.com,extended-matching
 DOMAIN,is.snssdk.com,extended-matching
-DOMAIN,mi.gdt.qq.com,extended-matching
 DOMAIN,open.e.kuaishou.com,extended-matching
 DOMAIN-SUFFIX,miaozhen.com,extended-matching
+DOMAIN-KEYWORD,-ad-sign.byteimg.com
+DOMAIN-KEYWORD,-tos.pstatp.com
+DOMAIN-KEYWORD,asiad.byteactivity
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,pangolin.snssdk.com
 DOMAIN-KEYWORD,pglstatp-toutiao
@@ -91,8 +92,7 @@ DOMAIN-SUFFIX,ehaier.com,extended-matching
 
 # ======= J ======= #
 # 建设银行
-DOMAIN,adv.ccb.com,extended-matching
-DOMAIN,imageadv.ccb.com,extended-matching
+DOMAIN-KEYWORD,adv.ccb.com
 # 京东
 DOMAIN,dns.jd.com,extended-matching
 IP-CIDR,101.124.19.122/32,no-resolve
@@ -151,27 +151,22 @@ DOMAIN-SUFFIX,shuzilm.cn,extended-matching
 # ======= T ======= #
 # 腾讯
 DOMAIN,adsmind.gdtimg.com,extended-matching
-DOMAIN,btrace.qq.com,extended-matching
-DOMAIN,btrace.video.qq.com,extended-matching
 DOMAIN,info4.video.qq.com,extended-matching
 DOMAIN,info6.video.qq.com,extended-matching
 DOMAIN,ios.video.mpush.qq.com,extended-matching
-DOMAIN,mtrace.qq.com,extended-matching
 DOMAIN,otheve.beacon.qq.com,extended-matching
-DOMAIN,p.l.qq.com,extended-matching
 DOMAIN,pgdt.gtimg.cn,extended-matching
-DOMAIN,rpt.gdt.qq.com,extended-matching
 DOMAIN,tpns.qq.com,extended-matching
-DOMAIN,tytx.m.cn.miaozhen.com,extended-matching
+DOMAIN,vv.video.qq.com,extended-matching
 DOMAIN,vv6.video.qq.com,extended-matching
-DOMAIN-SUFFIX,trace.qq.com,extended-matching
+DOMAIN-SUFFIX,gdt.qq.com,extended-matching
+DOMAIN-SUFFIX,l.qq.com,extended-matching
+DOMAIN-KEYWORD,trace.qq.com
+DOMAIN-KEYWORD,trace.video.qq.com
 IP-CIDR,47.110.187.87/32,no-resolve
-# 腾讯QQ
-DOMAIN,ipv4.gdt.qq.com,extended-matching
 
 # ======= W ======= #
 # 网易云音乐
-DOMAIN,gdt.qq.com,extended-matching
 DOMAIN,httpdns.music.163.com,extended-matching
 DOMAIN,httpdns.n.netease.com,extended-matching
 DOMAIN,iadmat.nosdn.127.net,extended-matching
@@ -230,7 +225,3 @@ DOMAIN,zxid-m.mobileservice.cn,extended-matching
 IP-CIDR,103.41.167.237/32,no-resolve
 IP-CIDR,118.89.204.198/32,no-resolve
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128,no-resolve
-# 字节跳动
-DOMAIN,ad.zijieapi.com,extended-matching
-DOMAIN-KEYWORD,asiad.byteactivity
-DOMAIN-KEYWORD,-ad-sign.byteimg.com
