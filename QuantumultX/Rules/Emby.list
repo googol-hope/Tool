@@ -1,4 +1,6 @@
 # https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
+HOST-SUFFIX,pilipiliultra.com,PROXY
+HOST-SUFFIX,pilipiliultra.top,PROXY
 HOST-SUFFIX,emby.nexitally.com,PROXY
 HOST-SUFFIX,emby.cjpc.cc,PROXY
 HOST-SUFFIX,emby.flowercloud.yt,PROXY
