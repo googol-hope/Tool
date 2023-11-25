@@ -1682,6 +1682,8 @@ DOMAIN-KEYWORD,ad-sign.byteimg.com
 
 
 # >>>>>>>>>>>>>>> ✅ 其他广告 ✅ <<<<<<<<<<<<<<
+DOMAIN-KEYWORD,huichuan-mc.sm.cn
+DOMAIN-KEYWORD,knockout
 DOMAIN-KEYWORD,extlog.snssdk.com
 # DOMAIN-KEYWORD,is.snssdk.com
 DOMAIN-KEYWORD,mobads.baidu.com
@@ -10007,6 +10009,7 @@ IP-CIDR,180.166.52.24/32
 IP-CIDR,211.161.101.106/32
 IP-CIDR,220.115.251.25/32
 IP-CIDR,222.73.156.235/32
+ip-cidr,203.107.1.1/24
 
 # > 运营商劫持
 DOMAIN-SUFFIX,189key.com,extended-matching
