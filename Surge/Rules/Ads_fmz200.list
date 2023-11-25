@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/NaiSi_01.png
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/fenliu.list
 #!tg-group：https://t.me/lanjieguanggao
-#!date：2023-11-07 19:24:00
+#!date：2023-11-25 21:24:00
 #!support：约9392行
 #!proxy-select：REJECT
 #############################################
@@ -17,6 +17,18 @@
 # 1.2.3.4/24      /24表示网络的子网掩码长度，即前24位是网络部分，后8位是主机部分。这种表示法常用于描述特定范围内的IP地址
 # 6.7.8.9/32      /32表示整个32位的IP地址都用于表示这一个地址，即单独的一个IP地址
 #############################################
+
+
+# >>>>>>>>>>>>>>> ✅ # ✅ <<<<<<<<<<<<<<
+# 广告联盟
+DOMAIN-SUFFIX,miaozhen.com,extended-matching
+DOMAIN-KEYWORD,-ad-sign.byteimg.com
+DOMAIN-KEYWORD,-tos.pstatp.com
+DOMAIN-KEYWORD,asiad.byteactivity
+DOMAIN-KEYWORD,pangolin-sdk-toutiao
+DOMAIN-KEYWORD,pangolin.snssdk.com
+DOMAIN-KEYWORD,pglstatp-toutiao
+DOMAIN-KEYWORD,video-cn.snssdk.com
 
 
 # >>>>>>>>>>>>>>> ✅ 0 ✅ <<<<<<<<<<<<<<
@@ -412,7 +424,6 @@ DOMAIN-KEYWORD,apimg.qunliao.info
 
 # > 抖音
 DOMAIN-KEYWORD,bds.snssdk.com
-DOMAIN-KEYWORD,p6-ad-sign.byteimg.com
 DOMAIN-KEYWORD,p3.pstatp.com
 
 # > 多多视频
@@ -425,8 +436,7 @@ DOMAIN,track.tiara.kakao.com,extended-matching
 # > 朵朵校友圈 微信小程序去广告
 DOMAIN-SUFFIX,ad.duoduo.link,extended-matching
 
-# > 盯盯拍
-DOMAIN,pglstatp-toutiao.com,extended-matching
+# > 盯盯拍 广告联盟已包含
 
 
 
@@ -436,8 +446,6 @@ DOMAIN,pglstatp-toutiao.com,extended-matching
 
 # >>>>>>>>>>>>>>> ✅ F ✅ <<<<<<<<<<<<<<
 # > 番茄小说
-DOMAIN,p6-ad-sign.byteimg.com,extended-matching
-DOMAIN,p9-ad-sign.byteimg.com,extended-matching
 DOMAIN-SUFFIX,byteimg.com,DIRECT,extended-matching
 DOMAIN,i.snssdk.com,extended-matching
 DOMAIN,i-lq.snssdk.com,extended-matching
@@ -456,8 +464,6 @@ DOMAIN,*default.ixigua.com,extended-matching
 DOMAIN,msync-im1-vip6-std.easemob.com,extended-matching
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,extended-matching
 DOMAIN,api.iegadp.qq.com,extended-matching
-DOMAIN,sf3-ttcdn-tos.pstatp.com,extended-matching
-DOMAIN-SUFFIX,pglstatp-toutiao.com,extended-matching
 DOMAIN-SUFFIX,byteorge.com,extended-matching
 DOMAIN-SUFFIX,bytegoofy.com,extended-matching
 DOMAIN-SUFFIX,bytedance.com,extended-matching
@@ -612,12 +618,8 @@ DOMAIN-KEYWORD,s3.pstatp.com
 DOMAIN-KEYWORD,a3.pstatp.com
 DOMAIN-KEYWORD,a3.bytecdn.cn
 # DOMAIN-KEYWORD,ichannel.snssdk.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,extended-matching
-DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,extended-matching
-DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com,extended-matching
 DOMAIN,ad.toutiao.com,extended-matching
 DOMAIN,dsp.toutiao.com,extended-matching
-DOMAIN-KEYWORD,pangolin.snssdk.com
 
 # > 京东
 DOMAIN-SUFFIX,jzt.jd.com,extended-matching
@@ -737,8 +739,7 @@ DOMAIN-SUFFIX,webstat.kuwo.cn,extended-matching
 DOMAIN-SUFFIX,mobilead.kuwo.cn,extended-matching
 DOMAIN-SUFFIX,rich.kuwo.cn,extended-matching
 
-# > 酷安
-# DOMAIN-KEYWORD,p6-be-pack-sign.pglstatp-toutiao.com
+# > 酷安 广告联盟已包含
 
 
 
@@ -901,7 +902,6 @@ DOMAIN-KEYWORD,api-access.pangolin-sdk-toutiao.com
 # DOMAIN-KEYWORD,api.ribaoapi.com
 # DOMAIN-KEYWORD,apps.bytesfield.com
 # DOMAIN-KEYWORD,bytesmanager.com
-# DOMAIN-KEYWORD,pglstatp-toutiao.com
 # DOMAIN-KEYWORD,mssdk-bu.bytedance.com
 # DOMAIN-KEYWORD,365yg.com
 # DOMAIN-KEYWORD,ppx.byteimg.com
@@ -923,7 +923,6 @@ DOMAIN,ad-cdn.qingting.fm,extended-matching
 DOMAIN,cdn-new-ad.wtzw.com,extended-matching
 DOMAIN,a-remad.qm989.com,extended-matching
 DOMAIN,mobads.baidu.com,extended-matching
-DOMAIN-SUFFIX,pglstatp-toutiao.com,extended-matching
 DOMAIN-SUFFIX,gdt.qq.com,extended-matching
 DOMAIN,qzs.gdtimg.com,extended-matching
 DOMAIN,mobads-pre-config.cdn.bcebos.com,extended-matching
@@ -1217,12 +1216,10 @@ DOMAIN-KEYWORD,clickc.admaster.com
 DOMAIN-KEYWORD,count.atm.youku.com
 DOMAIN-KEYWORD,ems.youku.com
 DOMAIN-KEYWORD,fans.m.tmall.com
-DOMAIN-KEYWORD,ktd.m.cn.miaozhen.com
 DOMAIN-KEYWORD,r1.ykimg.com
 DOMAIN-KEYWORD,v.admaster.com
 DOMAIN-KEYWORD,v2.reachmax.cn
 DOMAIN-KEYWORD,val.atm.youku.com
-DOMAIN-KEYWORD,yktd.m.cn.miaozhen.com
 DOMAIN-KEYWORD,server.m.pp.cn
 DOMAIN-KEYWORD,puds.ucweb.com
 DOMAIN-KEYWORD,wgo.mmstat.com
@@ -1271,12 +1268,10 @@ DOMAIN-SUFFIX,clickc.admaster.com.cn,extended-matching
 DOMAIN-SUFFIX,count.atm.youku.com,extended-matching
 DOMAIN-SUFFIX,ems.youku.com,extended-matching
 DOMAIN-SUFFIX,fans.m.tmall.com,extended-matching
-DOMAIN-SUFFIX,ktd.m.cn.miaozhen.com,extended-matching
 DOMAIN-SUFFIX,r1.ykimg.com,extended-matching
 DOMAIN-SUFFIX,v.admaster.com.cn,extended-matching
 DOMAIN-SUFFIX,v2.reachmax.cn,extended-matching
 DOMAIN-SUFFIX,val.atm.youku.com,extended-matching
-DOMAIN-SUFFIX,yktd.m.cn.miaozhen.com,extended-matching
 DOMAIN-SUFFIX,server.m.pp.cn,extended-matching
 DOMAIN-SUFFIX,puds.ucweb.com,extended-matching
 DOMAIN-SUFFIX,wgo.mmstat.com,extended-matching
@@ -1355,9 +1350,6 @@ DOMAIN-KEYWORD,paradisestatic.vivo.com.cn
 # >>>>>>>>>>>>>>> ✅ W ✅ <<<<<<<<<<<<<<
 # > 万能钥匙专业版 感谢#All in 梭哈分享
 DOMAIN-SUFFIX,mi.gdt.qq.com,extended-matching
-DOMAIN-SUFFIX,p9-be-pack-sign.pglstatp-toutiao.com,extended-matching
-DOMAIN-SUFFIX,p6-be-pack-sign.pglstatp-toutiao.com,extended-matching
-DOMAIN-SUFFIX,p3-be-pack-sign.pglstatp-toutiao.com,extended-matching
 
 # > 微博
 DOMAIN-KEYWORD,fastimage.uve.weibo.com
@@ -1465,18 +1457,7 @@ DOMAIN-KEYWORD,config.51y5.net
 DOMAIN-KEYWORD,static.wkanx.com
 DOMAIN-KEYWORD,config.y5en.com
 
-# > 威锋
-DOMAIN-KEYWORD,p3-be-pack-sign.pglstatp-toutiao.com
-DOMAIN-KEYWORD,sf3-be-pack.pglstatp-toutiao.com
-DOMAIN-KEYWORD,sf1-be-pack.pglstatp-toutiao.com
-DOMAIN-KEYWORD,sf1-fe-tos.pglstatp-toutiao.com
-DOMAIN-KEYWORD,sf1-ttcdn-tos.pstatp.com
-DOMAIN-KEYWORD,sf3-fe-tos.pglstatp-toutiao.com
-DOMAIN-KEYWORD,sf3-ttcdn-tos.pstatp.com
-DOMAIN-KEYWORD,sf6-fe-tos.pglstatp-toutiao.com
-DOMAIN-KEYWORD,s3-fe-scm.pglstatp-toutiao.com
-DOMAIN-KEYWORD,sf6-be-pack.pglstatp-toutiao.com
-DOMAIN-KEYWORD,p9-be-pack-sign.pglstatp-toutiao.com
+# > 威锋 广告联盟已包含
 
 
 
@@ -1637,9 +1618,7 @@ DOMAIN-SUFFIX,mdrecv.app.cntvwb.cn,extended-matching
 DOMAIN-SUFFIX,sdapprecv.app.cntvwb.cn,extended-matching
 DOMAIN-SUFFIX,vdapprecv.app.cntvwb.cn,extended-matching
 
-# > 一刻相册
-DOMAIN-KEYWORD,sf1-be-tos.pglstatp-toutiao.com
-DOMAIN-KEYWORD,sf3-fe-tos.pglstatp-toutiao.com
+# > 一刻相册 广告联盟已包含
 
 
 
@@ -1690,8 +1669,7 @@ DOMAIN-KEYWORD,client-dmp.suishenyun.cn
 DOMAIN-KEYWORD,pc.suishenyun.net
 DOMAIN-KEYWORD,v0-client-lz.rili.cn
 
-# > 招钱进宝
-DOMAIN-KEYWORD,p26-be-pack-sign.pglstatp-toutiao.com
+# > 招钱进宝 广告联盟已包含
 
 # > 真不卡
 DOMAIN-SUFFIX,ttayy.cn,extended-matching
@@ -9495,7 +9473,6 @@ DOMAIN-SUFFIX,lnk8.cn,extended-matching
 DOMAIN-SUFFIX,localytics.com,extended-matching
 DOMAIN-SUFFIX,measurementapi.com,extended-matching
 DOMAIN-SUFFIX,medialytics.com,extended-matching
-DOMAIN-SUFFIX,miaozhen.com,extended-matching
 DOMAIN-SUFFIX,mobclix.com,extended-matching
 DOMAIN-SUFFIX,mopub.com,extended-matching
 DOMAIN-SUFFIX,qchannel01.cn,extended-matching
