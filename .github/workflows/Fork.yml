@@ -176,7 +176,7 @@ jobs:
       run: |
         mkdir -p Tool-repo/Clash/Rules
         # 代理规则
-        curl -L -o Tool-repo/Clash/Rules/Emby.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Emby.list"
+        curl -L -o Tool-repo/Clash/Rules/Emby.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Clash/Rules/Emby.list"
         curl -L -o Tool-repo/Clash/Rules/Lan.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
         curl -L -o Tool-repo/Clash/Rules/Download.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Download/Download.list"
         curl -L -o Tool-repo/Clash/Rules/Apple.list "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Apple.list"
@@ -264,7 +264,7 @@ jobs:
         curl -L -o Tool-repo/QuantumultX/Rules/Epic.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Epic.list"
         curl -L -o Tool-repo/QuantumultX/Rules/Game.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Game/Game.list"
         # Emby
-        curl -L -o Tool-repo/QuantumultX/Rules/Emby.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Emby.list"
+        curl -L -o Tool-repo/QuantumultX/Rules/Emby.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Clash/Rules/Emby.list"
         # 防DNS泄漏
         curl -L -o Tool-repo/QuantumultX/Rules/Prevent_DNS_Leaks.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Prevent_DNS_Leaks.list"
         # 广告规则
@@ -338,7 +338,7 @@ jobs:
         curl -L -o Tool-repo/Loon/Rules/TestFlight.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TestFlight/TestFlight.list"
         curl -L -o Tool-repo/Loon/Rules/AppleProxy.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AppleProxy/AppleProxy.list"
         # 代理规则
-        curl -L -o Tool-repo/Loon/Rules/Emby.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Emby.list"
+        curl -L -o Tool-repo/Loon/Rules/Emby.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Clash/Rules/Emby.list"
         curl -L -o Tool-repo/Loon/Rules/Lan.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
         curl -L -o Tool-repo/Loon/Rules/OpenAI.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/OpenAI.list"
         curl -L -o Tool-repo/Loon/Rules/Telegram.list "https://raw.githubusercontent.com/googol-hope/Tool/X/Surge/Rules/Telegram.list"
