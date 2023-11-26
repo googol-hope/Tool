@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/NaiSi_01.png
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/fenliu.list
 #!tg-group：https://t.me/lanjieguanggao
-#!date：2023-11-26 10:56:00
+#!date：2023-11-26 20:56:00
 #!support：约9392行
 #!proxy-select：REJECT
 #############################################
@@ -29,6 +29,8 @@ DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,pangolin.snssdk.com
 DOMAIN-KEYWORD,pglstatp-toutiao
 DOMAIN-KEYWORD,video-cn.snssdk.com
+DOMAIN-KEYWORD,volcvod.com
+DOMAIN-KEYWORD,volceapplog.com
 
 
 # >>>>>>>>>>>>>>> ✅ 0 ✅ <<<<<<<<<<<<<<
@@ -135,8 +137,6 @@ DOMAIN,f74f7f7765f8a2f6.ngaa.net.cn,extended-matching
 DOMAIN,ef-dongfeng.tanx.com,extended-matching
 DOMAIN,iqiyim.adtrack.enlightent.cn,extended-matching
 DOMAIN,dig.bdurl.net,extended-matching
-DOMAIN,ads3-normal-lq.zijieapi.com,extended-matching
-DOMAIN,ads5-normal-lq.zijieapi.com,extended-matching
 DOMAIN,t7z.cupid.iqiyi.com,extended-matching
 DOMAIN,t7z.cupid.ptqy.gitv.tv,extended-matching
 DOMAIN-SUFFIX,cupid.iqiyi.com,extended-matching
@@ -1676,6 +1676,7 @@ DOMAIN-SUFFIX,zhengxiaoliu.top,extended-matching
 
 # > 字节跳动
 DOMAIN,ad.zijieapi.com,extended-matching
+DOMAIN-SUFFIX,-normal-lq.zijieapi.com,extended-matching
 DOMAIN-KEYWORD,ad-sign.byteimg.com
 
 
