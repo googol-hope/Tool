@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202311271510
+## ! Version: 202311281118
 ## ! Title: EasyPrivacy
-## ! Last modified: 27 Nov 2023 15:10 UTC
+## ! Last modified: 28 Nov 2023 11:18 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -487,9 +487,11 @@ DOMAIN-SUFFIX,absurdapple.com,extended-matching
 DOMAIN-SUFFIX,absurdwater.com,extended-matching
 DOMAIN-SUFFIX,acceptableauthority.com,extended-matching
 DOMAIN-SUFFIX,achieverknee.com,extended-matching
+DOMAIN-SUFFIX,acidicstraw.com,extended-matching
 DOMAIN-SUFFIX,acidpigs.com,extended-matching
 DOMAIN-SUFFIX,acousticsapparel.com,extended-matching
 DOMAIN-SUFFIX,acquireattention.com,extended-matching
+DOMAIN-SUFFIX,acridangle.com,extended-matching
 DOMAIN-SUFFIX,acridtwist.com,extended-matching
 DOMAIN-SUFFIX,actoramusement.com,extended-matching
 DOMAIN-SUFFIX,actuallysheep.com,extended-matching
@@ -504,6 +506,7 @@ DOMAIN-SUFFIX,adventurousamount.com,extended-matching
 DOMAIN-SUFFIX,advertisementafterthought.com,extended-matching
 DOMAIN-SUFFIX,afraidlanguage.com,extended-matching
 DOMAIN-SUFFIX,aftermathbrother.com,extended-matching
+DOMAIN-SUFFIX,agreeablearch.com,extended-matching
 DOMAIN-SUFFIX,agreeablestew.com,extended-matching
 DOMAIN-SUFFIX,agreeabletouch.com,extended-matching
 DOMAIN-SUFFIX,aheadday.com,extended-matching
@@ -550,6 +553,7 @@ DOMAIN-SUFFIX,ariseboundary.com,extended-matching
 DOMAIN-SUFFIX,arithmeticadjustment.com,extended-matching
 DOMAIN-SUFFIX,arizonapuzzle.com,extended-matching
 DOMAIN-SUFFIX,aromamirror.com,extended-matching
+DOMAIN-SUFFIX,aspiringapples.com,extended-matching
 DOMAIN-SUFFIX,aspiringattempt.com,extended-matching
 DOMAIN-SUFFIX,astonishingfood.com,extended-matching
 DOMAIN-SUFFIX,attractionapples.com,extended-matching
@@ -562,6 +566,7 @@ DOMAIN-SUFFIX,auspiciousyard.com,extended-matching
 DOMAIN-SUFFIX,automaticairplane.com,extended-matching
 DOMAIN-SUFFIX,automaticflock.com,extended-matching
 DOMAIN-SUFFIX,automaticside.com,extended-matching
+DOMAIN-SUFFIX,automaticturkey.com,extended-matching
 DOMAIN-SUFFIX,availablerest.com,extended-matching
 DOMAIN-SUFFIX,avalonalbum.com,extended-matching
 DOMAIN-SUFFIX,averageactivity.com,extended-matching
@@ -576,11 +581,13 @@ DOMAIN-SUFFIX,axiomaticanger.com,extended-matching
 DOMAIN-SUFFIX,azuremystique.com,extended-matching
 DOMAIN-SUFFIX,badgeboat.com,extended-matching
 DOMAIN-SUFFIX,bagbeam.com,extended-matching
+DOMAIN-SUFFIX,baitbaseball.com,extended-matching
 DOMAIN-SUFFIX,balancemailbox.com,extended-matching
 DOMAIN-SUFFIX,balloonbelieve.com,extended-matching
 DOMAIN-SUFFIX,balloonbit.com,extended-matching
 DOMAIN-SUFFIX,balloontexture.com,extended-matching
 DOMAIN-SUFFIX,bandborder.com,extended-matching
+DOMAIN-SUFFIX,barbarousbase.com,extended-matching
 DOMAIN-SUFFIX,barbarousnerve.com,extended-matching
 DOMAIN-SUFFIX,baseballbone.com,extended-matching
 DOMAIN-SUFFIX,basketballbelieve.com,extended-matching
@@ -704,6 +711,7 @@ DOMAIN-SUFFIX,cavecurtain.com,extended-matching
 DOMAIN-SUFFIX,cdnral.com,extended-matching
 DOMAIN-SUFFIX,ceciliavenus.com,extended-matching
 DOMAIN-SUFFIX,celestialspectra.com,extended-matching
+DOMAIN-SUFFIX,chaireggnog.com,extended-matching
 DOMAIN-SUFFIX,chairscrack.com,extended-matching
 DOMAIN-SUFFIX,chairsdonkey.com,extended-matching
 DOMAIN-SUFFIX,chalkoil.com,extended-matching
@@ -738,6 +746,7 @@ DOMAIN-SUFFIX,cloisteredcord.com,extended-matching
 DOMAIN-SUFFIX,cloisteredcurve.com,extended-matching
 DOMAIN-SUFFIX,cloisteredhydrant.com,extended-matching
 DOMAIN-SUFFIX,closedcows.com,extended-matching
+DOMAIN-SUFFIX,closefriction.com,extended-matching
 DOMAIN-SUFFIX,cloudsdestruction.com,extended-matching
 DOMAIN-SUFFIX,clovercabbage.com,extended-matching
 DOMAIN-SUFFIX,clumsycar.com,extended-matching
@@ -797,6 +806,7 @@ DOMAIN-SUFFIX,crashchance.com,extended-matching
 DOMAIN-SUFFIX,cratecamera.com,extended-matching
 DOMAIN-SUFFIX,crawlclocks.com,extended-matching
 DOMAIN-SUFFIX,crayoncompetition.com,extended-matching
+DOMAIN-SUFFIX,creatorcherry.com,extended-matching
 DOMAIN-SUFFIX,creditcreature.com,extended-matching
 DOMAIN-SUFFIX,crimsonmeadow.com,extended-matching
 DOMAIN-SUFFIX,critictruck.com,extended-matching
@@ -955,6 +965,7 @@ DOMAIN-SUFFIX,engineertrick.com,extended-matching
 DOMAIN-SUFFIX,enormousearth.com,extended-matching
 DOMAIN-SUFFIX,enormousfoot.com,extended-matching
 DOMAIN-SUFFIX,entertainingeyes.com,extended-matching
+DOMAIN-SUFFIX,entertainskin.com,extended-matching
 DOMAIN-SUFFIX,enthusiasticdad.com,extended-matching
 DOMAIN-SUFFIX,enthusiasticring.com,extended-matching
 DOMAIN-SUFFIX,enviousshape.com,extended-matching
@@ -973,6 +984,7 @@ DOMAIN-SUFFIX,exclusivebrass.com,extended-matching
 DOMAIN-SUFFIX,expansioneggnog.com,extended-matching
 DOMAIN-SUFFIX,experienceeggs.com,extended-matching
 DOMAIN-SUFFIX,extractobservation.com,extended-matching
+DOMAIN-SUFFIX,exuberantedge.com,extended-matching
 DOMAIN-SUFFIX,exuberanteyes.com,extended-matching
 DOMAIN-SUFFIX,exuberantsoda.com,extended-matching
 DOMAIN-SUFFIX,exultantdrop.com,extended-matching
@@ -982,6 +994,7 @@ DOMAIN-SUFFIX,fadedsnow.com,extended-matching
 DOMAIN-SUFFIX,fadewaves.com,extended-matching
 DOMAIN-SUFFIX,faintflag.com,extended-matching
 DOMAIN-SUFFIX,fairfeeling.com,extended-matching
+DOMAIN-SUFFIX,fairiesbranch.com,extended-matching
 DOMAIN-SUFFIX,fallaciousfifth.com,extended-matching
 DOMAIN-SUFFIX,falsefeet.com,extended-matching
 DOMAIN-SUFFIX,falseframe.com,extended-matching
@@ -1029,6 +1042,7 @@ DOMAIN-SUFFIX,forecasttiger.com,extended-matching
 DOMAIN-SUFFIX,foregoingfowl.com,extended-matching
 DOMAIN-SUFFIX,foretellfifth.com,extended-matching
 DOMAIN-SUFFIX,forgetfulflowers.com,extended-matching
+DOMAIN-SUFFIX,forgetfulsnail.com,extended-matching
 DOMAIN-SUFFIX,fortunatemark.com,extended-matching
 DOMAIN-SUFFIX,fourarithmetic.com,extended-matching
 DOMAIN-SUFFIX,fourfork.com,extended-matching
@@ -1065,6 +1079,7 @@ DOMAIN-SUFFIX,fuzzyweather.com,extended-matching
 DOMAIN-SUFFIX,gammamaximum.com,extended-matching
 DOMAIN-SUFFIX,gaudybeginner.com,extended-matching
 DOMAIN-SUFFIX,generalprose.com,extended-matching
+DOMAIN-SUFFIX,gentlemoonlight.com,extended-matching
 DOMAIN-SUFFIX,giddycoat.com,extended-matching
 DOMAIN-SUFFIX,giftedglue.com,extended-matching
 DOMAIN-SUFFIX,giftedthumb.com,extended-matching
@@ -1083,6 +1098,7 @@ DOMAIN-SUFFIX,gondolagnome.com,extended-matching
 DOMAIN-SUFFIX,gorgeousedge.com,extended-matching
 DOMAIN-SUFFIX,gorgeousground.com,extended-matching
 DOMAIN-SUFFIX,gracefulsock.com,extended-matching
+DOMAIN-SUFFIX,grainmass.com,extended-matching
 DOMAIN-SUFFIX,grandfatherguitar.com,extended-matching
 DOMAIN-SUFFIX,grandiosefire.com,extended-matching
 DOMAIN-SUFFIX,grandioseguide.com,extended-matching
@@ -1106,24 +1122,29 @@ DOMAIN-SUFFIX,guidecent.com,extended-matching
 DOMAIN-SUFFIX,guiltlessbasketball.com,extended-matching
 DOMAIN-SUFFIX,guitargrandmother.com,extended-matching
 DOMAIN-SUFFIX,gulliblecamp.com,extended-matching
+DOMAIN-SUFFIX,gulliblegrip.com,extended-matching
 DOMAIN-SUFFIX,gullibleguitar.com,extended-matching
 DOMAIN-SUFFIX,h78xb.pw,extended-matching
 DOMAIN-SUFFIX,habitualhumor.com,extended-matching
+DOMAIN-SUFFIX,hallowedinvention.com,extended-matching
 DOMAIN-SUFFIX,haltingbadge.com,extended-matching
 DOMAIN-SUFFIX,haltingdivision.com,extended-matching
 DOMAIN-SUFFIX,haltinggold.com,extended-matching
 DOMAIN-SUFFIX,hammerhearing.com,extended-matching
 DOMAIN-SUFFIX,handleteeth.com,extended-matching
+DOMAIN-SUFFIX,handnorth.com,extended-matching
 DOMAIN-SUFFIX,handsomehose.com,extended-matching
 DOMAIN-SUFFIX,handsomeindustry.com,extended-matching
 DOMAIN-SUFFIX,handsomelyhealth.com,extended-matching
 DOMAIN-SUFFIX,handsomeyam.com,extended-matching
 DOMAIN-SUFFIX,handyfield.com,extended-matching
 DOMAIN-SUFFIX,handyfireman.com,extended-matching
+DOMAIN-SUFFIX,haplessland.com,extended-matching
 DOMAIN-SUFFIX,happenhistory.com,extended-matching
 DOMAIN-SUFFIX,harborcaption.com,extended-matching
 DOMAIN-SUFFIX,harborcub.com,extended-matching
 DOMAIN-SUFFIX,hardtofindmilk.com,extended-matching
+DOMAIN-SUFFIX,harmonywing.com,extended-matching
 DOMAIN-SUFFIX,hatefulrequest.com,extended-matching
 DOMAIN-SUFFIX,hauntlist.com,extended-matching
 DOMAIN-SUFFIX,headydegree.com,extended-matching
@@ -1154,6 +1175,7 @@ DOMAIN-SUFFIX,honorableland.com,extended-matching
 DOMAIN-SUFFIX,hoplaugh.com,extended-matching
 DOMAIN-SUFFIX,hosenews.com,extended-matching
 DOMAIN-SUFFIX,hospitablehall.com,extended-matching
+DOMAIN-SUFFIX,hospitablehat.com,extended-matching
 DOMAIN-SUFFIX,hothydrant.com,extended-matching
 DOMAIN-SUFFIX,humdrumhat.com,extended-matching
 DOMAIN-SUFFIX,humdrumhobbies.com,extended-matching
@@ -1166,6 +1188,7 @@ DOMAIN-SUFFIX,hystericalhelp.com,extended-matching
 DOMAIN-SUFFIX,i9w8p.pw,extended-matching
 DOMAIN-SUFFIX,icebergindigo.com,extended-matching
 DOMAIN-SUFFIX,illfatedsnail.com,extended-matching
+DOMAIN-SUFFIX,illinvention.com,extended-matching
 DOMAIN-SUFFIX,illustriousoatmeal.com,extended-matching
 DOMAIN-SUFFIX,immensehoney.com,extended-matching
 DOMAIN-SUFFIX,imminentshake.com,extended-matching
@@ -1236,6 +1259,7 @@ DOMAIN-SUFFIX,lettucelimit.com,extended-matching
 DOMAIN-SUFFIX,levelbehavior.com,extended-matching
 DOMAIN-SUFFIX,liftedknowledge.com,extended-matching
 DOMAIN-SUFFIX,lightcushion.com,extended-matching
+DOMAIN-SUFFIX,lightenafterthought.com,extended-matching
 DOMAIN-SUFFIX,literatelight.com,extended-matching
 DOMAIN-SUFFIX,livelumber.com,extended-matching
 DOMAIN-SUFFIX,livelylaugh.com,extended-matching
@@ -1290,9 +1314,11 @@ DOMAIN-SUFFIX,meddleplant.com,extended-matching
 DOMAIN-SUFFIX,mediatescarf.com,extended-matching
 DOMAIN-SUFFIX,medusasailor.com,extended-matching
 DOMAIN-SUFFIX,mellowbike.com,extended-matching
+DOMAIN-SUFFIX,mellowmailbox.com,extended-matching
 DOMAIN-SUFFIX,melodicminute.com,extended-matching
 DOMAIN-SUFFIX,meltmilk.com,extended-matching
 DOMAIN-SUFFIX,memopilot.com,extended-matching
+DOMAIN-SUFFIX,memorizeline.com,extended-matching
 DOMAIN-SUFFIX,memorizeneck.com,extended-matching
 DOMAIN-SUFFIX,memorycobweb.com,extended-matching
 DOMAIN-SUFFIX,mentorsticks.com,extended-matching
@@ -1327,6 +1353,7 @@ DOMAIN-SUFFIX,mundanenail.com,extended-matching
 DOMAIN-SUFFIX,mundanepollution.com,extended-matching
 DOMAIN-SUFFIX,murkymeeting.com,extended-matching
 DOMAIN-SUFFIX,muteknife.com,extended-matching
+DOMAIN-SUFFIX,mutemailbox.com,extended-matching
 DOMAIN-SUFFIX,muterange.com,extended-matching
 DOMAIN-SUFFIX,mysteriousmonth.com,extended-matching
 DOMAIN-SUFFIX,nappyattack.com,extended-matching
@@ -1617,6 +1644,7 @@ DOMAIN-SUFFIX,scaredsnakes.com,extended-matching
 DOMAIN-SUFFIX,scaredsong.com,extended-matching
 DOMAIN-SUFFIX,scaredstory.com,extended-matching
 DOMAIN-SUFFIX,scaredswing.com,extended-matching
+DOMAIN-SUFFIX,scarefowl.com,extended-matching
 DOMAIN-SUFFIX,scarfsmash.com,extended-matching
 DOMAIN-SUFFIX,scarfthought.com,extended-matching
 DOMAIN-SUFFIX,scatteredheat.com,extended-matching
@@ -1651,6 +1679,7 @@ DOMAIN-SUFFIX,selfishsnake.com,extended-matching
 DOMAIN-SUFFIX,sensorsmile.com,extended-matching
 DOMAIN-SUFFIX,separateshow.com,extended-matching
 DOMAIN-SUFFIX,separatesilver.com,extended-matching
+DOMAIN-SUFFIX,separatesort.com,extended-matching
 DOMAIN-SUFFIX,seraphichorizon.com,extended-matching
 DOMAIN-SUFFIX,serendipityecho.com,extended-matching
 DOMAIN-SUFFIX,serenecascade.com,extended-matching
@@ -1665,6 +1694,7 @@ DOMAIN-SUFFIX,shakysurprise.com,extended-matching
 DOMAIN-SUFFIX,shakytaste.com,extended-matching
 DOMAIN-SUFFIX,shallowblade.com,extended-matching
 DOMAIN-SUFFIX,shallowsmile.com,extended-matching
+DOMAIN-SUFFIX,shapecomb.com,extended-matching
 DOMAIN-SUFFIX,sharppatch.com,extended-matching
 DOMAIN-SUFFIX,sheltercellar.com,extended-matching
 DOMAIN-SUFFIX,shesubscriptions.com,extended-matching
@@ -1783,6 +1813,7 @@ DOMAIN-SUFFIX,spottedsmile.com,extended-matching
 DOMAIN-SUFFIX,spottedsnow.com,extended-matching
 DOMAIN-SUFFIX,springaftermath.com,extended-matching
 DOMAIN-SUFFIX,springsister.com,extended-matching
+DOMAIN-SUFFIX,springsnails.com,extended-matching
 DOMAIN-SUFFIX,spuriousbase.com,extended-matching
 DOMAIN-SUFFIX,spurioussquirrel.com,extended-matching
 DOMAIN-SUFFIX,spurioussteam.com,extended-matching
@@ -1854,6 +1885,7 @@ DOMAIN-SUFFIX,stupendoussleet.com,extended-matching
 DOMAIN-SUFFIX,stupendoussnow.com,extended-matching
 DOMAIN-SUFFIX,stupidscene.com,extended-matching
 DOMAIN-SUFFIX,stupidsnake.com,extended-matching
+DOMAIN-SUFFIX,sturdysnail.com,extended-matching
 DOMAIN-SUFFIX,subsequentsand.com,extended-matching
 DOMAIN-SUFFIX,subsequentstew.com,extended-matching
 DOMAIN-SUFFIX,subsequentswim.com,extended-matching
@@ -1893,6 +1925,7 @@ DOMAIN-SUFFIX,talentedsteel.com,extended-matching
 DOMAIN-SUFFIX,talltouch.com,extended-matching
 DOMAIN-SUFFIX,tangibleteam.com,extended-matching
 DOMAIN-SUFFIX,tangyamount.com,extended-matching
+DOMAIN-SUFFIX,tangycover.com,extended-matching
 DOMAIN-SUFFIX,tarttendency.com,extended-matching
 DOMAIN-SUFFIX,tastefulsongs.com,extended-matching
 DOMAIN-SUFFIX,tastelesstoes.com,extended-matching
@@ -1995,6 +2028,7 @@ DOMAIN-SUFFIX,uncoveredcircle.com,extended-matching
 DOMAIN-SUFFIX,uncoveredexpert.com,extended-matching
 DOMAIN-SUFFIX,understoodocean.com,extended-matching
 DOMAIN-SUFFIX,unequalbrake.com,extended-matching
+DOMAIN-SUFFIX,unequaltrail.com,extended-matching
 DOMAIN-SUFFIX,unevenstring.com,extended-matching
 DOMAIN-SUFFIX,unifyaddition.com,extended-matching
 DOMAIN-SUFFIX,uninterestedquarter.com,extended-matching
@@ -2007,6 +2041,7 @@ DOMAIN-SUFFIX,unusedquestion.com,extended-matching
 DOMAIN-SUFFIX,unusedstone.com,extended-matching
 DOMAIN-SUFFIX,unusualtitle.com,extended-matching
 DOMAIN-SUFFIX,unwieldyhealth.com,extended-matching
+DOMAIN-SUFFIX,unwieldyimpulse.com,extended-matching
 DOMAIN-SUFFIX,unwieldyplastic.com,extended-matching
 DOMAIN-SUFFIX,unwrittenspot.com,extended-matching
 DOMAIN-SUFFIX,uppitytime.com,extended-matching
@@ -2048,6 +2083,7 @@ DOMAIN-SUFFIX,wellgroomedapparel.com,extended-matching
 DOMAIN-SUFFIX,wellgroomedbat.com,extended-matching
 DOMAIN-SUFFIX,wellgroomedhydrant.com,extended-matching
 DOMAIN-SUFFIX,wellmadefrog.com,extended-matching
+DOMAIN-SUFFIX,whimsicalgrove.com,extended-matching
 DOMAIN-SUFFIX,whineattempt.com,extended-matching
 DOMAIN-SUFFIX,whirlwealth.com,extended-matching
 DOMAIN-SUFFIX,whiskyqueue.com,extended-matching
