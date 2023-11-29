@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202311281118
+## ! Version: 202311291401
 ## ! Title: EasyPrivacy
-## ! Last modified: 28 Nov 2023 11:18 UTC
+## ! Last modified: 29 Nov 2023 14:01 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3569,7 +3569,6 @@ HOST-SUFFIX,trkr.shoppingminds.net,reject,REJECT
 HOST-SUFFIX,dnt-userreport.com,reject,REJECT
 HOST-SUFFIX,tags.op-palvelut.fi,reject,REJECT
 HOST-SUFFIX,links.boom.ge,reject,REJECT
-HOST-SUFFIX,analytics.skroutz.gr,reject,REJECT
 HOST-SUFFIX,heartbeat.pmd.444.hu,reject,REJECT
 HOST-SUFFIX,pixel.barion.com,reject,REJECT
 HOST-SUFFIX,rum.marquardmedia.hu,reject,REJECT
@@ -4259,6 +4258,7 @@ HOST-SUFFIX,stategg.cdngeek.com,reject,REJECT
 HOST-SUFFIX,statistics.streamdav.com,reject,REJECT
 HOST-SUFFIX,stats.aerotime.aero,reject,REJECT
 HOST-SUFFIX,stats.calcalist.co.il,reject,REJECT
+HOST-SUFFIX,stats.codeur.com,reject,REJECT
 HOST-SUFFIX,stats.davidickedelivery.com,reject,REJECT
 HOST-SUFFIX,stats.gateio.ch,reject,REJECT
 HOST-SUFFIX,stats.ibtimes.co.in,reject,REJECT
