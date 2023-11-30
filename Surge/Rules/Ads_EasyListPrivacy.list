@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202311291401
+## ! Version: 202311301520
 ## ! Title: EasyPrivacy
-## ! Last modified: 29 Nov 2023 14:01 UTC
+## ! Last modified: 30 Nov 2023 15:20 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -674,6 +674,7 @@ DOMAIN-SUFFIX,bustlingbook.com,extended-matching
 DOMAIN-SUFFIX,butterbulb.com,extended-matching
 DOMAIN-SUFFIX,butterburst.com,extended-matching
 DOMAIN-SUFFIX,buttonladybug.com,extended-matching
+DOMAIN-SUFFIX,cabledemand.com,extended-matching
 DOMAIN-SUFFIX,calculatingcircle.com,extended-matching
 DOMAIN-SUFFIX,calculatingtoothbrush.com,extended-matching
 DOMAIN-SUFFIX,calculatorcamera.com,extended-matching
@@ -981,6 +982,7 @@ DOMAIN-SUFFIX,exampleshake.com,extended-matching
 DOMAIN-SUFFIX,exchangedetail.com,extended-matching
 DOMAIN-SUFFIX,excitingtub.com,extended-matching
 DOMAIN-SUFFIX,exclusivebrass.com,extended-matching
+DOMAIN-SUFFIX,exhibitsneeze.com,extended-matching
 DOMAIN-SUFFIX,expansioneggnog.com,extended-matching
 DOMAIN-SUFFIX,experienceeggs.com,extended-matching
 DOMAIN-SUFFIX,extractobservation.com,extended-matching
@@ -1076,6 +1078,7 @@ DOMAIN-SUFFIX,fuzzybasketball.com,extended-matching
 DOMAIN-SUFFIX,fuzzyerror.com,extended-matching
 DOMAIN-SUFFIX,fuzzyflavor.com,extended-matching
 DOMAIN-SUFFIX,fuzzyweather.com,extended-matching
+DOMAIN-SUFFIX,fvl1f.pw,extended-matching
 DOMAIN-SUFFIX,gammamaximum.com,extended-matching
 DOMAIN-SUFFIX,gaudybeginner.com,extended-matching
 DOMAIN-SUFFIX,generalprose.com,extended-matching
@@ -1245,6 +1248,7 @@ DOMAIN-SUFFIX,lagoonolivia.com,extended-matching
 DOMAIN-SUFFIX,lameletters.com,extended-matching
 DOMAIN-SUFFIX,lamplow.com,extended-matching
 DOMAIN-SUFFIX,languagelake.com,extended-matching
+DOMAIN-SUFFIX,largebrass.com,extended-matching
 DOMAIN-SUFFIX,laughablecopper.com,extended-matching
 DOMAIN-SUFFIX,laughablelizards.com,extended-matching
 DOMAIN-SUFFIX,laughcloth.com,extended-matching
@@ -1468,6 +1472,7 @@ DOMAIN-SUFFIX,pointlesspocket.com,extended-matching
 DOMAIN-SUFFIX,pointlessprofit.com,extended-matching
 DOMAIN-SUFFIX,pointlessrifle.com,extended-matching
 DOMAIN-SUFFIX,poisedpig.com,extended-matching
+DOMAIN-SUFFIX,polarismagnet.com,extended-matching
 DOMAIN-SUFFIX,politegoldfish.com,extended-matching
 DOMAIN-SUFFIX,politeplanes.com,extended-matching
 DOMAIN-SUFFIX,politicalporter.com,extended-matching
@@ -1654,6 +1659,7 @@ DOMAIN-SUFFIX,scientificsneeze.com,extended-matching
 DOMAIN-SUFFIX,scintillatingscissors.com,extended-matching
 DOMAIN-SUFFIX,scintillatingsilver.com,extended-matching
 DOMAIN-SUFFIX,scintillatingspace.com,extended-matching
+DOMAIN-SUFFIX,scissorsstatement.com,extended-matching
 DOMAIN-SUFFIX,scrapesleep.com,extended-matching
 DOMAIN-SUFFIX,scratchsofa.com,extended-matching
 DOMAIN-SUFFIX,screechingfurniture.com,extended-matching
@@ -1919,6 +1925,7 @@ DOMAIN-SUFFIX,swingslip.com,extended-matching
 DOMAIN-SUFFIX,swordgoose.com,extended-matching
 DOMAIN-SUFFIX,symbolizebeast.com,extended-matching
 DOMAIN-SUFFIX,synonymousrule.com,extended-matching
+DOMAIN-SUFFIX,synonymoussticks.com,extended-matching
 DOMAIN-SUFFIX,synthesizespoon.com,extended-matching
 DOMAIN-SUFFIX,systemizecoat.com,extended-matching
 DOMAIN-SUFFIX,talentedsteel.com,extended-matching
@@ -1997,6 +2004,7 @@ DOMAIN-SUFFIX,tranquilside.com,extended-matching
 DOMAIN-SUFFIX,translateoatmeal.com,extended-matching
 DOMAIN-SUFFIX,trappush.com,extended-matching
 DOMAIN-SUFFIX,trapteaching.com,extended-matching
+DOMAIN-SUFFIX,traytouch.com,extended-matching
 DOMAIN-SUFFIX,treadbun.com,extended-matching
 DOMAIN-SUFFIX,tremendousearthquake.com,extended-matching
 DOMAIN-SUFFIX,tremendousplastic.com,extended-matching
@@ -2066,6 +2074,7 @@ DOMAIN-SUFFIX,voicelessvein.com,extended-matching
 DOMAIN-SUFFIX,voicevegetable.com,extended-matching
 DOMAIN-SUFFIX,volatileprofit.com,extended-matching
 DOMAIN-SUFFIX,volatilerainstorm.com,extended-matching
+DOMAIN-SUFFIX,volatilevessel.com,extended-matching
 DOMAIN-SUFFIX,voraciousgrip.com,extended-matching
 DOMAIN-SUFFIX,voyagepotato.com,extended-matching
 DOMAIN-SUFFIX,vq1qi.pw,extended-matching
@@ -4266,6 +4275,7 @@ DOMAIN-SUFFIX,stats.ibtimes.sg,extended-matching
 DOMAIN-SUFFIX,stats.justpaste.it,extended-matching
 DOMAIN-SUFFIX,stats.newsweek.com,extended-matching
 DOMAIN-SUFFIX,stats.pstream.net,extended-matching
+DOMAIN-SUFFIX,stats.qwant.com,extended-matching
 DOMAIN-SUFFIX,stats.sandberg.world,extended-matching
 DOMAIN-SUFFIX,stats.searchftps.net,extended-matching
 DOMAIN-SUFFIX,stats.suenicholls.com,extended-matching
