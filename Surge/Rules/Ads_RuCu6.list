@@ -1,4 +1,4 @@
-# 2023-11-26 07:25
+# 2023-12-01 22:25
 
 # ======= A ======= #
 # 阿里巴巴
@@ -37,13 +37,9 @@ DOMAIN-SUFFIX,pos.baidu.com,extended-matching
 # 百度地图
 DOMAIN,afd.baidu.com,extended-matching
 DOMAIN,afdconf.baidu.com,extended-matching
-DOMAIN,httpdns.baidubce.com,extended-matching
 DOMAIN,lc.map.baidu.com,extended-matching
 # 百度贴吧
 IP-CIDR,180.76.76.200/32,no-resolve
-# 哔哩哔哩
-DOMAIN,mall.bilibili.com,extended-matching
-DOMAIN,passport.bilibili.com,extended-matching
 
 # ======= C ======= #
 # 彩云天气
@@ -89,6 +85,9 @@ DOMAIN-KEYWORD,video-cn.snssdk.com
 # ======= H ======= #
 # 海尔智家
 DOMAIN-SUFFIX,ehaier.com,extended-matching
+# httpdns
+DOMAIN-KEYWORD,httpdns.
+DOMAIN-KEYWORD,httpdns-
 
 # ======= J ======= #
 # 建设银行
@@ -147,6 +146,8 @@ DOMAIN,sin3-ib.adnxs.com,extended-matching
 DOMAIN,api.zuihuimai.com,extended-matching
 # 数字联盟
 DOMAIN-SUFFIX,shuzilm.cn,extended-matching
+# Speedtest
+DOMAIN-SUFFIX,ad.gt,extended-matching
 
 # ======= T ======= #
 # 腾讯
@@ -167,8 +168,6 @@ IP-CIDR,47.110.187.87/32,no-resolve
 
 # ======= W ======= #
 # 网易云音乐
-DOMAIN,httpdns.music.163.com,extended-matching
-DOMAIN,httpdns.n.netease.com,extended-matching
 DOMAIN,iadmat.nosdn.127.net,extended-matching
 DOMAIN,iadmatapk.nosdn.127.net,extended-matching
 DOMAIN,iadmusicmat.music.126.net,extended-matching
@@ -194,7 +193,6 @@ DOMAIN,amdc.m.youku.com,extended-matching
 DOMAIN,api.sm.cn,extended-matching
 DOMAIN,apiv4-iyes.youku.com,extended-matching
 DOMAIN,baichuan-sdk.alicdn.com,extended-matching
-DOMAIN,httpdns.alicdn.com,extended-matching
 DOMAIN,huichuan-mc.sm.cn,extended-matching
 DOMAIN,huichuan.sm.cn,extended-matching
 DOMAIN,iyes.youku.com,extended-matching
