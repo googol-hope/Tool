@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312021137
+## ! Version: 202312031309
 ## ! Title: EasyPrivacy
-## ! Last modified: 02 Dec 2023 11:37 UTC
+## ! Last modified: 03 Dec 2023 13:09 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -120,6 +120,7 @@ HOST-SUFFIX,dwin2.com,reject,REJECT
 HOST-SUFFIX,e1e.io,reject,REJECT
 HOST-SUFFIX,eagle-insight.com,reject,REJECT
 HOST-SUFFIX,easycompute.systems,reject,REJECT
+HOST-SUFFIX,ecn-ldr.de,reject,REJECT
 HOST-SUFFIX,ed-sys.net,reject,REJECT
 HOST-SUFFIX,efreecode.com,reject,REJECT
 HOST-SUFFIX,egoi.site,reject,REJECT
@@ -235,6 +236,7 @@ HOST-SUFFIX,mdhv.io,reject,REJECT
 HOST-SUFFIX,mediamathrdrt.com,reject,REJECT
 HOST-SUFFIX,mirabelanalytics.com,reject,REJECT
 HOST-SUFFIX,mitour.de,reject,REJECT
+HOST-SUFFIX,mitself.net,reject,REJECT
 HOST-SUFFIX,ml-sys.xyz,reject,REJECT
 HOST-SUFFIX,mm-api.agency,reject,REJECT
 HOST-SUFFIX,mobildev.in,reject,REJECT
@@ -1727,6 +1729,7 @@ HOST-SUFFIX,silkysquirrel.com,reject,REJECT
 HOST-SUFFIX,sillyscrew.com,reject,REJECT
 HOST-SUFFIX,simplesidewalk.com,reject,REJECT
 HOST-SUFFIX,simplisticstem.com,reject,REJECT
+HOST-SUFFIX,simulateswing.com,reject,REJECT
 HOST-SUFFIX,sincerebuffalo.com,reject,REJECT
 HOST-SUFFIX,sincereseashore.com,reject,REJECT
 HOST-SUFFIX,sinceresubstance.com,reject,REJECT
@@ -2212,6 +2215,7 @@ HOST-SUFFIX,analytics.kaltura.com,reject,REJECT
 HOST-SUFFIX,analytics.kapost.com,reject,REJECT
 HOST-SUFFIX,analytics.klickly.com,reject,REJECT
 HOST-SUFFIX,analytics.kongregate.io,reject,REJECT
+HOST-SUFFIX,analytics.lemoolah.com,reject,REJECT
 HOST-SUFFIX,analytics.live.com,reject,REJECT
 HOST-SUFFIX,analytics.livestream.com,reject,REJECT
 HOST-SUFFIX,analytics.logsss.com,reject,REJECT
@@ -3182,6 +3186,7 @@ HOST-SUFFIX,uid.mediacorp.sg,reject,REJECT
 HOST-SUFFIX,uim.tifbs.net,reject,REJECT
 HOST-SUFFIX,units.knotch.it,reject,REJECT
 HOST-SUFFIX,us-central1-markuphero.cloudfunctions.net,reject,REJECT
+HOST-SUFFIX,usaoptimizedby.increasingly.co,reject,REJECT
 HOST-SUFFIX,user.userguiding.com,reject,REJECT
 HOST-SUFFIX,userexperience.thehut.net,reject,REJECT
 HOST-SUFFIX,usersegment.wpdigital.net,reject,REJECT
@@ -3374,6 +3379,7 @@ HOST-SUFFIX,trusted-web-seal.cybertrust.ne.jp,reject,REJECT
 HOST-SUFFIX,advantage.digitalsunray.com,reject,REJECT
 HOST-SUFFIX,analytics.audionow.de,reject,REJECT
 HOST-SUFFIX,analytics.gameforge.de,reject,REJECT
+HOST-SUFFIX,analytics.idfnet.net,reject,REJECT
 HOST-SUFFIX,analytics.media-proweb.de,reject,REJECT
 HOST-SUFFIX,artemis-cdn.ocdn.eu,reject,REJECT
 HOST-SUFFIX,beagle.prod.tda.link,reject,REJECT
@@ -4067,6 +4073,7 @@ HOST-SUFFIX,fpt.microsoft.com,reject,REJECT
 HOST-SUFFIX,fresnel-events.vimeocdn.com,reject,REJECT
 HOST-SUFFIX,g.ign.com,reject,REJECT
 HOST-SUFFIX,g.mashable.com,reject,REJECT
+HOST-SUFFIX,g.newtimes.com,reject,REJECT
 HOST-SUFFIX,g.pcmag.com,reject,REJECT
 HOST-SUFFIX,ga.dx.com,reject,REJECT
 HOST-SUFFIX,ga.nsimg.net,reject,REJECT
@@ -4242,6 +4249,7 @@ HOST-SUFFIX,rvo-cohesion.healthline.com,reject,REJECT
 HOST-SUFFIX,s.infogram.com,reject,REJECT
 HOST-SUFFIX,s.wayfair.com,reject,REJECT
 HOST-SUFFIX,saa.insideedition.com,reject,REJECT
+HOST-SUFFIX,sapphire-api.target.com,reject,REJECT
 HOST-SUFFIX,search.anonymous.ads.brave.com,reject,REJECT
 HOST-SUFFIX,shopmetric.rediff.com,reject,REJECT
 HOST-SUFFIX,sid.nordstrom.com,reject,REJECT
@@ -4318,6 +4326,7 @@ HOST-SUFFIX,tags.johnlewis.com,reject,REJECT
 HOST-SUFFIX,tags.stepstone.com,reject,REJECT
 HOST-SUFFIX,tao.barstoolsports.com,reject,REJECT
 HOST-SUFFIX,taplytics-umami.grubhub.com,reject,REJECT
+HOST-SUFFIX,target-us.samsung.com,reject,REJECT
 HOST-SUFFIX,target.nationwide.com,reject,REJECT
 HOST-SUFFIX,target.nejm.org,reject,REJECT
 HOST-SUFFIX,targeting.washpost.nile.works,reject,REJECT

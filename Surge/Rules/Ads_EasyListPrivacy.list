@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312021137
+## ! Version: 202312031309
 ## ! Title: EasyPrivacy
-## ! Last modified: 02 Dec 2023 11:37 UTC
+## ! Last modified: 03 Dec 2023 13:09 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -120,6 +120,7 @@ DOMAIN-SUFFIX,dwin2.com,extended-matching
 DOMAIN-SUFFIX,e1e.io,extended-matching
 DOMAIN-SUFFIX,eagle-insight.com,extended-matching
 DOMAIN-SUFFIX,easycompute.systems,extended-matching
+DOMAIN-SUFFIX,ecn-ldr.de,extended-matching
 DOMAIN-SUFFIX,ed-sys.net,extended-matching
 DOMAIN-SUFFIX,efreecode.com,extended-matching
 DOMAIN-SUFFIX,egoi.site,extended-matching
@@ -235,6 +236,7 @@ DOMAIN-SUFFIX,mdhv.io,extended-matching
 DOMAIN-SUFFIX,mediamathrdrt.com,extended-matching
 DOMAIN-SUFFIX,mirabelanalytics.com,extended-matching
 DOMAIN-SUFFIX,mitour.de,extended-matching
+DOMAIN-SUFFIX,mitself.net,extended-matching
 DOMAIN-SUFFIX,ml-sys.xyz,extended-matching
 DOMAIN-SUFFIX,mm-api.agency,extended-matching
 DOMAIN-SUFFIX,mobildev.in,extended-matching
@@ -1727,6 +1729,7 @@ DOMAIN-SUFFIX,silkysquirrel.com,extended-matching
 DOMAIN-SUFFIX,sillyscrew.com,extended-matching
 DOMAIN-SUFFIX,simplesidewalk.com,extended-matching
 DOMAIN-SUFFIX,simplisticstem.com,extended-matching
+DOMAIN-SUFFIX,simulateswing.com,extended-matching
 DOMAIN-SUFFIX,sincerebuffalo.com,extended-matching
 DOMAIN-SUFFIX,sincereseashore.com,extended-matching
 DOMAIN-SUFFIX,sinceresubstance.com,extended-matching
@@ -2212,6 +2215,7 @@ DOMAIN-SUFFIX,analytics.kaltura.com,extended-matching
 DOMAIN-SUFFIX,analytics.kapost.com,extended-matching
 DOMAIN-SUFFIX,analytics.klickly.com,extended-matching
 DOMAIN-SUFFIX,analytics.kongregate.io,extended-matching
+DOMAIN-SUFFIX,analytics.lemoolah.com,extended-matching
 DOMAIN-SUFFIX,analytics.live.com,extended-matching
 DOMAIN-SUFFIX,analytics.livestream.com,extended-matching
 DOMAIN-SUFFIX,analytics.logsss.com,extended-matching
@@ -3182,6 +3186,7 @@ DOMAIN-SUFFIX,uid.mediacorp.sg,extended-matching
 DOMAIN-SUFFIX,uim.tifbs.net,extended-matching
 DOMAIN-SUFFIX,units.knotch.it,extended-matching
 DOMAIN-SUFFIX,us-central1-markuphero.cloudfunctions.net,extended-matching
+DOMAIN-SUFFIX,usaoptimizedby.increasingly.co,extended-matching
 DOMAIN-SUFFIX,user.userguiding.com,extended-matching
 DOMAIN-SUFFIX,userexperience.thehut.net,extended-matching
 DOMAIN-SUFFIX,usersegment.wpdigital.net,extended-matching
@@ -3374,6 +3379,7 @@ DOMAIN-SUFFIX,trusted-web-seal.cybertrust.ne.jp,extended-matching
 DOMAIN-SUFFIX,advantage.digitalsunray.com,extended-matching
 DOMAIN-SUFFIX,analytics.audionow.de,extended-matching
 DOMAIN-SUFFIX,analytics.gameforge.de,extended-matching
+DOMAIN-SUFFIX,analytics.idfnet.net,extended-matching
 DOMAIN-SUFFIX,analytics.media-proweb.de,extended-matching
 DOMAIN-SUFFIX,artemis-cdn.ocdn.eu,extended-matching
 DOMAIN-SUFFIX,beagle.prod.tda.link,extended-matching
@@ -4067,6 +4073,7 @@ DOMAIN-SUFFIX,fpt.microsoft.com,extended-matching
 DOMAIN-SUFFIX,fresnel-events.vimeocdn.com,extended-matching
 DOMAIN-SUFFIX,g.ign.com,extended-matching
 DOMAIN-SUFFIX,g.mashable.com,extended-matching
+DOMAIN-SUFFIX,g.newtimes.com,extended-matching
 DOMAIN-SUFFIX,g.pcmag.com,extended-matching
 DOMAIN-SUFFIX,ga.dx.com,extended-matching
 DOMAIN-SUFFIX,ga.nsimg.net,extended-matching
@@ -4242,6 +4249,7 @@ DOMAIN-SUFFIX,rvo-cohesion.healthline.com,extended-matching
 DOMAIN-SUFFIX,s.infogram.com,extended-matching
 DOMAIN-SUFFIX,s.wayfair.com,extended-matching
 DOMAIN-SUFFIX,saa.insideedition.com,extended-matching
+DOMAIN-SUFFIX,sapphire-api.target.com,extended-matching
 DOMAIN-SUFFIX,search.anonymous.ads.brave.com,extended-matching
 DOMAIN-SUFFIX,shopmetric.rediff.com,extended-matching
 DOMAIN-SUFFIX,sid.nordstrom.com,extended-matching
@@ -4318,6 +4326,7 @@ DOMAIN-SUFFIX,tags.johnlewis.com,extended-matching
 DOMAIN-SUFFIX,tags.stepstone.com,extended-matching
 DOMAIN-SUFFIX,tao.barstoolsports.com,extended-matching
 DOMAIN-SUFFIX,taplytics-umami.grubhub.com,extended-matching
+DOMAIN-SUFFIX,target-us.samsung.com,extended-matching
 DOMAIN-SUFFIX,target.nationwide.com,extended-matching
 DOMAIN-SUFFIX,target.nejm.org,extended-matching
 DOMAIN-SUFFIX,targeting.washpost.nile.works,extended-matching
