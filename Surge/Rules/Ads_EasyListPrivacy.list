@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312031309
+## ! Version: 202312041447
 ## ! Title: EasyPrivacy
-## ! Last modified: 03 Dec 2023 13:09 UTC
+## ! Last modified: 04 Dec 2023 14:47 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2680,6 +2680,7 @@ DOMAIN-SUFFIX,logs.viadata.store,extended-matching
 DOMAIN-SUFFIX,lps.qantas.com,extended-matching
 DOMAIN-SUFFIX,lucid.mjhassoc.com,extended-matching
 DOMAIN-SUFFIX,ma.logsss.com,extended-matching
+DOMAIN-SUFFIX,magento-recs-sdk.adobe.net,extended-matching
 DOMAIN-SUFFIX,martech.condenastdigital.com,extended-matching
 DOMAIN-SUFFIX,mas.nth.ch,extended-matching
 DOMAIN-SUFFIX,mc.webvisor.com,extended-matching
@@ -2857,6 +2858,7 @@ DOMAIN-SUFFIX,scripts.psyma.com,extended-matching
 DOMAIN-SUFFIX,sd-tagging.azurefd.net,extended-matching
 DOMAIN-SUFFIX,sdrive.skoda-auto.com,extended-matching
 DOMAIN-SUFFIX,sdtagging.azureedge.net,extended-matching
+DOMAIN-SUFFIX,secure-stats.pingdom.com,extended-matching
 DOMAIN-SUFFIX,secure.merchantadvantage.com,extended-matching
 DOMAIN-SUFFIX,seg.sharethis.com,extended-matching
 DOMAIN-SUFFIX,sentry.arc.io,extended-matching
@@ -3343,6 +3345,7 @@ DOMAIN-SUFFIX,dnxlgencstz4.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dr3fr5q4g2ul9.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,drlimmode9ddd.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dsbahmgppc0j4.cloudfront.net,extended-matching
+DOMAIN-SUFFIX,dtxtngytz5im1.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,du4rq1xqh3i1k.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,du8783wkf05yr.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,duu8lzqdm8tsz.cloudfront.net,extended-matching
@@ -21660,6 +21663,7 @@ DOMAIN-SUFFIX,pzd.rakuten.co.jp,extended-matching
 DOMAIN-SUFFIX,rat.rakuten.co.jp,extended-matching
 DOMAIN-SUFFIX,recv-entry.tbs.co.jp,extended-matching
 DOMAIN-SUFFIX,recv-jnn.tbs.co.jp,extended-matching
+DOMAIN-SUFFIX,rtm-tracking.zozo.jp,extended-matching
 DOMAIN-SUFFIX,scis.tbs.co.jp,extended-matching
 DOMAIN-SUFFIX,stats.nhk.or.jp,extended-matching
 DOMAIN-SUFFIX,sy.amebame.com,extended-matching

@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312031309
+## ! Version: 202312041447
 ## ! Title: EasyPrivacy
-## ! Last modified: 03 Dec 2023 13:09 UTC
+## ! Last modified: 04 Dec 2023 14:47 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2680,6 +2680,7 @@ HOST-SUFFIX,logs.viadata.store,reject,REJECT
 HOST-SUFFIX,lps.qantas.com,reject,REJECT
 HOST-SUFFIX,lucid.mjhassoc.com,reject,REJECT
 HOST-SUFFIX,ma.logsss.com,reject,REJECT
+HOST-SUFFIX,magento-recs-sdk.adobe.net,reject,REJECT
 HOST-SUFFIX,martech.condenastdigital.com,reject,REJECT
 HOST-SUFFIX,mas.nth.ch,reject,REJECT
 HOST-SUFFIX,mc.webvisor.com,reject,REJECT
@@ -2857,6 +2858,7 @@ HOST-SUFFIX,scripts.psyma.com,reject,REJECT
 HOST-SUFFIX,sd-tagging.azurefd.net,reject,REJECT
 HOST-SUFFIX,sdrive.skoda-auto.com,reject,REJECT
 HOST-SUFFIX,sdtagging.azureedge.net,reject,REJECT
+HOST-SUFFIX,secure-stats.pingdom.com,reject,REJECT
 HOST-SUFFIX,secure.merchantadvantage.com,reject,REJECT
 HOST-SUFFIX,seg.sharethis.com,reject,REJECT
 HOST-SUFFIX,sentry.arc.io,reject,REJECT
@@ -3343,6 +3345,7 @@ HOST-SUFFIX,dnxlgencstz4.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dr3fr5q4g2ul9.cloudfront.net,reject,REJECT
 HOST-SUFFIX,drlimmode9ddd.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dsbahmgppc0j4.cloudfront.net,reject,REJECT
+HOST-SUFFIX,dtxtngytz5im1.cloudfront.net,reject,REJECT
 HOST-SUFFIX,du4rq1xqh3i1k.cloudfront.net,reject,REJECT
 HOST-SUFFIX,du8783wkf05yr.cloudfront.net,reject,REJECT
 HOST-SUFFIX,duu8lzqdm8tsz.cloudfront.net,reject,REJECT
@@ -21660,6 +21663,7 @@ HOST-SUFFIX,pzd.rakuten.co.jp,reject,REJECT
 HOST-SUFFIX,rat.rakuten.co.jp,reject,REJECT
 HOST-SUFFIX,recv-entry.tbs.co.jp,reject,REJECT
 HOST-SUFFIX,recv-jnn.tbs.co.jp,reject,REJECT
+HOST-SUFFIX,rtm-tracking.zozo.jp,reject,REJECT
 HOST-SUFFIX,scis.tbs.co.jp,reject,REJECT
 HOST-SUFFIX,stats.nhk.or.jp,reject,REJECT
 HOST-SUFFIX,sy.amebame.com,reject,REJECT
