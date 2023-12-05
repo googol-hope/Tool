@@ -1,4 +1,4 @@
-# 2023-12-01 22:25
+# 2023-12-05 13:05
 
 # ======= A ======= #
 # 阿里巴巴
@@ -193,6 +193,7 @@ DOMAIN,amdc.m.youku.com,extended-matching
 DOMAIN,api.sm.cn,extended-matching
 DOMAIN,apiv4-iyes.youku.com,extended-matching
 DOMAIN,baichuan-sdk.alicdn.com,extended-matching
+DOMAIN,cad.youku.com,extended-matching
 DOMAIN,huichuan-mc.sm.cn,extended-matching
 DOMAIN,huichuan.sm.cn,extended-matching
 DOMAIN,iyes.youku.com,extended-matching
