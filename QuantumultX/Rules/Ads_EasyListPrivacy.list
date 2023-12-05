@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312041447
+## ! Version: 202312051140
 ## ! Title: EasyPrivacy
-## ! Last modified: 04 Dec 2023 14:47 UTC
+## ! Last modified: 05 Dec 2023 11:40 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -340,6 +340,7 @@ HOST-SUFFIX,tatpek.com,reject,REJECT
 HOST-SUFFIX,techpump.com,reject,REJECT
 HOST-SUFFIX,test.vast,reject,REJECT
 HOST-SUFFIX,testingmetriksbre.ru,reject,REJECT
+HOST-SUFFIX,thatmonkeybites3.com,reject,REJECT
 HOST-SUFFIX,the-ozone-project.com,reject,REJECT
 HOST-SUFFIX,thefontzone.com,reject,REJECT
 HOST-SUFFIX,tkrconnector.com,reject,REJECT
@@ -3468,6 +3469,7 @@ HOST-SUFFIX,core.unit-sense.net,reject,REJECT
 HOST-SUFFIX,e.viously.com,reject,REJECT
 HOST-SUFFIX,events.newsroom.bi,reject,REJECT
 HOST-SUFFIX,events.sk.ht,reject,REJECT
+HOST-SUFFIX,houston.advgo.net,reject,REJECT
 HOST-SUFFIX,ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws,reject,REJECT
 HOST-SUFFIX,nws.naltis.com,reject,REJECT
 HOST-SUFFIX,offer.slgnt.eu,reject,REJECT
@@ -21295,8 +21297,10 @@ HOST-SUFFIX,as.mirapodo.de,reject,REJECT
 HOST-SUFFIX,as.mytoys.de,reject,REJECT
 HOST-SUFFIX,as.yomonda.de,reject,REJECT
 HOST-SUFFIX,behave.sn.at,reject,REJECT
+HOST-SUFFIX,bilder11.markt.de,reject,REJECT
 HOST-SUFFIX,click.alternate.de,reject,REJECT
 HOST-SUFFIX,cmp2.channelpartner.de,reject,REJECT
+HOST-SUFFIX,cnt.wetteronline.de,reject,REJECT
 HOST-SUFFIX,cpx.golem.de,reject,REJECT
 HOST-SUFFIX,cpxl.golem.de,reject,REJECT
 HOST-SUFFIX,d.rp-online.de,reject,REJECT

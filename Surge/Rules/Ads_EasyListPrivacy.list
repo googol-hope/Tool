@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312041447
+## ! Version: 202312051140
 ## ! Title: EasyPrivacy
-## ! Last modified: 04 Dec 2023 14:47 UTC
+## ! Last modified: 05 Dec 2023 11:40 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -340,6 +340,7 @@ DOMAIN-SUFFIX,tatpek.com,extended-matching
 DOMAIN-SUFFIX,techpump.com,extended-matching
 DOMAIN-SUFFIX,test.vast,extended-matching
 DOMAIN-SUFFIX,testingmetriksbre.ru,extended-matching
+DOMAIN-SUFFIX,thatmonkeybites3.com,extended-matching
 DOMAIN-SUFFIX,the-ozone-project.com,extended-matching
 DOMAIN-SUFFIX,thefontzone.com,extended-matching
 DOMAIN-SUFFIX,tkrconnector.com,extended-matching
@@ -3468,6 +3469,7 @@ DOMAIN-SUFFIX,core.unit-sense.net,extended-matching
 DOMAIN-SUFFIX,e.viously.com,extended-matching
 DOMAIN-SUFFIX,events.newsroom.bi,extended-matching
 DOMAIN-SUFFIX,events.sk.ht,extended-matching
+DOMAIN-SUFFIX,houston.advgo.net,extended-matching
 DOMAIN-SUFFIX,ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws,extended-matching
 DOMAIN-SUFFIX,nws.naltis.com,extended-matching
 DOMAIN-SUFFIX,offer.slgnt.eu,extended-matching
@@ -21295,8 +21297,10 @@ DOMAIN-SUFFIX,as.mirapodo.de,extended-matching
 DOMAIN-SUFFIX,as.mytoys.de,extended-matching
 DOMAIN-SUFFIX,as.yomonda.de,extended-matching
 DOMAIN-SUFFIX,behave.sn.at,extended-matching
+DOMAIN-SUFFIX,bilder11.markt.de,extended-matching
 DOMAIN-SUFFIX,click.alternate.de,extended-matching
 DOMAIN-SUFFIX,cmp2.channelpartner.de,extended-matching
+DOMAIN-SUFFIX,cnt.wetteronline.de,extended-matching
 DOMAIN-SUFFIX,cpx.golem.de,extended-matching
 DOMAIN-SUFFIX,cpxl.golem.de,extended-matching
 DOMAIN-SUFFIX,d.rp-online.de,extended-matching
