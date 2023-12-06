@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312051543
+## ! Version: 202312061441
 ## ! Title: EasyPrivacy
-## ! Last modified: 05 Dec 2023 15:43 UTC
+## ! Last modified: 06 Dec 2023 14:41 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -306,7 +306,6 @@ HOST-SUFFIX,robotflowermobile.com,reject,REJECT
 HOST-SUFFIX,rtactivate.com,reject,REJECT
 HOST-SUFFIX,rumt-sg.com,reject,REJECT
 HOST-SUFFIX,s-onetag.com,reject,REJECT
-HOST-SUFFIX,salsify-ecdn.com,reject,REJECT
 HOST-SUFFIX,sbgsodufuosmmvsdf.info,reject,REJECT
 HOST-SUFFIX,sc-static.net,reject,REJECT
 HOST-SUFFIX,script.ac,reject,REJECT
@@ -3522,6 +3521,7 @@ HOST-SUFFIX,ia.51.la,reject,REJECT
 HOST-SUFFIX,imp.ad-plus.cn,reject,REJECT
 HOST-SUFFIX,imp.go.sohu.com,reject,REJECT
 HOST-SUFFIX,imp.optaim.com,reject,REJECT
+HOST-SUFFIX,log-api.cli.im,reject,REJECT
 HOST-SUFFIX,log.hiiir.com,reject,REJECT
 HOST-SUFFIX,log.qvb.qcloud.com,reject,REJECT
 HOST-SUFFIX,log.tagtic.cn,reject,REJECT
@@ -21465,6 +21465,7 @@ HOST-SUFFIX,bc.qunar.com,reject,REJECT
 HOST-SUFFIX,beacon.qq.com,reject,REJECT
 HOST-SUFFIX,cherry.le.com,reject,REJECT
 HOST-SUFFIX,click.gamersky.com,reject,REJECT
+HOST-SUFFIX,clickcount.cnool.net,reject,REJECT
 HOST-SUFFIX,count.candou.com,reject,REJECT
 HOST-SUFFIX,count5.pconline.com.cn,reject,REJECT
 HOST-SUFFIX,counter.people.cn,reject,REJECT

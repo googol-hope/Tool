@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312051543
+## ! Version: 202312061441
 ## ! Title: EasyPrivacy
-## ! Last modified: 05 Dec 2023 15:43 UTC
+## ! Last modified: 06 Dec 2023 14:41 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -306,7 +306,6 @@ DOMAIN-SUFFIX,robotflowermobile.com,extended-matching
 DOMAIN-SUFFIX,rtactivate.com,extended-matching
 DOMAIN-SUFFIX,rumt-sg.com,extended-matching
 DOMAIN-SUFFIX,s-onetag.com,extended-matching
-DOMAIN-SUFFIX,salsify-ecdn.com,extended-matching
 DOMAIN-SUFFIX,sbgsodufuosmmvsdf.info,extended-matching
 DOMAIN-SUFFIX,sc-static.net,extended-matching
 DOMAIN-SUFFIX,script.ac,extended-matching
@@ -3522,6 +3521,7 @@ DOMAIN-SUFFIX,ia.51.la,extended-matching
 DOMAIN-SUFFIX,imp.ad-plus.cn,extended-matching
 DOMAIN-SUFFIX,imp.go.sohu.com,extended-matching
 DOMAIN-SUFFIX,imp.optaim.com,extended-matching
+DOMAIN-SUFFIX,log-api.cli.im,extended-matching
 DOMAIN-SUFFIX,log.hiiir.com,extended-matching
 DOMAIN-SUFFIX,log.qvb.qcloud.com,extended-matching
 DOMAIN-SUFFIX,log.tagtic.cn,extended-matching
@@ -21465,6 +21465,7 @@ DOMAIN-SUFFIX,bc.qunar.com,extended-matching
 DOMAIN-SUFFIX,beacon.qq.com,extended-matching
 DOMAIN-SUFFIX,cherry.le.com,extended-matching
 DOMAIN-SUFFIX,click.gamersky.com,extended-matching
+DOMAIN-SUFFIX,clickcount.cnool.net,extended-matching
 DOMAIN-SUFFIX,count.candou.com,extended-matching
 DOMAIN-SUFFIX,count5.pconline.com.cn,extended-matching
 DOMAIN-SUFFIX,counter.people.cn,extended-matching
