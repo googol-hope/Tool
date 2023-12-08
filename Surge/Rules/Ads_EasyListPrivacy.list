@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312071552
+## ! Version: 202312081254
 ## ! Title: EasyPrivacy
-## ! Last modified: 07 Dec 2023 15:52 UTC
+## ! Last modified: 08 Dec 2023 12:54 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -68,7 +68,6 @@ DOMAIN-SUFFIX,briskeagle.io,extended-matching
 DOMAIN-SUFFIX,briskpelican.io,extended-matching
 DOMAIN-SUFFIX,brontops.com,extended-matching
 DOMAIN-SUFFIX,brsrvr.com,extended-matching
-DOMAIN-SUFFIX,btdmp.com,extended-matching
 DOMAIN-SUFFIX,btloader.com,extended-matching
 DOMAIN-SUFFIX,bx-cloud.com,extended-matching
 DOMAIN-SUFFIX,bydst.com,extended-matching
@@ -3080,6 +3079,7 @@ DOMAIN-SUFFIX,track.360playvid.info,extended-matching
 DOMAIN-SUFFIX,track.91app.io,extended-matching
 DOMAIN-SUFFIX,track.99acres.com,extended-matching
 DOMAIN-SUFFIX,track.bannedcelebs.com,extended-matching
+DOMAIN-SUFFIX,track.btdmp.com,extended-matching
 DOMAIN-SUFFIX,track.coherentpath.com,extended-matching
 DOMAIN-SUFFIX,track.contently.com,extended-matching
 DOMAIN-SUFFIX,track.cordial.io,extended-matching
