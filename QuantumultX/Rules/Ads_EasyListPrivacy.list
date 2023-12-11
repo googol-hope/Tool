@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312101348
+## ! Version: 202312111438
 ## ! Title: EasyPrivacy
-## ! Last modified: 10 Dec 2023 13:48 UTC
+## ! Last modified: 11 Dec 2023 14:38 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -196,6 +196,7 @@ HOST-SUFFIX,iconnode.com,reject,REJECT
 HOST-SUFFIX,id-ward.com,reject,REJECT
 HOST-SUFFIX,id5-sync.com,reject,REJECT
 HOST-SUFFIX,idx.lat,reject,REJECT
+HOST-SUFFIX,ilius.net,reject,REJECT
 HOST-SUFFIX,impactcdn.com,reject,REJECT
 HOST-SUFFIX,impactradius-event.com,reject,REJECT
 HOST-SUFFIX,imrworldwide.com,reject,REJECT
@@ -469,6 +470,7 @@ HOST-SUFFIX,6ldu6qa.com,reject,REJECT
 HOST-SUFFIX,82o9v830.com,reject,REJECT
 HOST-SUFFIX,abackafterthought.com,reject,REJECT
 HOST-SUFFIX,abackchain.com,reject,REJECT
+HOST-SUFFIX,abackframe.com,reject,REJECT
 HOST-SUFFIX,abacksoda.com,reject,REJECT
 HOST-SUFFIX,abandonedaction.com,reject,REJECT
 HOST-SUFFIX,aboardamusement.com,reject,REJECT
@@ -547,6 +549,7 @@ HOST-SUFFIX,anxiousapples.com,reject,REJECT
 HOST-SUFFIX,apathetictheory.com,reject,REJECT
 HOST-SUFFIX,apparatuslip.com,reject,REJECT
 HOST-SUFFIX,aquaticalarm.com,reject,REJECT
+HOST-SUFFIX,aquaticanswer.com,reject,REJECT
 HOST-SUFFIX,aquaticowl.com,reject,REJECT
 HOST-SUFFIX,ar1nvz5.com,reject,REJECT
 HOST-SUFFIX,archswimming.com,reject,REJECT
@@ -682,6 +685,7 @@ HOST-SUFFIX,butterbulb.com,reject,REJECT
 HOST-SUFFIX,butterburst.com,reject,REJECT
 HOST-SUFFIX,buttonladybug.com,reject,REJECT
 HOST-SUFFIX,cabledemand.com,reject,REJECT
+HOST-SUFFIX,cakesdrum.com,reject,REJECT
 HOST-SUFFIX,calculatingcircle.com,reject,REJECT
 HOST-SUFFIX,calculatingtoothbrush.com,reject,REJECT
 HOST-SUFFIX,calculatorcamera.com,reject,REJECT
@@ -748,6 +752,7 @@ HOST-SUFFIX,circlelevel.com,reject,REJECT
 HOST-SUFFIX,clamcelery.com,reject,REJECT
 HOST-SUFFIX,clammychicken.com,reject,REJECT
 HOST-SUFFIX,clammytree.com,reject,REJECT
+HOST-SUFFIX,clarifyverse.com,reject,REJECT
 HOST-SUFFIX,cleanhaircut.com,reject,REJECT
 HOST-SUFFIX,clearcabbage.com,reject,REJECT
 HOST-SUFFIX,cloisteredcord.com,reject,REJECT
@@ -859,6 +864,7 @@ HOST-SUFFIX,dashingdrop.com,reject,REJECT
 HOST-SUFFIX,dashingsweater.com,reject,REJECT
 HOST-SUFFIX,daughterstone.com,reject,REJECT
 HOST-SUFFIX,dazzlingbook.com,reject,REJECT
+HOST-SUFFIX,deadpangate.com,reject,REJECT
 HOST-SUFFIX,deadpanmarble.com,reject,REJECT
 HOST-SUFFIX,deadpantruck.com,reject,REJECT
 HOST-SUFFIX,deafeningdock.com,reject,REJECT
@@ -892,6 +898,7 @@ HOST-SUFFIX,detailedgovernment.com,reject,REJECT
 HOST-SUFFIX,detailedkitten.com,reject,REJECT
 HOST-SUFFIX,detectdinner.com,reject,REJECT
 HOST-SUFFIX,detectdiscovery.com,reject,REJECT
+HOST-SUFFIX,dewdroplagoon.com,reject,REJECT
 HOST-SUFFIX,differentcoat.com,reject,REJECT
 HOST-SUFFIX,difficultfog.com,reject,REJECT
 HOST-SUFFIX,digestiondrawer.com,reject,REJECT
@@ -1353,6 +1360,7 @@ HOST-SUFFIX,militaryverse.com,reject,REJECT
 HOST-SUFFIX,mimosamajor.com,reject,REJECT
 HOST-SUFFIX,mindlessmark.com,reject,REJECT
 HOST-SUFFIX,minormeeting.com,reject,REJECT
+HOST-SUFFIX,minusmental.com,reject,REJECT
 HOST-SUFFIX,minuteburst.com,reject,REJECT
 HOST-SUFFIX,minuterhythm.com,reject,REJECT
 HOST-SUFFIX,miscreantmine.com,reject,REJECT
@@ -1435,6 +1443,7 @@ HOST-SUFFIX,pamelarandom.com,reject,REJECT
 HOST-SUFFIX,panickycurtain.com,reject,REJECT
 HOST-SUFFIX,panickypancake.com,reject,REJECT
 HOST-SUFFIX,panoramicbutter.com,reject,REJECT
+HOST-SUFFIX,panoramicplane.com,reject,REJECT
 HOST-SUFFIX,paradoxfactor.com,reject,REJECT
 HOST-SUFFIX,parallelbulb.com,reject,REJECT
 HOST-SUFFIX,parcelcreature.com,reject,REJECT
@@ -1511,6 +1520,7 @@ HOST-SUFFIX,preciousyoke.com,reject,REJECT
 HOST-SUFFIX,predictplate.com,reject,REJECT
 HOST-SUFFIX,prefixpatriot.com,reject,REJECT
 HOST-SUFFIX,prepareplanes.com,reject,REJECT
+HOST-SUFFIX,presentbedroom.com,reject,REJECT
 HOST-SUFFIX,presetrabbits.com,reject,REJECT
 HOST-SUFFIX,presssensor.com,reject,REJECT
 HOST-SUFFIX,previousplayground.com,reject,REJECT
@@ -1572,6 +1582,7 @@ HOST-SUFFIX,rainyhand.com,reject,REJECT
 HOST-SUFFIX,rainyrule.com,reject,REJECT
 HOST-SUFFIX,rainystretch.com,reject,REJECT
 HOST-SUFFIX,rainyzinc.com,reject,REJECT
+HOST-SUFFIX,rambunctiousflock.com,reject,REJECT
 HOST-SUFFIX,rambunctiousvoyage.com,reject,REJECT
 HOST-SUFFIX,rampantwork.com,reject,REJECT
 HOST-SUFFIX,rangecake.com,reject,REJECT
@@ -1810,6 +1821,7 @@ HOST-SUFFIX,sootheside.com,reject,REJECT
 HOST-SUFFIX,sophisticatedstory.com,reject,REJECT
 HOST-SUFFIX,sophisticatedstove.com,reject,REJECT
 HOST-SUFFIX,sordidsmile.com,reject,REJECT
+HOST-SUFFIX,sordidstation.com,reject,REJECT
 HOST-SUFFIX,soresidewalk.com,reject,REJECT
 HOST-SUFFIX,soresneeze.com,reject,REJECT
 HOST-SUFFIX,sorethunder.com,reject,REJECT
@@ -1943,6 +1955,7 @@ HOST-SUFFIX,superficialeyes.com,reject,REJECT
 HOST-SUFFIX,superficialspring.com,reject,REJECT
 HOST-SUFFIX,superficialsquare.com,reject,REJECT
 HOST-SUFFIX,supervisegoldfish.com,reject,REJECT
+HOST-SUFFIX,supportwaves.com,reject,REJECT
 HOST-SUFFIX,suspectmark.com,reject,REJECT
 HOST-SUFFIX,suspendseed.com,reject,REJECT
 HOST-SUFFIX,swankysquare.com,reject,REJECT
@@ -2142,6 +2155,7 @@ HOST-SUFFIX,wigglyindustry.com,reject,REJECT
 HOST-SUFFIX,wildcommittee.com,reject,REJECT
 HOST-SUFFIX,wildernesscamera.com,reject,REJECT
 HOST-SUFFIX,wirecomic.com,reject,REJECT
+HOST-SUFFIX,wirypaste.com,reject,REJECT
 HOST-SUFFIX,wistfulflight.com,reject,REJECT
 HOST-SUFFIX,wittypopcorn.com,reject,REJECT
 HOST-SUFFIX,womanear.com,reject,REJECT
@@ -3625,6 +3639,7 @@ HOST-SUFFIX,trkr.shoppingminds.net,reject,REJECT
 HOST-SUFFIX,dnt-userreport.com,reject,REJECT
 HOST-SUFFIX,tags.op-palvelut.fi,reject,REJECT
 HOST-SUFFIX,links.boom.ge,reject,REJECT
+HOST-SUFFIX,stats-real-clients.zentech.gr,reject,REJECT
 HOST-SUFFIX,heartbeat.pmd.444.hu,reject,REJECT
 HOST-SUFFIX,pixel.barion.com,reject,REJECT
 HOST-SUFFIX,rum.marquardmedia.hu,reject,REJECT
@@ -3771,7 +3786,6 @@ HOST-SUFFIX,ad-tracker-api.luizalabs.com,reject,REJECT
 HOST-SUFFIX,analytics-coletor-site.ojc.com.br,reject,REJECT
 HOST-SUFFIX,analytics-stamp.confi.com.vc,reject,REJECT
 HOST-SUFFIX,analytics.spun.com.br,reject,REJECT
-HOST-SUFFIX,api.nobeta.com.br,reject,REJECT
 HOST-SUFFIX,collect.chaordicsystems.com,reject,REJECT
 HOST-SUFFIX,events.chaordicsystems.com,reject,REJECT
 HOST-SUFFIX,hitserver.ibope.com.br,reject,REJECT
@@ -4332,6 +4346,7 @@ HOST-SUFFIX,stats.trimbles.ie,reject,REJECT
 HOST-SUFFIX,stats.vk-portal.net,reject,REJECT
 HOST-SUFFIX,stats.wordpress.com,reject,REJECT
 HOST-SUFFIX,stats.wwitv.com,reject,REJECT
+HOST-SUFFIX,stats2.mytuner.mobi,reject,REJECT
 HOST-SUFFIX,streamstats.prd.dlive.tv,reject,REJECT
 HOST-SUFFIX,szrpr.raen.com,reject,REJECT
 HOST-SUFFIX,t.3hentai.net,reject,REJECT
