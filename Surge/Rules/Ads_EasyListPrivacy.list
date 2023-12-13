@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312121345
+## ! Version: 202312131345
 ## ! Title: EasyPrivacy
-## ! Last modified: 12 Dec 2023 13:45 UTC
+## ! Last modified: 13 Dec 2023 13:45 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -15667,7 +15667,6 @@ DOMAIN-SUFFIX,labs.verticurl.com,extended-matching
 DOMAIN-SUFFIX,landing.computershare.com,extended-matching
 DOMAIN-SUFFIX,landing.georgeson.com,extended-matching
 DOMAIN-SUFFIX,landing.kccllc.com,extended-matching
-DOMAIN-SUFFIX,landing.kwm.com,extended-matching
 DOMAIN-SUFFIX,landing.newyorkjets.com,extended-matching
 DOMAIN-SUFFIX,landingpages.csustudycentres.edu.au,extended-matching
 DOMAIN-SUFFIX,landingpages.siemens-healthineers.com,extended-matching
@@ -15839,7 +15838,6 @@ DOMAIN-SUFFIX,pages.bayer.com,extended-matching
 DOMAIN-SUFFIX,pages.erepublic.com,extended-matching
 DOMAIN-SUFFIX,pages.expowest.com,extended-matching
 DOMAIN-SUFFIX,pages.financialintelligence.informa.com,extended-matching
-DOMAIN-SUFFIX,pages.kwm.com,extended-matching
 DOMAIN-SUFFIX,pages.naturopathica.com.au,extended-matching
 DOMAIN-SUFFIX,pages.nbjsummit.com,extended-matching
 DOMAIN-SUFFIX,pages.news.realestate.bnpparibas,extended-matching
