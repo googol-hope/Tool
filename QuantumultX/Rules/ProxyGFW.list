@@ -24,6 +24,7 @@ HOST-SUFFIX,teddysun.com,PROXY
 HOST-SUFFIX,tumbex.com,PROXY
 HOST-SUFFIX,twdvd.com,PROXY
 HOST-SUFFIX,unsplash.com,PROXY
+HOST-SUFFIX,buzzsprout.com,PROXY
 
 # 国外域名
 HOST-SUFFIX,eu,PROXY

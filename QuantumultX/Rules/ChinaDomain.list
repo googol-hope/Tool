@@ -17,6 +17,7 @@ HOST-SUFFIX,pdfwifi.com,DIRECT
 HOST-SUFFIX,zhenguanyu.biz,DIRECT
 HOST-SUFFIX,zhenguanyu.com,DIRECT
 HOST-SUFFIX,snapdrop.net,DIRECT
+HOST-SUFFIX,tebex.io,DIRECT
 
 # CN域名直连(中国|公司|网络)
 HOST-SUFFIX,cn,DIRECT
@@ -79,6 +80,7 @@ HOST-SUFFIX,aliyun.com,DIRECT
 HOST-SUFFIX,aliyuncdn.com,DIRECT
 HOST-SUFFIX,aliyuncs.com,DIRECT
 HOST-SUFFIX,aliyundrive.com,DIRECT
+HOST-SUFFIX,aliyundrive.net,DIRECT
 HOST-SUFFIX,amap.com,DIRECT
 HOST-SUFFIX,autonavi.com,DIRECT
 HOST-SUFFIX,dingtalk.com,DIRECT
@@ -479,6 +481,7 @@ HOST-SUFFIX,baike.com,DIRECT
 HOST-SUFFIX,biqudu.com,DIRECT
 HOST-SUFFIX,biquge.com,DIRECT
 HOST-SUFFIX,bitauto.com,DIRECT
+HOST-SUFFIX,bosszhipin.com,DIRECT
 HOST-SUFFIX,c-ctrip.com,DIRECT
 HOST-SUFFIX,camera360.com,DIRECT
 HOST-SUFFIX,cdnmama.com,DIRECT
@@ -687,5 +690,6 @@ HOST-SUFFIX,zhanqi.tv,DIRECT
 HOST-SUFFIX,zhaopin.com,DIRECT
 HOST-SUFFIX,zhihu.com,DIRECT
 HOST-SUFFIX,zhimg.com,DIRECT
+HOST-SUFFIX,zhipin.com,DIRECT
 HOST-SUFFIX,zhongsou.com,DIRECT
 HOST-SUFFIX,zhuihd.com,DIRECT
