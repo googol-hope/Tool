@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2023-10-23 21:04:59
-# 数量：367条
+# 更新：2023-12-14 21:45:09
+# 数量：369条
 
 # ABC
 HOST-SUFFIX,edgedatg.com,PROXY
@@ -345,6 +345,8 @@ HOST-SUFFIX,featuregates.org,PROXY
 HOST-SUFFIX,identrust.com,PROXY
 HOST-SUFFIX,intercom.io,PROXY
 HOST-SUFFIX,intercomcdn.com,PROXY
+HOST-SUFFIX,oaistatic.com,PROXY
+HOST-SUFFIX,oaiusercontent.com,PROXY
 HOST-SUFFIX,openai.com,PROXY
 HOST-SUFFIX,openaiapi-site.azureedge.net,PROXY
 HOST-SUFFIX,sentry.io,PROXY

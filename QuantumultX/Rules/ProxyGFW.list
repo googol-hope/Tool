@@ -482,6 +482,7 @@ HOST-SUFFIX,babynet.com.hk,PROXY
 HOST-SUFFIX,backchina.com,PROXY
 HOST-SUFFIX,backpackers.com.tw,PROXY
 HOST-SUFFIX,backtotiananmen.com,PROXY
+HOST-SUFFIX,bad.news,PROXY
 HOST-SUFFIX,badiucao.com,PROXY
 HOST-SUFFIX,badjojo.com,PROXY
 HOST-SUFFIX,badoo.com,PROXY
@@ -2716,6 +2717,7 @@ HOST-SUFFIX,indiemerch.com,PROXY
 HOST-SUFFIX,info-graf.fr,PROXY
 HOST-SUFFIX,informer.com,PROXY
 HOST-SUFFIX,initiativesforchina.org,PROXY
+HOST-SUFFIX,inkbunny.net,PROXY
 HOST-SUFFIX,inkui.com,PROXY
 HOST-SUFFIX,inmediahk.net,PROXY
 HOST-SUFFIX,innermongolia.org,PROXY
@@ -3237,6 +3239,7 @@ HOST-SUFFIX,matome-plus.net,PROXY
 HOST-SUFFIX,matrix.org,PROXY
 HOST-SUFFIX,matsushimakaede.com,PROXY
 HOST-SUFFIX,matters.news,PROXY
+HOST-SUFFIX,matters.town,PROXY
 HOST-SUFFIX,mattwilcox.net,PROXY
 HOST-SUFFIX,maturejp.com,PROXY
 HOST-SUFFIX,maxing.jp,PROXY
@@ -6199,6 +6202,7 @@ HOST-SUFFIX,ypncdn.com,PROXY
 # Pixiv
 HOST-SUFFIX,pixiv.net,PROXY
 HOST-SUFFIX,pximg.net,PROXY
+HOST-SUFFIX,fanbox.cc,PROXY
 
 # Spark
 HOST-SUFFIX,amplitude.com,PROXY
