@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312141552
+## ! Version: 202312151525
 ## ! Title: EasyPrivacy
-## ! Last modified: 14 Dec 2023 15:52 UTC
+## ! Last modified: 15 Dec 2023 15:25 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -540,6 +540,7 @@ HOST-SUFFIX,ambiguousquilt.com,reject,REJECT
 HOST-SUFFIX,ambitiousagreement.com,reject,REJECT
 HOST-SUFFIX,ambitiousanimal.com,reject,REJECT
 HOST-SUFFIX,amethystzenith.com,reject,REJECT
+HOST-SUFFIX,amuckafternoon.com,reject,REJECT
 HOST-SUFFIX,amusedbucket.com,reject,REJECT
 HOST-SUFFIX,amusementmorning.com,reject,REJECT
 HOST-SUFFIX,amusinggirls.com,reject,REJECT
@@ -2591,6 +2592,7 @@ HOST-SUFFIX,errors.snackly.co,reject,REJECT
 HOST-SUFFIX,et.educationdynamics.com,reject,REJECT
 HOST-SUFFIX,etl.springbot.com,reject,REJECT
 HOST-SUFFIX,eu-mobile.events.data.microsoft.com,reject,REJECT
+HOST-SUFFIX,ev.moneymade.io,reject,REJECT
 HOST-SUFFIX,ev.stellarlabs.ai,reject,REJECT
 HOST-SUFFIX,event-api.contactatonce.com,reject,REJECT
 HOST-SUFFIX,event-api.rdstation.com.br,reject,REJECT
@@ -3644,6 +3646,7 @@ HOST-SUFFIX,track.tomwx.net,reject,REJECT
 HOST-SUFFIX,track.unidata.ai,reject,REJECT
 HOST-SUFFIX,tracker-00.qvb.qcloud.com,reject,REJECT
 HOST-SUFFIX,tracking.cat898.com,reject,REJECT
+HOST-SUFFIX,tracklog.58.com,reject,REJECT
 HOST-SUFFIX,trail.71baomu.com,reject,REJECT
 HOST-SUFFIX,videostats.kakao.com,reject,REJECT
 HOST-SUFFIX,web-trace.ksapisrv.com,reject,REJECT
@@ -3799,6 +3802,7 @@ HOST-SUFFIX,megadata.co.kr,reject,REJECT
 HOST-SUFFIX,mtag.mman.kr,reject,REJECT
 HOST-SUFFIX,ngc1.nsm-corp.com,reject,REJECT
 HOST-SUFFIX,performanceplay.co.kr,reject,REJECT
+HOST-SUFFIX,pxl.retaku.net,reject,REJECT
 HOST-SUFFIX,saluton.cizion.com,reject,REJECT
 HOST-SUFFIX,sas.nsm-corp.com,reject,REJECT
 HOST-SUFFIX,teralog.techhub.co.kr,reject,REJECT
@@ -4471,6 +4475,8 @@ HOST-SUFFIX,tracking.carsales.com.au,reject,REJECT
 HOST-SUFFIX,tracking.christianpost.com,reject,REJECT
 HOST-SUFFIX,tracking.digitalocean.com,reject,REJECT
 HOST-SUFFIX,tracking.engineering.cloud.seek.com.au,reject,REJECT
+HOST-SUFFIX,tracking.epicgames.com,reject,REJECT
+HOST-SUFFIX,tracking.fortnite.com,reject,REJECT
 HOST-SUFFIX,tracking.hsn.com,reject,REJECT
 HOST-SUFFIX,tracking.shopstyle.co.uk,reject,REJECT
 HOST-SUFFIX,tracking.shopstyle.com,reject,REJECT
