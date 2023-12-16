@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312151525
+## ! Version: 202312161512
 ## ! Title: EasyPrivacy
-## ! Last modified: 15 Dec 2023 15:25 UTC
+## ! Last modified: 16 Dec 2023 15:12 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4475,8 +4475,6 @@ HOST-SUFFIX,tracking.carsales.com.au,reject,REJECT
 HOST-SUFFIX,tracking.christianpost.com,reject,REJECT
 HOST-SUFFIX,tracking.digitalocean.com,reject,REJECT
 HOST-SUFFIX,tracking.engineering.cloud.seek.com.au,reject,REJECT
-HOST-SUFFIX,tracking.epicgames.com,reject,REJECT
-HOST-SUFFIX,tracking.fortnite.com,reject,REJECT
 HOST-SUFFIX,tracking.hsn.com,reject,REJECT
 HOST-SUFFIX,tracking.shopstyle.co.uk,reject,REJECT
 HOST-SUFFIX,tracking.shopstyle.com,reject,REJECT
@@ -15243,7 +15241,6 @@ HOST-SUFFIX,go.milestek.com,reject,REJECT
 HOST-SUFFIX,go.morningstar.com,reject,REJECT
 HOST-SUFFIX,go.navepoint.com,reject,REJECT
 HOST-SUFFIX,go.netwitness.com,reject,REJECT
-HOST-SUFFIX,go.oracle.com,reject,REJECT
 HOST-SUFFIX,go.petrelocation.com,reject,REJECT
 HOST-SUFFIX,go.protools.emerson.com,reject,REJECT
 HOST-SUFFIX,go.psentertainment.com,reject,REJECT
