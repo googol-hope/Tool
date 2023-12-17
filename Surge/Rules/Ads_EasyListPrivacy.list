@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312161512
+## ! Version: 202312171455
 ## ! Title: EasyPrivacy
-## ! Last modified: 16 Dec 2023 15:12 UTC
+## ! Last modified: 17 Dec 2023 14:55 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -360,7 +360,6 @@ DOMAIN-SUFFIX,turboeagle.co,extended-matching
 DOMAIN-SUFFIX,turbolion.io,extended-matching
 DOMAIN-SUFFIX,tvpixel.com,extended-matching
 DOMAIN-SUFFIX,tw.cx,extended-matching
-DOMAIN-SUFFIX,tzegilo.com,extended-matching
 DOMAIN-SUFFIX,ugdturner.com,extended-matching
 DOMAIN-SUFFIX,uidapi.com,extended-matching
 DOMAIN-SUFFIX,uqd.io,extended-matching
@@ -3704,6 +3703,7 @@ DOMAIN-SUFFIX,dmpcdn.el-mundo.net,extended-matching
 DOMAIN-SUFFIX,dmpmetrics.rcsmetrics.it,extended-matching
 DOMAIN-SUFFIX,evnt.iol.it,extended-matching
 DOMAIN-SUFFIX,fb_servpub-a.akamaihd.net,extended-matching
+DOMAIN-SUFFIX,heatmaps.lcisoft.it,extended-matching
 DOMAIN-SUFFIX,limone.iltrovatore.it,extended-matching
 DOMAIN-SUFFIX,livestats.matrix.it,extended-matching
 DOMAIN-SUFFIX,log.edidomus.it,extended-matching
@@ -4116,6 +4116,7 @@ DOMAIN-SUFFIX,dc.banggood.com,extended-matching
 DOMAIN-SUFFIX,dd.auspost.com.au,extended-matching
 DOMAIN-SUFFIX,dd.nytimes.com,extended-matching
 DOMAIN-SUFFIX,deliver.ptgncdn.com,extended-matching
+DOMAIN-SUFFIX,df.infra.shopee.ph,extended-matching
 DOMAIN-SUFFIX,discover-metrics.cloud.seek.com.au,extended-matching
 DOMAIN-SUFFIX,dp.shoprunner.com,extended-matching
 DOMAIN-SUFFIX,dtag.breadfinancial.com,extended-matching
@@ -4486,6 +4487,7 @@ DOMAIN-SUFFIX,trk.tirto.id,extended-matching
 DOMAIN-SUFFIX,trx3.famousfix.com,extended-matching
 DOMAIN-SUFFIX,ts.delfi.lt,extended-matching
 DOMAIN-SUFFIX,ua.indianexpress.com,extended-matching
+DOMAIN-SUFFIX,ubt.tracking.shopee.ph,extended-matching
 DOMAIN-SUFFIX,ubuyanalytics.ubuy.com,extended-matching
 DOMAIN-SUFFIX,um.contentstudio.io,extended-matching
 DOMAIN-SUFFIX,umami.wakarimasen.moe,extended-matching

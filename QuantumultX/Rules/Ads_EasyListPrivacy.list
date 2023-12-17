@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312161512
+## ! Version: 202312171455
 ## ! Title: EasyPrivacy
-## ! Last modified: 16 Dec 2023 15:12 UTC
+## ! Last modified: 17 Dec 2023 14:55 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -360,7 +360,6 @@ HOST-SUFFIX,turboeagle.co,reject,REJECT
 HOST-SUFFIX,turbolion.io,reject,REJECT
 HOST-SUFFIX,tvpixel.com,reject,REJECT
 HOST-SUFFIX,tw.cx,reject,REJECT
-HOST-SUFFIX,tzegilo.com,reject,REJECT
 HOST-SUFFIX,ugdturner.com,reject,REJECT
 HOST-SUFFIX,uidapi.com,reject,REJECT
 HOST-SUFFIX,uqd.io,reject,REJECT
@@ -3704,6 +3703,7 @@ HOST-SUFFIX,dmpcdn.el-mundo.net,reject,REJECT
 HOST-SUFFIX,dmpmetrics.rcsmetrics.it,reject,REJECT
 HOST-SUFFIX,evnt.iol.it,reject,REJECT
 HOST-SUFFIX,fb_servpub-a.akamaihd.net,reject,REJECT
+HOST-SUFFIX,heatmaps.lcisoft.it,reject,REJECT
 HOST-SUFFIX,limone.iltrovatore.it,reject,REJECT
 HOST-SUFFIX,livestats.matrix.it,reject,REJECT
 HOST-SUFFIX,log.edidomus.it,reject,REJECT
@@ -4116,6 +4116,7 @@ HOST-SUFFIX,dc.banggood.com,reject,REJECT
 HOST-SUFFIX,dd.auspost.com.au,reject,REJECT
 HOST-SUFFIX,dd.nytimes.com,reject,REJECT
 HOST-SUFFIX,deliver.ptgncdn.com,reject,REJECT
+HOST-SUFFIX,df.infra.shopee.ph,reject,REJECT
 HOST-SUFFIX,discover-metrics.cloud.seek.com.au,reject,REJECT
 HOST-SUFFIX,dp.shoprunner.com,reject,REJECT
 HOST-SUFFIX,dtag.breadfinancial.com,reject,REJECT
@@ -4486,6 +4487,7 @@ HOST-SUFFIX,trk.tirto.id,reject,REJECT
 HOST-SUFFIX,trx3.famousfix.com,reject,REJECT
 HOST-SUFFIX,ts.delfi.lt,reject,REJECT
 HOST-SUFFIX,ua.indianexpress.com,reject,REJECT
+HOST-SUFFIX,ubt.tracking.shopee.ph,reject,REJECT
 HOST-SUFFIX,ubuyanalytics.ubuy.com,reject,REJECT
 HOST-SUFFIX,um.contentstudio.io,reject,REJECT
 HOST-SUFFIX,umami.wakarimasen.moe,reject,REJECT
