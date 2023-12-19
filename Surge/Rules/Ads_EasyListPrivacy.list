@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312181344
+## ! Version: 202312191408
 ## ! Title: EasyPrivacy
-## ! Last modified: 18 Dec 2023 13:44 UTC
+## ! Last modified: 19 Dec 2023 14:08 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,2smt6mfgo.de,extended-matching
 DOMAIN-SUFFIX,31daa5lnq.de,extended-matching
 DOMAIN-SUFFIX,34.215.155.61,extended-matching
 DOMAIN-SUFFIX,3gl.net,extended-matching
+DOMAIN-SUFFIX,4251.tech,extended-matching
 DOMAIN-SUFFIX,44.228.85.26,extended-matching
 DOMAIN-SUFFIX,520886.xyz,extended-matching
 DOMAIN-SUFFIX,a1webstrategy.com,extended-matching
@@ -3112,6 +3113,7 @@ DOMAIN-SUFFIX,telemetry.reembed.com,extended-matching
 DOMAIN-SUFFIX,telemetry.soundcloud.com,extended-matching
 DOMAIN-SUFFIX,telemetry.tableausoftware.com,extended-matching
 DOMAIN-SUFFIX,telemetry.vtex.com,extended-matching
+DOMAIN-SUFFIX,test.takedwn.ws,extended-matching
 DOMAIN-SUFFIX,timber.sendtonews.com,extended-matching
 DOMAIN-SUFFIX,timejs.game.163.com,extended-matching
 DOMAIN-SUFFIX,tk.storetail.io,extended-matching
@@ -4109,6 +4111,7 @@ DOMAIN-SUFFIX,cwt.citywire.info,extended-matching
 DOMAIN-SUFFIX,d.skk.moe,extended-matching
 DOMAIN-SUFFIX,data.allstate.com,extended-matching
 DOMAIN-SUFFIX,data.guide.photobucket.com,extended-matching
+DOMAIN-SUFFIX,data.torry.io,extended-matching
 DOMAIN-SUFFIX,data.younow.com,extended-matching
 DOMAIN-SUFFIX,datadome.patreon.com,extended-matching
 DOMAIN-SUFFIX,dbhsejcg-meetup-com.cdnjs.network,extended-matching
@@ -21803,6 +21806,7 @@ DOMAIN-SUFFIX,tracker.cauly.co.kr,extended-matching
 DOMAIN-SUFFIX,uts.auction.co.kr,extended-matching
 DOMAIN-SUFFIX,utsssl.auction.co.kr,extended-matching
 DOMAIN-SUFFIX,wcs.naver.com,extended-matching
+DOMAIN-SUFFIX,weblog.coupang.com,extended-matching
 DOMAIN-SUFFIX,weblog.eseoul.go.kr,extended-matching
 DOMAIN-SUFFIX,weblog2.eseoul.go.kr,extended-matching
 DOMAIN-SUFFIX,stats.tunt.lv,extended-matching

@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312181344
+## ! Version: 202312191408
 ## ! Title: EasyPrivacy
-## ! Last modified: 18 Dec 2023 13:44 UTC
+## ! Last modified: 19 Dec 2023 14:08 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -24,6 +24,7 @@ HOST-SUFFIX,2smt6mfgo.de,reject,REJECT
 HOST-SUFFIX,31daa5lnq.de,reject,REJECT
 HOST-SUFFIX,34.215.155.61,reject,REJECT
 HOST-SUFFIX,3gl.net,reject,REJECT
+HOST-SUFFIX,4251.tech,reject,REJECT
 HOST-SUFFIX,44.228.85.26,reject,REJECT
 HOST-SUFFIX,520886.xyz,reject,REJECT
 HOST-SUFFIX,a1webstrategy.com,reject,REJECT
@@ -3112,6 +3113,7 @@ HOST-SUFFIX,telemetry.reembed.com,reject,REJECT
 HOST-SUFFIX,telemetry.soundcloud.com,reject,REJECT
 HOST-SUFFIX,telemetry.tableausoftware.com,reject,REJECT
 HOST-SUFFIX,telemetry.vtex.com,reject,REJECT
+HOST-SUFFIX,test.takedwn.ws,reject,REJECT
 HOST-SUFFIX,timber.sendtonews.com,reject,REJECT
 HOST-SUFFIX,timejs.game.163.com,reject,REJECT
 HOST-SUFFIX,tk.storetail.io,reject,REJECT
@@ -4109,6 +4111,7 @@ HOST-SUFFIX,cwt.citywire.info,reject,REJECT
 HOST-SUFFIX,d.skk.moe,reject,REJECT
 HOST-SUFFIX,data.allstate.com,reject,REJECT
 HOST-SUFFIX,data.guide.photobucket.com,reject,REJECT
+HOST-SUFFIX,data.torry.io,reject,REJECT
 HOST-SUFFIX,data.younow.com,reject,REJECT
 HOST-SUFFIX,datadome.patreon.com,reject,REJECT
 HOST-SUFFIX,dbhsejcg-meetup-com.cdnjs.network,reject,REJECT
@@ -21803,6 +21806,7 @@ HOST-SUFFIX,tracker.cauly.co.kr,reject,REJECT
 HOST-SUFFIX,uts.auction.co.kr,reject,REJECT
 HOST-SUFFIX,utsssl.auction.co.kr,reject,REJECT
 HOST-SUFFIX,wcs.naver.com,reject,REJECT
+HOST-SUFFIX,weblog.coupang.com,reject,REJECT
 HOST-SUFFIX,weblog.eseoul.go.kr,reject,REJECT
 HOST-SUFFIX,weblog2.eseoul.go.kr,reject,REJECT
 HOST-SUFFIX,stats.tunt.lv,reject,REJECT
