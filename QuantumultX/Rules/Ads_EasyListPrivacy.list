@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312201408
+## ! Version: 202312211348
 ## ! Title: EasyPrivacy
-## ! Last modified: 20 Dec 2023 14:08 UTC
+## ! Last modified: 21 Dec 2023 13:48 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -185,7 +185,9 @@ HOST-SUFFIX,go-mpulse.net,reject,REJECT
 HOST-SUFFIX,googleoptimize.com,reject,REJECT
 HOST-SUFFIX,googletagmanager.com,reject,REJECT
 HOST-SUFFIX,gw-dv.vip,reject,REJECT
+HOST-SUFFIX,hbiq.net,reject,REJECT
 HOST-SUFFIX,hdmtools.com,reject,REJECT
+HOST-SUFFIX,herbgreencolumn.com,reject,REJECT
 HOST-SUFFIX,hs-analytics.net,reject,REJECT
 HOST-SUFFIX,hsadspixel.net,reject,REJECT
 HOST-SUFFIX,hsleadflows.net,reject,REJECT
@@ -853,6 +855,7 @@ HOST-SUFFIX,curvycord.com,reject,REJECT
 HOST-SUFFIX,curvycry.com,reject,REJECT
 HOST-SUFFIX,cushiondrum.com,reject,REJECT
 HOST-SUFFIX,cushionpig.com,reject,REJECT
+HOST-SUFFIX,cutcurrent.com,reject,REJECT
 HOST-SUFFIX,cutecalculator.com,reject,REJECT
 HOST-SUFFIX,cutechin.com,reject,REJECT
 HOST-SUFFIX,cutecushion.com,reject,REJECT
@@ -2251,6 +2254,7 @@ HOST-SUFFIX,analyse.bcovery.com,reject,REJECT
 HOST-SUFFIX,analytic.rollout.io,reject,REJECT
 HOST-SUFFIX,analyticcdn.globalmailer.com,reject,REJECT
 HOST-SUFFIX,analytics-1.cavai.com,reject,REJECT
+HOST-SUFFIX,analytics-api.klickly.com,reject,REJECT
 HOST-SUFFIX,analytics-cms.whitebeard.me,reject,REJECT
 HOST-SUFFIX,analytics-consent-manager-v2-prod.azureedge.net,reject,REJECT
 HOST-SUFFIX,analytics-production.hapyak.com,reject,REJECT
@@ -4074,6 +4078,7 @@ HOST-SUFFIX,clp-mms.cloudpro.co.uk,reject,REJECT
 HOST-SUFFIX,cm-mms.coachmag.co.uk,reject,REJECT
 HOST-SUFFIX,cm.nordvpn.com,reject,REJECT
 HOST-SUFFIX,cmpworker.dotesports.com,reject,REJECT
+HOST-SUFFIX,cmpworker.primagames.com,reject,REJECT
 HOST-SUFFIX,cnt.hd21.com,reject,REJECT
 HOST-SUFFIX,cnt.iceporn.com,reject,REJECT
 HOST-SUFFIX,cnt.viptube.com,reject,REJECT

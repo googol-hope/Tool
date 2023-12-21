@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312201408
+## ! Version: 202312211348
 ## ! Title: EasyPrivacy
-## ! Last modified: 20 Dec 2023 14:08 UTC
+## ! Last modified: 21 Dec 2023 13:48 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -185,7 +185,9 @@ DOMAIN-SUFFIX,go-mpulse.net,extended-matching
 DOMAIN-SUFFIX,googleoptimize.com,extended-matching
 DOMAIN-SUFFIX,googletagmanager.com,extended-matching
 DOMAIN-SUFFIX,gw-dv.vip,extended-matching
+DOMAIN-SUFFIX,hbiq.net,extended-matching
 DOMAIN-SUFFIX,hdmtools.com,extended-matching
+DOMAIN-SUFFIX,herbgreencolumn.com,extended-matching
 DOMAIN-SUFFIX,hs-analytics.net,extended-matching
 DOMAIN-SUFFIX,hsadspixel.net,extended-matching
 DOMAIN-SUFFIX,hsleadflows.net,extended-matching
@@ -853,6 +855,7 @@ DOMAIN-SUFFIX,curvycord.com,extended-matching
 DOMAIN-SUFFIX,curvycry.com,extended-matching
 DOMAIN-SUFFIX,cushiondrum.com,extended-matching
 DOMAIN-SUFFIX,cushionpig.com,extended-matching
+DOMAIN-SUFFIX,cutcurrent.com,extended-matching
 DOMAIN-SUFFIX,cutecalculator.com,extended-matching
 DOMAIN-SUFFIX,cutechin.com,extended-matching
 DOMAIN-SUFFIX,cutecushion.com,extended-matching
@@ -2251,6 +2254,7 @@ DOMAIN-SUFFIX,analyse.bcovery.com,extended-matching
 DOMAIN-SUFFIX,analytic.rollout.io,extended-matching
 DOMAIN-SUFFIX,analyticcdn.globalmailer.com,extended-matching
 DOMAIN-SUFFIX,analytics-1.cavai.com,extended-matching
+DOMAIN-SUFFIX,analytics-api.klickly.com,extended-matching
 DOMAIN-SUFFIX,analytics-cms.whitebeard.me,extended-matching
 DOMAIN-SUFFIX,analytics-consent-manager-v2-prod.azureedge.net,extended-matching
 DOMAIN-SUFFIX,analytics-production.hapyak.com,extended-matching
@@ -4074,6 +4078,7 @@ DOMAIN-SUFFIX,clp-mms.cloudpro.co.uk,extended-matching
 DOMAIN-SUFFIX,cm-mms.coachmag.co.uk,extended-matching
 DOMAIN-SUFFIX,cm.nordvpn.com,extended-matching
 DOMAIN-SUFFIX,cmpworker.dotesports.com,extended-matching
+DOMAIN-SUFFIX,cmpworker.primagames.com,extended-matching
 DOMAIN-SUFFIX,cnt.hd21.com,extended-matching
 DOMAIN-SUFFIX,cnt.iceporn.com,extended-matching
 DOMAIN-SUFFIX,cnt.viptube.com,extended-matching
