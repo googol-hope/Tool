@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312231526
+## ! Version: 202312241442
 ## ! Title: EasyPrivacy
-## ! Last modified: 23 Dec 2023 15:26 UTC
+## ! Last modified: 24 Dec 2023 14:42 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2230,6 +2230,7 @@ HOST-SUFFIX,analytics.rechtslupe.org,reject,REJECT
 HOST-SUFFIX,tracking.wlscripts.net,reject,REJECT
 HOST-SUFFIX,naanalle.pl,reject,REJECT
 HOST-SUFFIX,1558334541.rsc.cdn77.org,reject,REJECT
+HOST-SUFFIX,3j0pw4ed7uac-a.akamaihd.net,reject,REJECT
 HOST-SUFFIX,3p-geo.yahoo.com,reject,REJECT
 HOST-SUFFIX,3p-udc.yahoo.com,reject,REJECT
 HOST-SUFFIX,9w2zed1szg.execute-api.us-east-1.amazonaws.com,reject,REJECT
@@ -3565,6 +3566,7 @@ HOST-SUFFIX,capping.sirius.press,reject,REJECT
 HOST-SUFFIX,collect-v6.51.la,reject,REJECT
 HOST-SUFFIX,compteur.websiteout.net,reject,REJECT
 HOST-SUFFIX,core.unit-sense.net,reject,REJECT
+HOST-SUFFIX,dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws,reject,REJECT
 HOST-SUFFIX,e.viously.com,reject,REJECT
 HOST-SUFFIX,events.newsroom.bi,reject,REJECT
 HOST-SUFFIX,events.sk.ht,reject,REJECT

@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312231526
+## ! Version: 202312241442
 ## ! Title: EasyPrivacy
-## ! Last modified: 23 Dec 2023 15:26 UTC
+## ! Last modified: 24 Dec 2023 14:42 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2230,6 +2230,7 @@ DOMAIN-SUFFIX,analytics.rechtslupe.org,extended-matching
 DOMAIN-SUFFIX,tracking.wlscripts.net,extended-matching
 DOMAIN-SUFFIX,naanalle.pl,extended-matching
 DOMAIN-SUFFIX,1558334541.rsc.cdn77.org,extended-matching
+DOMAIN-SUFFIX,3j0pw4ed7uac-a.akamaihd.net,extended-matching
 DOMAIN-SUFFIX,3p-geo.yahoo.com,extended-matching
 DOMAIN-SUFFIX,3p-udc.yahoo.com,extended-matching
 DOMAIN-SUFFIX,9w2zed1szg.execute-api.us-east-1.amazonaws.com,extended-matching
@@ -3565,6 +3566,7 @@ DOMAIN-SUFFIX,capping.sirius.press,extended-matching
 DOMAIN-SUFFIX,collect-v6.51.la,extended-matching
 DOMAIN-SUFFIX,compteur.websiteout.net,extended-matching
 DOMAIN-SUFFIX,core.unit-sense.net,extended-matching
+DOMAIN-SUFFIX,dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws,extended-matching
 DOMAIN-SUFFIX,e.viously.com,extended-matching
 DOMAIN-SUFFIX,events.newsroom.bi,extended-matching
 DOMAIN-SUFFIX,events.sk.ht,extended-matching
