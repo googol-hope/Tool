@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312261450
+## ! Version: 202312271440
 ## ! Title: EasyPrivacy
-## ! Last modified: 26 Dec 2023 14:50 UTC
+## ! Last modified: 27 Dec 2023 14:40 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -349,6 +349,7 @@ DOMAIN-SUFFIX,tkrconnector.com,extended-matching
 DOMAIN-SUFFIX,tncid.app,extended-matching
 DOMAIN-SUFFIX,track-selectmedia.com,extended-matching
 DOMAIN-SUFFIX,trackclicks.info,extended-matching
+DOMAIN-SUFFIX,tracking24.net,extended-matching
 DOMAIN-SUFFIX,transmapp.com,extended-matching
 DOMAIN-SUFFIX,triplestat.online,extended-matching
 DOMAIN-SUFFIX,trk-maiorum.com,extended-matching
@@ -2242,6 +2243,7 @@ DOMAIN-SUFFIX,a.opumo.net,extended-matching
 DOMAIN-SUFFIX,activity-flow.vtex.com,extended-matching
 DOMAIN-SUFFIX,activity.wisepops.com,extended-matching
 DOMAIN-SUFFIX,ad.aloodo.com,extended-matching
+DOMAIN-SUFFIX,ade.googlesyndication.com,extended-matching
 DOMAIN-SUFFIX,adfox.yandex.ru,extended-matching
 DOMAIN-SUFFIX,adlog.com.com,extended-matching
 DOMAIN-SUFFIX,ads-trk.vidible.tv,extended-matching
@@ -3321,6 +3323,7 @@ DOMAIN-SUFFIX,ws.audioeye.com,extended-matching
 DOMAIN-SUFFIX,wsmcdn.audioeye.com,extended-matching
 DOMAIN-SUFFIX,wt.viagogo.net,extended-matching
 DOMAIN-SUFFIX,wtbevents.pricespider.com,extended-matching
+DOMAIN-SUFFIX,wtr-digital-analytics.ew.r.appspot.com,extended-matching
 DOMAIN-SUFFIX,x.babe.today,extended-matching
 DOMAIN-SUFFIX,x.disq.us,extended-matching
 DOMAIN-SUFFIX,x.weather.com,extended-matching
@@ -3703,6 +3706,7 @@ DOMAIN-SUFFIX,videostat-new.index.hu,extended-matching
 DOMAIN-SUFFIX,videostat.index.hu,extended-matching
 DOMAIN-SUFFIX,analytics.competitoor.com,extended-matching
 DOMAIN-SUFFIX,analytics.eikondigital.it,extended-matching
+DOMAIN-SUFFIX,analytics.gtechgroup.it,extended-matching
 DOMAIN-SUFFIX,analytics00.meride.tv,extended-matching
 DOMAIN-SUFFIX,analytics2-3-meride-tv.akamaized.net,extended-matching
 DOMAIN-SUFFIX,analytics2-meride-tv.akamaized.net,extended-matching
@@ -3712,6 +3716,7 @@ DOMAIN-SUFFIX,cnt.iol.it,extended-matching
 DOMAIN-SUFFIX,d32hwlnfiv2gyn.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dmpcdn.el-mundo.net,extended-matching
 DOMAIN-SUFFIX,dmpmetrics.rcsmetrics.it,extended-matching
+DOMAIN-SUFFIX,eventsink.api.redbee.live,extended-matching
 DOMAIN-SUFFIX,evnt.iol.it,extended-matching
 DOMAIN-SUFFIX,fb_servpub-a.akamaihd.net,extended-matching
 DOMAIN-SUFFIX,heatmaps.lcisoft.it,extended-matching
@@ -4105,6 +4110,7 @@ DOMAIN-SUFFIX,collector.pi.spectrum.net,extended-matching
 DOMAIN-SUFFIX,collector.xhamster.com,extended-matching
 DOMAIN-SUFFIX,collector.xhamster.desi,extended-matching
 DOMAIN-SUFFIX,collector.xhamster2.com,extended-matching
+DOMAIN-SUFFIX,collector.xhamster3.com,extended-matching
 DOMAIN-SUFFIX,colvk.viki.io,extended-matching
 DOMAIN-SUFFIX,confiant.msn.com,extended-matching
 DOMAIN-SUFFIX,console-telemetry.oci.oraclecloud.com,extended-matching

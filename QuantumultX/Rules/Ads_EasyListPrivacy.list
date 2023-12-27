@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312261450
+## ! Version: 202312271440
 ## ! Title: EasyPrivacy
-## ! Last modified: 26 Dec 2023 14:50 UTC
+## ! Last modified: 27 Dec 2023 14:40 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -349,6 +349,7 @@ HOST-SUFFIX,tkrconnector.com,reject,REJECT
 HOST-SUFFIX,tncid.app,reject,REJECT
 HOST-SUFFIX,track-selectmedia.com,reject,REJECT
 HOST-SUFFIX,trackclicks.info,reject,REJECT
+HOST-SUFFIX,tracking24.net,reject,REJECT
 HOST-SUFFIX,transmapp.com,reject,REJECT
 HOST-SUFFIX,triplestat.online,reject,REJECT
 HOST-SUFFIX,trk-maiorum.com,reject,REJECT
@@ -2242,6 +2243,7 @@ HOST-SUFFIX,a.opumo.net,reject,REJECT
 HOST-SUFFIX,activity-flow.vtex.com,reject,REJECT
 HOST-SUFFIX,activity.wisepops.com,reject,REJECT
 HOST-SUFFIX,ad.aloodo.com,reject,REJECT
+HOST-SUFFIX,ade.googlesyndication.com,reject,REJECT
 HOST-SUFFIX,adfox.yandex.ru,reject,REJECT
 HOST-SUFFIX,adlog.com.com,reject,REJECT
 HOST-SUFFIX,ads-trk.vidible.tv,reject,REJECT
@@ -3321,6 +3323,7 @@ HOST-SUFFIX,ws.audioeye.com,reject,REJECT
 HOST-SUFFIX,wsmcdn.audioeye.com,reject,REJECT
 HOST-SUFFIX,wt.viagogo.net,reject,REJECT
 HOST-SUFFIX,wtbevents.pricespider.com,reject,REJECT
+HOST-SUFFIX,wtr-digital-analytics.ew.r.appspot.com,reject,REJECT
 HOST-SUFFIX,x.babe.today,reject,REJECT
 HOST-SUFFIX,x.disq.us,reject,REJECT
 HOST-SUFFIX,x.weather.com,reject,REJECT
@@ -3703,6 +3706,7 @@ HOST-SUFFIX,videostat-new.index.hu,reject,REJECT
 HOST-SUFFIX,videostat.index.hu,reject,REJECT
 HOST-SUFFIX,analytics.competitoor.com,reject,REJECT
 HOST-SUFFIX,analytics.eikondigital.it,reject,REJECT
+HOST-SUFFIX,analytics.gtechgroup.it,reject,REJECT
 HOST-SUFFIX,analytics00.meride.tv,reject,REJECT
 HOST-SUFFIX,analytics2-3-meride-tv.akamaized.net,reject,REJECT
 HOST-SUFFIX,analytics2-meride-tv.akamaized.net,reject,REJECT
@@ -3712,6 +3716,7 @@ HOST-SUFFIX,cnt.iol.it,reject,REJECT
 HOST-SUFFIX,d32hwlnfiv2gyn.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dmpcdn.el-mundo.net,reject,REJECT
 HOST-SUFFIX,dmpmetrics.rcsmetrics.it,reject,REJECT
+HOST-SUFFIX,eventsink.api.redbee.live,reject,REJECT
 HOST-SUFFIX,evnt.iol.it,reject,REJECT
 HOST-SUFFIX,fb_servpub-a.akamaihd.net,reject,REJECT
 HOST-SUFFIX,heatmaps.lcisoft.it,reject,REJECT
@@ -4105,6 +4110,7 @@ HOST-SUFFIX,collector.pi.spectrum.net,reject,REJECT
 HOST-SUFFIX,collector.xhamster.com,reject,REJECT
 HOST-SUFFIX,collector.xhamster.desi,reject,REJECT
 HOST-SUFFIX,collector.xhamster2.com,reject,REJECT
+HOST-SUFFIX,collector.xhamster3.com,reject,REJECT
 HOST-SUFFIX,colvk.viki.io,reject,REJECT
 HOST-SUFFIX,confiant.msn.com,reject,REJECT
 HOST-SUFFIX,console-telemetry.oci.oraclecloud.com,reject,REJECT
