@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312271440
+## ! Version: 202312281108
 ## ! Title: EasyPrivacy
-## ! Last modified: 27 Dec 2023 14:40 UTC
+## ! Last modified: 28 Dec 2023 11:08 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1192,6 +1192,7 @@ HOST-SUFFIX,handsomelyhealth.com,reject,REJECT
 HOST-SUFFIX,handsomeyam.com,reject,REJECT
 HOST-SUFFIX,handyfield.com,reject,REJECT
 HOST-SUFFIX,handyfireman.com,reject,REJECT
+HOST-SUFFIX,handyincrease.com,reject,REJECT
 HOST-SUFFIX,haplessland.com,reject,REJECT
 HOST-SUFFIX,happenhistory.com,reject,REJECT
 HOST-SUFFIX,harborcaption.com,reject,REJECT
@@ -2695,6 +2696,7 @@ HOST-SUFFIX,happen.spkt.io,reject,REJECT
 HOST-SUFFIX,hb.vhsrv.com,reject,REJECT
 HOST-SUFFIX,hello.staticstuff.net,reject,REJECT
 HOST-SUFFIX,hi.hellobar.com,reject,REJECT
+HOST-SUFFIX,highway.cablecar.sph.com.sg,reject,REJECT
 HOST-SUFFIX,hit.mybestpro.com,reject,REJECT
 HOST-SUFFIX,hits.dealer.com,reject,REJECT
 HOST-SUFFIX,hits.getelevar.com,reject,REJECT
@@ -3051,6 +3053,7 @@ HOST-SUFFIX,statscollector-1.agora.io,reject,REJECT
 HOST-SUFFIX,statscollector.sd-rtn.com,reject,REJECT
 HOST-SUFFIX,statt-collect.herokuapp.com,reject,REJECT
 HOST-SUFFIX,stg-data-collector.playbuzz.com,reject,REJECT
+HOST-SUFFIX,streams.cablecar.sph.com.sg,reject,REJECT
 HOST-SUFFIX,sts.eccmp.com,reject,REJECT
 HOST-SUFFIX,sunlightmetrics.b-cdn.net,reject,REJECT
 HOST-SUFFIX,survey.interquest.com,reject,REJECT

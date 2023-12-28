@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312271440
+## ! Version: 202312281108
 ## ! Title: EasyPrivacy
-## ! Last modified: 27 Dec 2023 14:40 UTC
+## ! Last modified: 28 Dec 2023 11:08 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1192,6 +1192,7 @@ DOMAIN-SUFFIX,handsomelyhealth.com,extended-matching
 DOMAIN-SUFFIX,handsomeyam.com,extended-matching
 DOMAIN-SUFFIX,handyfield.com,extended-matching
 DOMAIN-SUFFIX,handyfireman.com,extended-matching
+DOMAIN-SUFFIX,handyincrease.com,extended-matching
 DOMAIN-SUFFIX,haplessland.com,extended-matching
 DOMAIN-SUFFIX,happenhistory.com,extended-matching
 DOMAIN-SUFFIX,harborcaption.com,extended-matching
@@ -2695,6 +2696,7 @@ DOMAIN-SUFFIX,happen.spkt.io,extended-matching
 DOMAIN-SUFFIX,hb.vhsrv.com,extended-matching
 DOMAIN-SUFFIX,hello.staticstuff.net,extended-matching
 DOMAIN-SUFFIX,hi.hellobar.com,extended-matching
+DOMAIN-SUFFIX,highway.cablecar.sph.com.sg,extended-matching
 DOMAIN-SUFFIX,hit.mybestpro.com,extended-matching
 DOMAIN-SUFFIX,hits.dealer.com,extended-matching
 DOMAIN-SUFFIX,hits.getelevar.com,extended-matching
@@ -3051,6 +3053,7 @@ DOMAIN-SUFFIX,statscollector-1.agora.io,extended-matching
 DOMAIN-SUFFIX,statscollector.sd-rtn.com,extended-matching
 DOMAIN-SUFFIX,statt-collect.herokuapp.com,extended-matching
 DOMAIN-SUFFIX,stg-data-collector.playbuzz.com,extended-matching
+DOMAIN-SUFFIX,streams.cablecar.sph.com.sg,extended-matching
 DOMAIN-SUFFIX,sts.eccmp.com,extended-matching
 DOMAIN-SUFFIX,sunlightmetrics.b-cdn.net,extended-matching
 DOMAIN-SUFFIX,survey.interquest.com,extended-matching
