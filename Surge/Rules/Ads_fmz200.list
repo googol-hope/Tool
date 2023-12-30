@@ -465,7 +465,7 @@ DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,extended-matching
 DOMAIN,api.iegadp.qq.com,extended-matching
 DOMAIN-SUFFIX,byteorge.com,extended-matching
 DOMAIN-SUFFIX,bytegoofy.com,extended-matching
-DOMAIN-SUFFIX,bytedance.com,extended-matching
+# DOMAIN-SUFFIX,bytedance.com
 IP-CIDR,49.71.37.101/32,no-resolve
 IP-CIDR,117.71.105.23/32,no-resolve
 IP-CIDR,218.94.207.205/32,no-resolve
