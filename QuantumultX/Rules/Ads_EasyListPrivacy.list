@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312291533
+## ! Version: 202312301554
 ## ! Title: EasyPrivacy
-## ! Last modified: 29 Dec 2023 15:33 UTC
+## ! Last modified: 30 Dec 2023 15:54 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1193,6 +1193,7 @@ HOST-SUFFIX,handsomeyam.com,reject,REJECT
 HOST-SUFFIX,handyfield.com,reject,REJECT
 HOST-SUFFIX,handyfireman.com,reject,REJECT
 HOST-SUFFIX,handyincrease.com,reject,REJECT
+HOST-SUFFIX,haplesshydrant.com,reject,REJECT
 HOST-SUFFIX,haplessland.com,reject,REJECT
 HOST-SUFFIX,happenhistory.com,reject,REJECT
 HOST-SUFFIX,harborcaption.com,reject,REJECT
@@ -1959,6 +1960,7 @@ HOST-SUFFIX,storescissors.com,reject,REJECT
 HOST-SUFFIX,storeslope.com,reject,REJECT
 HOST-SUFFIX,storesurprise.com,reject,REJECT
 HOST-SUFFIX,stormyachiever.com,reject,REJECT
+HOST-SUFFIX,stormyfold.com,reject,REJECT
 HOST-SUFFIX,stoveseashore.com,reject,REJECT
 HOST-SUFFIX,straightnest.com,reject,REJECT
 HOST-SUFFIX,strangeclocks.com,reject,REJECT
