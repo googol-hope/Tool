@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312301554
+## ! Version: 202312311445
 ## ! Title: EasyPrivacy
-## ! Last modified: 30 Dec 2023 15:54 UTC
+## ! Last modified: 31 Dec 2023 14:45 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2434,6 +2434,7 @@ DOMAIN-SUFFIX,beacon.viewlift.com,extended-matching
 DOMAIN-SUFFIX,beacon2.indieclick.com,extended-matching
 DOMAIN-SUFFIX,beacons.mediamelon.com,extended-matching
 DOMAIN-SUFFIX,beam.mjhlifesciences.com,extended-matching
+DOMAIN-SUFFIX,beamanalytics.b-cdn.net,extended-matching
 DOMAIN-SUFFIX,bee.tc.easebar.com,extended-matching
 DOMAIN-SUFFIX,behavior.tongdun.net,extended-matching
 DOMAIN-SUFFIX,bento.agoda.com,extended-matching
@@ -2453,6 +2454,7 @@ DOMAIN-SUFFIX,c.wen.ru,extended-matching
 DOMAIN-SUFFIX,c3metrics.medifast1.com,extended-matching
 DOMAIN-SUFFIX,cache2.delvenetworks.com,extended-matching
 DOMAIN-SUFFIX,cahf4eed.mooo.com,extended-matching
+DOMAIN-SUFFIX,calltrack.co,extended-matching
 DOMAIN-SUFFIX,camel.headfarming.com,extended-matching
 DOMAIN-SUFFIX,capture-api.ap3prod.com,extended-matching
 DOMAIN-SUFFIX,capture.condenastdigital.com,extended-matching
@@ -2778,6 +2780,7 @@ DOMAIN-SUFFIX,loggingapi.spingo.com,extended-matching
 DOMAIN-SUFFIX,loglady.skypicker.com,extended-matching
 DOMAIN-SUFFIX,logs-api.shoprunner.com,extended-matching
 DOMAIN-SUFFIX,logs.animaapp.com,extended-matching
+DOMAIN-SUFFIX,logs.mezmo.com,extended-matching
 DOMAIN-SUFFIX,logs.spilgames.com,extended-matching
 DOMAIN-SUFFIX,logs.thebloggernetwork.com,extended-matching
 DOMAIN-SUFFIX,logs.viadata.store,extended-matching
@@ -4313,6 +4316,7 @@ DOMAIN-SUFFIX,perf.mouser.com,extended-matching
 DOMAIN-SUFFIX,performance-logger.minted.com,extended-matching
 DOMAIN-SUFFIX,perr.hola.org,extended-matching
 DOMAIN-SUFFIX,pf.newegg.com,extended-matching
+DOMAIN-SUFFIX,pftk.temu.com,extended-matching
 DOMAIN-SUFFIX,ph.thenextweb.com,extended-matching
 DOMAIN-SUFFIX,ping.hungama.com,extended-matching
 DOMAIN-SUFFIX,pingback.giphy.com,extended-matching
@@ -21872,6 +21876,7 @@ DOMAIN-SUFFIX,tracker.publico.pt,extended-matching
 DOMAIN-SUFFIX,analytics.okazii.ro,extended-matching
 DOMAIN-SUFFIX,views.b1tv.ro,extended-matching
 DOMAIN-SUFFIX,views.romaniatv.net,extended-matching
+DOMAIN-SUFFIX,a.mts.ru,extended-matching
 DOMAIN-SUFFIX,a.pikabu.ru,extended-matching
 DOMAIN-SUFFIX,ad7.bigmir.net,extended-matching
 DOMAIN-SUFFIX,affilate.hh.ru,extended-matching

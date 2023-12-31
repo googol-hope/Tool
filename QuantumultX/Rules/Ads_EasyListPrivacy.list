@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202312301554
+## ! Version: 202312311445
 ## ! Title: EasyPrivacy
-## ! Last modified: 30 Dec 2023 15:54 UTC
+## ! Last modified: 31 Dec 2023 14:45 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2434,6 +2434,7 @@ HOST-SUFFIX,beacon.viewlift.com,reject,REJECT
 HOST-SUFFIX,beacon2.indieclick.com,reject,REJECT
 HOST-SUFFIX,beacons.mediamelon.com,reject,REJECT
 HOST-SUFFIX,beam.mjhlifesciences.com,reject,REJECT
+HOST-SUFFIX,beamanalytics.b-cdn.net,reject,REJECT
 HOST-SUFFIX,bee.tc.easebar.com,reject,REJECT
 HOST-SUFFIX,behavior.tongdun.net,reject,REJECT
 HOST-SUFFIX,bento.agoda.com,reject,REJECT
@@ -2453,6 +2454,7 @@ HOST-SUFFIX,c.wen.ru,reject,REJECT
 HOST-SUFFIX,c3metrics.medifast1.com,reject,REJECT
 HOST-SUFFIX,cache2.delvenetworks.com,reject,REJECT
 HOST-SUFFIX,cahf4eed.mooo.com,reject,REJECT
+HOST-SUFFIX,calltrack.co,reject,REJECT
 HOST-SUFFIX,camel.headfarming.com,reject,REJECT
 HOST-SUFFIX,capture-api.ap3prod.com,reject,REJECT
 HOST-SUFFIX,capture.condenastdigital.com,reject,REJECT
@@ -2778,6 +2780,7 @@ HOST-SUFFIX,loggingapi.spingo.com,reject,REJECT
 HOST-SUFFIX,loglady.skypicker.com,reject,REJECT
 HOST-SUFFIX,logs-api.shoprunner.com,reject,REJECT
 HOST-SUFFIX,logs.animaapp.com,reject,REJECT
+HOST-SUFFIX,logs.mezmo.com,reject,REJECT
 HOST-SUFFIX,logs.spilgames.com,reject,REJECT
 HOST-SUFFIX,logs.thebloggernetwork.com,reject,REJECT
 HOST-SUFFIX,logs.viadata.store,reject,REJECT
@@ -4313,6 +4316,7 @@ HOST-SUFFIX,perf.mouser.com,reject,REJECT
 HOST-SUFFIX,performance-logger.minted.com,reject,REJECT
 HOST-SUFFIX,perr.hola.org,reject,REJECT
 HOST-SUFFIX,pf.newegg.com,reject,REJECT
+HOST-SUFFIX,pftk.temu.com,reject,REJECT
 HOST-SUFFIX,ph.thenextweb.com,reject,REJECT
 HOST-SUFFIX,ping.hungama.com,reject,REJECT
 HOST-SUFFIX,pingback.giphy.com,reject,REJECT
@@ -21872,6 +21876,7 @@ HOST-SUFFIX,tracker.publico.pt,reject,REJECT
 HOST-SUFFIX,analytics.okazii.ro,reject,REJECT
 HOST-SUFFIX,views.b1tv.ro,reject,REJECT
 HOST-SUFFIX,views.romaniatv.net,reject,REJECT
+HOST-SUFFIX,a.mts.ru,reject,REJECT
 HOST-SUFFIX,a.pikabu.ru,reject,REJECT
 HOST-SUFFIX,ad7.bigmir.net,reject,REJECT
 HOST-SUFFIX,affilate.hh.ru,reject,REJECT
