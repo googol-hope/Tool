@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/NaiSi_01.png
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/fenliu.list
 #!tg-group：https://t.me/lanjieguanggao
-#!date：2023-12-06 23:56:00
+#!date：2024-01-01 09:23:00
 #!support：约9392行
 #!proxy-select：REJECT
 #############################################
@@ -1799,7 +1799,7 @@ DOMAIN-SUFFIX,etahub.com,extended-matching
 DOMAIN-SUFFIX,22c.in,extended-matching
 DOMAIN-SUFFIX,imgxxx.shunxincar.cn,extended-matching
 DOMAIN-SUFFIX,cc58.oss-cn-beijing.aliyuncs.com,extended-matching
-DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com,extended-matching
+# DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
 DOMAIN-SUFFIX,kk.braincf.com,extended-matching
 DOMAIN-SUFFIX,run.haireig.com,extended-matching
 DOMAIN-SUFFIX,d.zxptw.cn,extended-matching
