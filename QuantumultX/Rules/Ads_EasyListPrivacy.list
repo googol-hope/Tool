@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401021545
+## ! Version: 202401031528
 ## ! Title: EasyPrivacy
-## ! Last modified: 02 Jan 2024 15:45 UTC
+## ! Last modified: 03 Jan 2024 15:28 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -538,7 +538,6 @@ HOST-SUFFIX,apparatuslip.com,reject,REJECT
 HOST-SUFFIX,aquaticalarm.com,reject,REJECT
 HOST-SUFFIX,aquaticanswer.com,reject,REJECT
 HOST-SUFFIX,aquaticowl.com,reject,REJECT
-HOST-SUFFIX,ar1nvz5.com,reject,REJECT
 HOST-SUFFIX,archswimming.com,reject,REJECT
 HOST-SUFFIX,arcticamber.com,reject,REJECT
 HOST-SUFFIX,argyresthia.com,reject,REJECT
@@ -2234,7 +2233,6 @@ HOST-SUFFIX,alexandria.marfeelcdn.com,reject,REJECT
 HOST-SUFFIX,amp-error-reporting.appspot.com,reject,REJECT
 HOST-SUFFIX,amplifypixel.outbrain.com,reject,REJECT
 HOST-SUFFIX,ams-pageview-public.s3.amazonaws.com,reject,REJECT
-HOST-SUFFIX,an.yandex.ru,reject,REJECT
 HOST-SUFFIX,analyse.bcovery.com,reject,REJECT
 HOST-SUFFIX,analytic.rollout.io,reject,REJECT
 HOST-SUFFIX,analyticcdn.globalmailer.com,reject,REJECT
@@ -2366,7 +2364,6 @@ HOST-SUFFIX,analyticsehnwe.servicebus.windows.net,reject,REJECT
 HOST-SUFFIX,analyticssec.overwolf.com,reject,REJECT
 HOST-SUFFIX,analyze.full-marke.com,reject,REJECT
 HOST-SUFFIX,ao-freegeoip.herokuapp.com,reject,REJECT
-HOST-SUFFIX,aorta.clickagy.com,reject,REJECT
 HOST-SUFFIX,ape-tagit.timeinc.net,reject,REJECT
 HOST-SUFFIX,api-analytics-prd.pelcro.com,reject,REJECT
 HOST-SUFFIX,api.autopilothq.com,reject,REJECT
@@ -2595,7 +2592,6 @@ HOST-SUFFIX,event-stream.spot.im,reject,REJECT
 HOST-SUFFIX,event.api.drift.com,reject,REJECT
 HOST-SUFFIX,event.getblue.io,reject,REJECT
 HOST-SUFFIX,event.instiengage.com,reject,REJECT
-HOST-SUFFIX,event.mrtnsvr.com,reject,REJECT
 HOST-SUFFIX,event.syndigo.cloud,reject,REJECT
 HOST-SUFFIX,event.webcollage.net,reject,REJECT
 HOST-SUFFIX,eventapi.libring.com,reject,REJECT
@@ -2868,7 +2864,6 @@ HOST-SUFFIX,pixel.safe-installation.com,reject,REJECT
 HOST-SUFFIX,pixel.solvemedia.com,reject,REJECT
 HOST-SUFFIX,pixel.sprinklr.com,reject,REJECT
 HOST-SUFFIX,pixel.videohub.tv,reject,REJECT
-HOST-SUFFIX,pixel.widgetly.com,reject,REJECT
 HOST-SUFFIX,pixel.wp.com,reject,REJECT
 HOST-SUFFIX,pixel.yabidos.com,reject,REJECT
 HOST-SUFFIX,pixel.yola.com,reject,REJECT
@@ -2934,7 +2929,6 @@ HOST-SUFFIX,rumstat.cdnvideo.ru,reject,REJECT
 HOST-SUFFIX,rw.marchex.io,reject,REJECT
 HOST-SUFFIX,s.autopilotapp.com,reject,REJECT
 HOST-SUFFIX,s.beop.io,reject,REJECT
-HOST-SUFFIX,s.clickiocdn.com,reject,REJECT
 HOST-SUFFIX,s.logsss.com,reject,REJECT
 HOST-SUFFIX,s.srvsynd.com,reject,REJECT
 HOST-SUFFIX,sa.scorpion.co,reject,REJECT
@@ -3094,7 +3088,6 @@ HOST-SUFFIX,tag.statshop.fr,reject,REJECT
 HOST-SUFFIX,tagger.opecloud.com,reject,REJECT
 HOST-SUFFIX,tags.catapultx.com,reject,REJECT
 HOST-SUFFIX,tags.cdn.circlesix.co,reject,REJECT
-HOST-SUFFIX,tags.clickagy.com,reject,REJECT
 HOST-SUFFIX,tags.dxmdp.com,reject,REJECT
 HOST-SUFFIX,tags.fullcontact.com,reject,REJECT
 HOST-SUFFIX,tags.master-perf-tools.com,reject,REJECT
@@ -3160,7 +3153,6 @@ HOST-SUFFIX,track.shop2market.com,reject,REJECT
 HOST-SUFFIX,track.sitetag.us,reject,REJECT
 HOST-SUFFIX,track.social.com,reject,REJECT
 HOST-SUFFIX,track.strife.com,reject,REJECT
-HOST-SUFFIX,track.tcppu.com,reject,REJECT
 HOST-SUFFIX,track.td3x.com,reject,REJECT
 HOST-SUFFIX,track.uc.cn,reject,REJECT
 HOST-SUFFIX,track.untd.com,reject,REJECT
@@ -3695,7 +3687,6 @@ HOST-SUFFIX,analytics2-meride-tv.akamaized.net,reject,REJECT
 HOST-SUFFIX,audit.shaa.it,reject,REJECT
 HOST-SUFFIX,click.kataweb.it,reject,REJECT
 HOST-SUFFIX,cnt.iol.it,reject,REJECT
-HOST-SUFFIX,d32hwlnfiv2gyn.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dmpcdn.el-mundo.net,reject,REJECT
 HOST-SUFFIX,dmpmetrics.rcsmetrics.it,reject,REJECT
 HOST-SUFFIX,eventsink.api.redbee.live,reject,REJECT
