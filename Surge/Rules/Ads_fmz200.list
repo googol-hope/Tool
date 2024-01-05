@@ -20,7 +20,7 @@
 
 
 # >>>>>>>>>>>>>>> ✅ # ✅ <<<<<<<<<<<<<<
-# 广告联盟
+# > 广告联盟
 DOMAIN-SUFFIX,miaozhen.com,extended-matching
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,-tos.pstatp.com
@@ -32,6 +32,10 @@ DOMAIN-KEYWORD,video-cn.snssdk.com
 DOMAIN-KEYWORD,volcvod.com
 DOMAIN-KEYWORD,volceapplog.com
 
+# > 收集用户隐私联盟
+DOMAIN-KEYWORD,volces.com
+DOMAIN-KEYWORD,volccdn.com
+# DOMAIN-KEYWORD,volc.com
 
 # >>>>>>>>>>>>>>> ✅ 0 ✅ <<<<<<<<<<<<<<
 
@@ -770,11 +774,15 @@ DOMAIN-SUFFIX,zryydi.com,extended-matching
 # > 美团
 DOMAIN,flowplus.meituan.net,extended-matching
 DOMAIN-SUFFIX,analytics.meituan.net,extended-matching
-DOMAIN-SUFFIX,meituan.xn--io0a7i,extended-matching
+DOMAIN-SUFFIX,meituan.xn,extended-matching
 DOMAIN-SUFFIX,meituan.yoga,extended-matching
 DOMAIN-SUFFIX,meituangov.cn,extended-matching
 DOMAIN-SUFFIX,report.meituan.com,extended-matching
 DOMAIN-SUFFIX,wmlog.meituan.com,extended-matching
+DOMAIN-SUFFIX,ad.e.waimai.sankuai.com,extended-matching
+DOMAIN-SUFFIX,mads.meituan.com,extended-matching
+DOMAIN-SUFFIX,dreport.meituan.net,extended-matching
+DOMAIN-SUFFIX,d.meituan.net,extended-matching
 
 # > 美颜相机 去首页和轮播广告
 DOMAIN,adui.tg.meitu.com,extended-matching
@@ -1030,6 +1038,9 @@ DOMAIN,imgadpai.thepaper.cn,extended-matching
 
 # > TalkingData
 DOMAIN-SUFFIX,cpatrk.net,extended-matching
+
+# > Talkatone
+DOMAIN-SUFFIX,tappx.com,extended-matching
 
 # > 天神
 DOMAIN,track.tenjin.com,extended-matching
@@ -9531,7 +9542,6 @@ DOMAIN-SUFFIX,track.tiara.daum.net,extended-matching
 DOMAIN-SUFFIX,track.tiara.kakao.com,extended-matching
 DOMAIN-SUFFIX,trackapp.guahao.cn,extended-matching
 DOMAIN-SUFFIX,traffic.mogujie.com,extended-matching
-DOMAIN-SUFFIX,wmlog.meituan.com,extended-matching
 DOMAIN-SUFFIX,adshow.58.com,extended-matching
 DOMAIN-SUFFIX,track.58.com,extended-matching
 DOMAIN-SUFFIX,tracklog.58.com,extended-matching
