@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401061540
+## ! Version: 202401071502
 ## ! Title: EasyPrivacy
-## ! Last modified: 06 Jan 2024 15:40 UTC
+## ! Last modified: 07 Jan 2024 15:02 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2874,6 +2874,7 @@ DOMAIN-SUFFIX,pix.revjet.com,extended-matching
 DOMAIN-SUFFIX,pix.spot.im,extended-matching
 DOMAIN-SUFFIX,pixel-a.basis.net,extended-matching
 DOMAIN-SUFFIX,pixel.ampry.com,extended-matching
+DOMAIN-SUFFIX,pixel.anyclip.com,extended-matching
 DOMAIN-SUFFIX,pixel.archipro.co.nz,extended-matching
 DOMAIN-SUFFIX,pixel.blivenyc.com,extended-matching
 DOMAIN-SUFFIX,pixel.byspotify.com,extended-matching
@@ -4146,6 +4147,7 @@ DOMAIN-SUFFIX,ea.epochbase.com,extended-matching
 DOMAIN-SUFFIX,ec.thredup.com,extended-matching
 DOMAIN-SUFFIX,edge.staging.fullstory.com,extended-matching
 DOMAIN-SUFFIX,eec.crunchyroll.com,extended-matching
+DOMAIN-SUFFIX,ejlytics.editorji.com,extended-matching
 DOMAIN-SUFFIX,engagefront.meteomedia.com,extended-matching
 DOMAIN-SUFFIX,engagefront.theweathernetwork.com,extended-matching
 DOMAIN-SUFFIX,engine.traceparts.com,extended-matching
@@ -4530,6 +4532,7 @@ DOMAIN-SUFFIX,wa.gymboree.com,extended-matching
 DOMAIN-SUFFIX,wa.pjplace.com,extended-matching
 DOMAIN-SUFFIX,wa.sugarandjade.com,extended-matching
 DOMAIN-SUFFIX,wal.wolfram.com,extended-matching
+DOMAIN-SUFFIX,wapn1.flosports.tv,extended-matching
 DOMAIN-SUFFIX,weblog.flyasiana.com,extended-matching
 DOMAIN-SUFFIX,wh.ipaddress.com,extended-matching
 DOMAIN-SUFFIX,wstats.e-wok.tv,extended-matching

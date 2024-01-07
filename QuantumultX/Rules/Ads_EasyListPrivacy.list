@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401061540
+## ! Version: 202401071502
 ## ! Title: EasyPrivacy
-## ! Last modified: 06 Jan 2024 15:40 UTC
+## ! Last modified: 07 Jan 2024 15:02 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2874,6 +2874,7 @@ HOST-SUFFIX,pix.revjet.com,reject,REJECT
 HOST-SUFFIX,pix.spot.im,reject,REJECT
 HOST-SUFFIX,pixel-a.basis.net,reject,REJECT
 HOST-SUFFIX,pixel.ampry.com,reject,REJECT
+HOST-SUFFIX,pixel.anyclip.com,reject,REJECT
 HOST-SUFFIX,pixel.archipro.co.nz,reject,REJECT
 HOST-SUFFIX,pixel.blivenyc.com,reject,REJECT
 HOST-SUFFIX,pixel.byspotify.com,reject,REJECT
@@ -4146,6 +4147,7 @@ HOST-SUFFIX,ea.epochbase.com,reject,REJECT
 HOST-SUFFIX,ec.thredup.com,reject,REJECT
 HOST-SUFFIX,edge.staging.fullstory.com,reject,REJECT
 HOST-SUFFIX,eec.crunchyroll.com,reject,REJECT
+HOST-SUFFIX,ejlytics.editorji.com,reject,REJECT
 HOST-SUFFIX,engagefront.meteomedia.com,reject,REJECT
 HOST-SUFFIX,engagefront.theweathernetwork.com,reject,REJECT
 HOST-SUFFIX,engine.traceparts.com,reject,REJECT
@@ -4530,6 +4532,7 @@ HOST-SUFFIX,wa.gymboree.com,reject,REJECT
 HOST-SUFFIX,wa.pjplace.com,reject,REJECT
 HOST-SUFFIX,wa.sugarandjade.com,reject,REJECT
 HOST-SUFFIX,wal.wolfram.com,reject,REJECT
+HOST-SUFFIX,wapn1.flosports.tv,reject,REJECT
 HOST-SUFFIX,weblog.flyasiana.com,reject,REJECT
 HOST-SUFFIX,wh.ipaddress.com,reject,REJECT
 HOST-SUFFIX,wstats.e-wok.tv,reject,REJECT
