@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401091502
+## ! Version: 202401101541
 ## ! Title: EasyPrivacy
-## ! Last modified: 09 Jan 2024 15:02 UTC
+## ! Last modified: 10 Jan 2024 15:41 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -277,6 +277,7 @@ HOST-SUFFIX,pjstat.com,reject,REJECT
 HOST-SUFFIX,plausiblecdn.co,reject,REJECT
 HOST-SUFFIX,procroanalytics.com,reject,REJECT
 HOST-SUFFIX,progmxs.com,reject,REJECT
+HOST-SUFFIX,pushvisit.xyz,reject,REJECT
 HOST-SUFFIX,pzapi-ij.com,reject,REJECT
 HOST-SUFFIX,pzapi-kg.com,reject,REJECT
 HOST-SUFFIX,pzimff.com,reject,REJECT
@@ -1722,6 +1723,7 @@ HOST-SUFFIX,scrapesleep.com,reject,REJECT
 HOST-SUFFIX,scratchsofa.com,reject,REJECT
 HOST-SUFFIX,screechingfurniture.com,reject,REJECT
 HOST-SUFFIX,screechingslip.com,reject,REJECT
+HOST-SUFFIX,screechingstocking.com,reject,REJECT
 HOST-SUFFIX,screechingstove.com,reject,REJECT
 HOST-SUFFIX,scribblestring.com,reject,REJECT
 HOST-SUFFIX,scrollservice.com,reject,REJECT
@@ -2216,6 +2218,7 @@ HOST-SUFFIX,youngmarble.com,reject,REJECT
 HOST-SUFFIX,youthfulnoise.com,reject,REJECT
 HOST-SUFFIX,zbwp6ghm.com,reject,REJECT
 HOST-SUFFIX,zealousfield.com,reject,REJECT
+HOST-SUFFIX,zephyrlabyrinth.com,reject,REJECT
 HOST-SUFFIX,zestycrime.com,reject,REJECT
 HOST-SUFFIX,zestywire.com,reject,REJECT
 HOST-SUFFIX,zipperxray.com,reject,REJECT
