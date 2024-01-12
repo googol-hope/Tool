@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401111545
+## ! Version: 202401121340
 ## ! Title: EasyPrivacy
-## ! Last modified: 11 Jan 2024 15:45 UTC
+## ! Last modified: 12 Jan 2024 13:40 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1154,6 +1154,7 @@ HOST-SUFFIX,gullibleguitar.com,reject,REJECT
 HOST-SUFFIX,gustygrandmother.com,reject,REJECT
 HOST-SUFFIX,h78xb.pw,reject,REJECT
 HOST-SUFFIX,habitualhumor.com,reject,REJECT
+HOST-SUFFIX,halcyoncanyon.com,reject,REJECT
 HOST-SUFFIX,hallowedinvention.com,reject,REJECT
 HOST-SUFFIX,haltingbadge.com,reject,REJECT
 HOST-SUFFIX,haltingdivision.com,reject,REJECT
@@ -1687,6 +1688,7 @@ HOST-SUFFIX,saffronrefuge.com,reject,REJECT
 HOST-SUFFIX,sailsuit.com,reject,REJECT
 HOST-SUFFIX,samesticks.com,reject,REJECT
 HOST-SUFFIX,samestretch.com,reject,REJECT
+HOST-SUFFIX,samplesamba.com,reject,REJECT
 HOST-SUFFIX,satisfycork.com,reject,REJECT
 HOST-SUFFIX,satisfyingshirt.com,reject,REJECT
 HOST-SUFFIX,satisfyingshow.com,reject,REJECT
@@ -32192,6 +32194,7 @@ HOST-SUFFIX,hits.zdnet.co.kr,reject,REJECT
 HOST-SUFFIX,kyson.kakao.com,reject,REJECT
 HOST-SUFFIX,l.m.naver.com,reject,REJECT
 HOST-SUFFIX,log.etoday.co.kr,reject,REJECT
+HOST-SUFFIX,log.kinolights.com,reject,REJECT
 HOST-SUFFIX,log.zdnet.co.kr,reject,REJECT
 HOST-SUFFIX,nil.naver.com,reject,REJECT
 HOST-SUFFIX,pds.auction.co.kr,reject,REJECT

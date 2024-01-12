@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401111545
+## ! Version: 202401121340
 ## ! Title: EasyPrivacy
-## ! Last modified: 11 Jan 2024 15:45 UTC
+## ! Last modified: 12 Jan 2024 13:40 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1154,6 +1154,7 @@ DOMAIN-SUFFIX,gullibleguitar.com,extended-matching
 DOMAIN-SUFFIX,gustygrandmother.com,extended-matching
 DOMAIN-SUFFIX,h78xb.pw,extended-matching
 DOMAIN-SUFFIX,habitualhumor.com,extended-matching
+DOMAIN-SUFFIX,halcyoncanyon.com,extended-matching
 DOMAIN-SUFFIX,hallowedinvention.com,extended-matching
 DOMAIN-SUFFIX,haltingbadge.com,extended-matching
 DOMAIN-SUFFIX,haltingdivision.com,extended-matching
@@ -1687,6 +1688,7 @@ DOMAIN-SUFFIX,saffronrefuge.com,extended-matching
 DOMAIN-SUFFIX,sailsuit.com,extended-matching
 DOMAIN-SUFFIX,samesticks.com,extended-matching
 DOMAIN-SUFFIX,samestretch.com,extended-matching
+DOMAIN-SUFFIX,samplesamba.com,extended-matching
 DOMAIN-SUFFIX,satisfycork.com,extended-matching
 DOMAIN-SUFFIX,satisfyingshirt.com,extended-matching
 DOMAIN-SUFFIX,satisfyingshow.com,extended-matching
@@ -32192,6 +32194,7 @@ DOMAIN-SUFFIX,hits.zdnet.co.kr,extended-matching
 DOMAIN-SUFFIX,kyson.kakao.com,extended-matching
 DOMAIN-SUFFIX,l.m.naver.com,extended-matching
 DOMAIN-SUFFIX,log.etoday.co.kr,extended-matching
+DOMAIN-SUFFIX,log.kinolights.com,extended-matching
 DOMAIN-SUFFIX,log.zdnet.co.kr,extended-matching
 DOMAIN-SUFFIX,nil.naver.com,extended-matching
 DOMAIN-SUFFIX,pds.auction.co.kr,extended-matching
