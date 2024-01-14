@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401131247
+## ! Version: 202401141301
 ## ! Title: EasyPrivacy
-## ! Last modified: 13 Jan 2024 12:47 UTC
+## ! Last modified: 14 Jan 2024 13:01 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -531,6 +531,7 @@ HOST-SUFFIX,apparatuslip.com,reject,REJECT
 HOST-SUFFIX,aquaticalarm.com,reject,REJECT
 HOST-SUFFIX,aquaticanswer.com,reject,REJECT
 HOST-SUFFIX,aquaticowl.com,reject,REJECT
+HOST-SUFFIX,ar1nvz5.com,reject,REJECT
 HOST-SUFFIX,archswimming.com,reject,REJECT
 HOST-SUFFIX,arcticamber.com,reject,REJECT
 HOST-SUFFIX,argyresthia.com,reject,REJECT
@@ -775,6 +776,7 @@ HOST-SUFFIX,compiledoctor.com,reject,REJECT
 HOST-SUFFIX,completecabbage.com,reject,REJECT
 HOST-SUFFIX,complextoad.com,reject,REJECT
 HOST-SUFFIX,conceptualizereading.com,reject,REJECT
+HOST-SUFFIX,concernedchange.com,reject,REJECT
 HOST-SUFFIX,concernedchickens.com,reject,REJECT
 HOST-SUFFIX,concernedcondition.com,reject,REJECT
 HOST-SUFFIX,condemnedcomb.com,reject,REJECT
@@ -871,6 +873,7 @@ HOST-SUFFIX,decisiveducks.com,reject,REJECT
 HOST-SUFFIX,decoroustitle.com,reject,REJECT
 HOST-SUFFIX,decoycreation.com,reject,REJECT
 HOST-SUFFIX,deerbeginner.com,reject,REJECT
+HOST-SUFFIX,defeatedbadge.com,reject,REJECT
 HOST-SUFFIX,defectivedress.com,reject,REJECT
 HOST-SUFFIX,defiantrice.com,reject,REJECT
 HOST-SUFFIX,delegatediscussion.com,reject,REJECT
@@ -912,10 +915,12 @@ HOST-SUFFIX,dk4ywix.com,reject,REJECT
 HOST-SUFFIX,dockdigestion.com,reject,REJECT
 HOST-SUFFIX,docksalmon.com,reject,REJECT
 HOST-SUFFIX,dogsshoes.com,reject,REJECT
+HOST-SUFFIX,dollardelta.com,reject,REJECT
 HOST-SUFFIX,dolldetail.com,reject,REJECT
 HOST-SUFFIX,donkeyleaf.com,reject,REJECT
 HOST-SUFFIX,doorbrazil.com,reject,REJECT
 HOST-SUFFIX,doubtdrawer.com,reject,REJECT
+HOST-SUFFIX,doubtfulrainstorm.com,reject,REJECT
 HOST-SUFFIX,downtowndirection.com,reject,REJECT
 HOST-SUFFIX,dq95d35.com,reject,REJECT
 HOST-SUFFIX,drabsize.com,reject,REJECT
@@ -979,6 +984,7 @@ HOST-SUFFIX,enormousfoot.com,reject,REJECT
 HOST-SUFFIX,entertainingeyes.com,reject,REJECT
 HOST-SUFFIX,entertainskin.com,reject,REJECT
 HOST-SUFFIX,enthusiasticdad.com,reject,REJECT
+HOST-SUFFIX,enthusiasticring.com,reject,REJECT
 HOST-SUFFIX,enthusiastictemper.com,reject,REJECT
 HOST-SUFFIX,enviousthread.com,reject,REJECT
 HOST-SUFFIX,equablekettle.com,reject,REJECT
@@ -991,6 +997,7 @@ HOST-SUFFIX,eventexistence.com,reject,REJECT
 HOST-SUFFIX,exampleshake.com,reject,REJECT
 HOST-SUFFIX,exchangedetail.com,reject,REJECT
 HOST-SUFFIX,excitingtub.com,reject,REJECT
+HOST-SUFFIX,exclusivebrass.com,reject,REJECT
 HOST-SUFFIX,exhibitsneeze.com,reject,REJECT
 HOST-SUFFIX,expansioneggnog.com,reject,REJECT
 HOST-SUFFIX,experienceeggs.com,reject,REJECT
@@ -1381,6 +1388,7 @@ HOST-SUFFIX,mistyhorizon.com,reject,REJECT
 HOST-SUFFIX,mittencattle.com,reject,REJECT
 HOST-SUFFIX,mixedreading.com,reject,REJECT
 HOST-SUFFIX,modifyeyes.com,reject,REJECT
+HOST-SUFFIX,modularmental.com,reject,REJECT
 HOST-SUFFIX,moldyicicle.com,reject,REJECT
 HOST-SUFFIX,moorshoes.com,reject,REJECT
 HOST-SUFFIX,motionflowers.com,reject,REJECT
