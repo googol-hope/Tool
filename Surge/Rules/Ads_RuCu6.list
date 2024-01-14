@@ -1,4 +1,4 @@
-# 2023-12-18 17:05
+# 2024-01-14 13:10
 
 # ======= A ======= #
 # 阿里巴巴
@@ -54,6 +54,10 @@ DOMAIN,images.ctfassets.net,extended-matching
 DOMAIN,mapi.apptimize.com,extended-matching
 DOMAIN,md-i-s.apptimize.com,extended-matching
 
+# ======= D ======= #
+# DNS 无响应
+DOMAIN,adttrackingprd.hwwt8.com,extended-matching
+
 # ======= F ======= #
 # Foreca & Google
 DOMAIN,pagead2.googlesyndication.com,extended-matching
@@ -106,8 +110,6 @@ DOMAIN,ad.tencentmusic.com,extended-matching
 DOMAIN,g.koowo.com,extended-matching
 DOMAIN,mobilead.kuwo.cn,extended-matching
 DOMAIN,rich.kuwo.cn,extended-matching
-DOMAIN,tmead.y.qq.com,extended-matching
-DOMAIN,tmeadcomm.y.qq.com,extended-matching
 
 # ======= L ======= #
 # 蓝奏云
@@ -161,6 +163,9 @@ DOMAIN,info6.video.qq.com,extended-matching
 DOMAIN,ios.video.mpush.qq.com,extended-matching
 DOMAIN,otheve.beacon.qq.com,extended-matching
 DOMAIN,pgdt.gtimg.cn,extended-matching
+DOMAIN,tmead.y.qq.com,extended-matching
+DOMAIN,tmeadbak.y.qq.com,extended-matching
+DOMAIN,tmeadcomm.y.qq.com,extended-matching
 DOMAIN,tpns.qq.com,extended-matching
 DOMAIN-SUFFIX,gdt.qq.com,extended-matching
 DOMAIN-SUFFIX,l.qq.com,extended-matching
