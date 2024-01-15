@@ -1,4 +1,4 @@
-# 2024-01-14 13:10
+# 2024-01-15 20:40
 
 # ======= A ======= #
 # 阿里巴巴
@@ -79,7 +79,6 @@ DOMAIN,is.snssdk.com,extended-matching
 DOMAIN,open.e.kuaishou.com,extended-matching
 DOMAIN-SUFFIX,miaozhen.com,extended-matching
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
-DOMAIN-KEYWORD,-tos.pstatp.com
 DOMAIN-KEYWORD,asiad.byteactivity
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
 DOMAIN-KEYWORD,pangolin.snssdk.com
