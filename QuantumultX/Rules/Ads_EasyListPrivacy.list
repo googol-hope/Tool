@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401141301
+## ! Version: 202401151530
 ## ! Title: EasyPrivacy
-## ! Last modified: 14 Jan 2024 13:01 UTC
+## ! Last modified: 15 Jan 2024 15:30 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -603,6 +603,7 @@ HOST-SUFFIX,bewilderedblade.com,reject,REJECT
 HOST-SUFFIX,bikesboard.com,reject,REJECT
 HOST-SUFFIX,billowybead.com,reject,REJECT
 HOST-SUFFIX,billowybelief.com,reject,REJECT
+HOST-SUFFIX,birthdaybelief.com,reject,REJECT
 HOST-SUFFIX,bitterbear.com,reject,REJECT
 HOST-SUFFIX,blackbrake.com,reject,REJECT
 HOST-SUFFIX,bleachbubble.com,reject,REJECT
@@ -1505,6 +1506,7 @@ HOST-SUFFIX,piquantprice.com,reject,REJECT
 HOST-SUFFIX,piquantstove.com,reject,REJECT
 HOST-SUFFIX,pizzasnut.com,reject,REJECT
 HOST-SUFFIX,placeframe.com,reject,REJECT
+HOST-SUFFIX,placidactivity.com,reject,REJECT
 HOST-SUFFIX,placidperson.com,reject,REJECT
 HOST-SUFFIX,plainplayground.com,reject,REJECT
 HOST-SUFFIX,plainrequest.com,reject,REJECT
@@ -1735,6 +1737,7 @@ HOST-SUFFIX,screechingfurniture.com,reject,REJECT
 HOST-SUFFIX,screechingslip.com,reject,REJECT
 HOST-SUFFIX,screechingstocking.com,reject,REJECT
 HOST-SUFFIX,screechingstove.com,reject,REJECT
+HOST-SUFFIX,scribbleson.com,reject,REJECT
 HOST-SUFFIX,scribblestring.com,reject,REJECT
 HOST-SUFFIX,scrollservice.com,reject,REJECT
 HOST-SUFFIX,scrubswim.com,reject,REJECT
@@ -1833,6 +1836,7 @@ HOST-SUFFIX,smilingwaves.com,reject,REJECT
 HOST-SUFFIX,smoggysnakes.com,reject,REJECT
 HOST-SUFFIX,smoggysongs.com,reject,REJECT
 HOST-SUFFIX,smoggystation.com,reject,REJECT
+HOST-SUFFIX,snailscart.com,reject,REJECT
 HOST-SUFFIX,snailsengine.com,reject,REJECT
 HOST-SUFFIX,snakemineral.com,reject,REJECT
 HOST-SUFFIX,snakeslang.com,reject,REJECT
@@ -4046,6 +4050,7 @@ HOST-SUFFIX,analytics.hashnode.com,reject,REJECT
 HOST-SUFFIX,analytics.kaggle.io,reject,REJECT
 HOST-SUFFIX,analytics.kooapp.com,reject,REJECT
 HOST-SUFFIX,analytics.makeitmeme.com,reject,REJECT
+HOST-SUFFIX,analytics.maxroll.gg,reject,REJECT
 HOST-SUFFIX,analytics.ml.homedepot.ca,reject,REJECT
 HOST-SUFFIX,analytics.mouthshut.com,reject,REJECT
 HOST-SUFFIX,analytics.nike.com,reject,REJECT
