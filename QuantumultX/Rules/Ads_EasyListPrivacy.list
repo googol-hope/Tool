@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401161448
+## ! Version: 202401171521
 ## ! Title: EasyPrivacy
-## ! Last modified: 16 Jan 2024 14:48 UTC
+## ! Last modified: 17 Jan 2024 15:21 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4112,8 +4112,6 @@ HOST-SUFFIX,client-metrics.chess.com,reject,REJECT
 HOST-SUFFIX,clp-mms.cloudpro.co.uk,reject,REJECT
 HOST-SUFFIX,cm-mms.coachmag.co.uk,reject,REJECT
 HOST-SUFFIX,cm.nordvpn.com,reject,REJECT
-HOST-SUFFIX,cmpworker.dotesports.com,reject,REJECT
-HOST-SUFFIX,cmpworker.primagames.com,reject,REJECT
 HOST-SUFFIX,cnt.hd21.com,reject,REJECT
 HOST-SUFFIX,cnt.iceporn.com,reject,REJECT
 HOST-SUFFIX,cnt.viptube.com,reject,REJECT
@@ -7509,6 +7507,7 @@ HOST-SUFFIX,aa.dyson.co.uk,reject,REJECT
 HOST-SUFFIX,aa.dyson.com,reject,REJECT
 HOST-SUFFIX,aa.dyson.de,reject,REJECT
 HOST-SUFFIX,aa.dyson.dk,reject,REJECT
+HOST-SUFFIX,aa.dyson.es,reject,REJECT
 HOST-SUFFIX,aa.maxblue.de,reject,REJECT
 HOST-SUFFIX,aa.norisbank.de,reject,REJECT
 HOST-SUFFIX,aa.postbank.de,reject,REJECT
@@ -7525,6 +7524,7 @@ HOST-SUFFIX,academics.academicsuperstore.com,reject,REJECT
 HOST-SUFFIX,acs.woolworths.com.au,reject,REJECT
 HOST-SUFFIX,activity.newlook.com,reject,REJECT
 HOST-SUFFIX,adb-analytics.live-now.com,reject,REJECT
+HOST-SUFFIX,adbmetrics.koreanair.com,reject,REJECT
 HOST-SUFFIX,adbmetrics.larioja.com,reject,REJECT
 HOST-SUFFIX,adbmetrics.lasprovincias.es,reject,REJECT
 HOST-SUFFIX,adbmetrics.laverdad.es,reject,REJECT
@@ -8426,6 +8426,7 @@ HOST-SUFFIX,dii3.zooplus.gr,reject,REJECT
 HOST-SUFFIX,dii3.zooplus.hr,reject,REJECT
 HOST-SUFFIX,dii3.zooplus.hu,reject,REJECT
 HOST-SUFFIX,dii3.zooplus.ie,reject,REJECT
+HOST-SUFFIX,dii3.zooplus.it,reject,REJECT
 HOST-SUFFIX,eagle.kudzu.com,reject,REJECT
 HOST-SUFFIX,electronics.sony-latin.com,reject,REJECT
 HOST-SUFFIX,emetrics.bose.ca,reject,REJECT
@@ -9185,6 +9186,7 @@ HOST-SUFFIX,metrics.fortune.com,reject,REJECT
 HOST-SUFFIX,metrics.fressnapf.ch,reject,REJECT
 HOST-SUFFIX,metrics.friskies.com,reject,REJECT
 HOST-SUFFIX,metrics.ftd.com,reject,REJECT
+HOST-SUFFIX,metrics.galicia.ar,reject,REJECT
 HOST-SUFFIX,metrics.gap.com,reject,REJECT
 HOST-SUFFIX,metrics.genesis.es,reject,REJECT
 HOST-SUFFIX,metrics.gengraf.com,reject,REJECT
@@ -9557,6 +9559,7 @@ HOST-SUFFIX,metrics.rbcgam.com,reject,REJECT
 HOST-SUFFIX,metrics.rci.com,reject,REJECT
 HOST-SUFFIX,metrics.rcsmetrics.it,reject,REJECT
 HOST-SUFFIX,metrics.realclearpolitics.com,reject,REJECT
+HOST-SUFFIX,metrics.reallymoving.com,reject,REJECT
 HOST-SUFFIX,metrics.realpropertymgt.com,reject,REJECT
 HOST-SUFFIX,metrics.realsimple.com,reject,REJECT
 HOST-SUFFIX,metrics.realtor.com,reject,REJECT
@@ -23989,6 +23992,8 @@ HOST-SUFFIX,images.constellation.quintiles.com,reject,REJECT
 HOST-SUFFIX,images.contact.cigna.com,reject,REJECT
 HOST-SUFFIX,images.contact.princess.com,reject,REJECT
 HOST-SUFFIX,images.contact.staubli.com,reject,REJECT
+HOST-SUFFIX,images.contacto.unis.edu.gt,reject,REJECT
+HOST-SUFFIX,images.e.seagate.com,reject,REJECT
 HOST-SUFFIX,images.e.skandia.pl,reject,REJECT
 HOST-SUFFIX,images.e.tcichemicals.com,reject,REJECT
 HOST-SUFFIX,images.e.transunion.com,reject,REJECT
@@ -24573,6 +24578,7 @@ HOST-SUFFIX,mail.dolce-gusto.com.au,reject,REJECT
 HOST-SUFFIX,mail.dolce-gusto.com.my,reject,REJECT
 HOST-SUFFIX,mail.dolce-gusto.com.sg,reject,REJECT
 HOST-SUFFIX,mail.dolce-gusto.com.tw,reject,REJECT
+HOST-SUFFIX,mail.dolce-gusto.cz,reject,REJECT
 HOST-SUFFIX,mail.hsm.co.uk,reject,REJECT
 HOST-SUFFIX,making-future.afry.com,reject,REJECT
 HOST-SUFFIX,marketing-ap.mmc.co.jp,reject,REJECT
@@ -24755,6 +24761,9 @@ HOST-SUFFIX,organizations.stratfor.com,reject,REJECT
 HOST-SUFFIX,origin.www.images.2.forms.healthcare.philips.com,reject,REJECT
 HOST-SUFFIX,our.sunshinecoast.qld.gov.au,reject,REJECT
 HOST-SUFFIX,outsource.sitel.com,reject,REJECT
+HOST-SUFFIX,owp-hk.americanexpress.com,reject,REJECT
+HOST-SUFFIX,owp-sg-prop.americanexpress.com,reject,REJECT
+HOST-SUFFIX,owp-tw.americanexpress.com,reject,REJECT
 HOST-SUFFIX,p01.sc.origins.en25.com,reject,REJECT
 HOST-SUFFIX,p03.sc.origins.en25.com,reject,REJECT
 HOST-SUFFIX,p04.sc.origins.en25.com,reject,REJECT
@@ -25955,6 +25964,7 @@ HOST-SUFFIX,trk.designcon.com,reject,REJECT
 HOST-SUFFIX,trk.designnews.com,reject,REJECT
 HOST-SUFFIX,trk.digitaltveurope.com,reject,REJECT
 HOST-SUFFIX,trk.dosatron.com,reject,REJECT
+HOST-SUFFIX,trk.drdobbs.com,reject,REJECT
 HOST-SUFFIX,trk.du-darfst.de,reject,REJECT
 HOST-SUFFIX,trk.dvsystems.com,reject,REJECT
 HOST-SUFFIX,trk.e.chooseumpquabank.com,reject,REJECT

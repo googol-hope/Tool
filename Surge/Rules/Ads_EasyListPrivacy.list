@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401161448
+## ! Version: 202401171521
 ## ! Title: EasyPrivacy
-## ! Last modified: 16 Jan 2024 14:48 UTC
+## ! Last modified: 17 Jan 2024 15:21 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4112,8 +4112,6 @@ DOMAIN-SUFFIX,client-metrics.chess.com,extended-matching
 DOMAIN-SUFFIX,clp-mms.cloudpro.co.uk,extended-matching
 DOMAIN-SUFFIX,cm-mms.coachmag.co.uk,extended-matching
 DOMAIN-SUFFIX,cm.nordvpn.com,extended-matching
-DOMAIN-SUFFIX,cmpworker.dotesports.com,extended-matching
-DOMAIN-SUFFIX,cmpworker.primagames.com,extended-matching
 DOMAIN-SUFFIX,cnt.hd21.com,extended-matching
 DOMAIN-SUFFIX,cnt.iceporn.com,extended-matching
 DOMAIN-SUFFIX,cnt.viptube.com,extended-matching
@@ -7509,6 +7507,7 @@ DOMAIN-SUFFIX,aa.dyson.co.uk,extended-matching
 DOMAIN-SUFFIX,aa.dyson.com,extended-matching
 DOMAIN-SUFFIX,aa.dyson.de,extended-matching
 DOMAIN-SUFFIX,aa.dyson.dk,extended-matching
+DOMAIN-SUFFIX,aa.dyson.es,extended-matching
 DOMAIN-SUFFIX,aa.maxblue.de,extended-matching
 DOMAIN-SUFFIX,aa.norisbank.de,extended-matching
 DOMAIN-SUFFIX,aa.postbank.de,extended-matching
@@ -7525,6 +7524,7 @@ DOMAIN-SUFFIX,academics.academicsuperstore.com,extended-matching
 DOMAIN-SUFFIX,acs.woolworths.com.au,extended-matching
 DOMAIN-SUFFIX,activity.newlook.com,extended-matching
 DOMAIN-SUFFIX,adb-analytics.live-now.com,extended-matching
+DOMAIN-SUFFIX,adbmetrics.koreanair.com,extended-matching
 DOMAIN-SUFFIX,adbmetrics.larioja.com,extended-matching
 DOMAIN-SUFFIX,adbmetrics.lasprovincias.es,extended-matching
 DOMAIN-SUFFIX,adbmetrics.laverdad.es,extended-matching
@@ -8426,6 +8426,7 @@ DOMAIN-SUFFIX,dii3.zooplus.gr,extended-matching
 DOMAIN-SUFFIX,dii3.zooplus.hr,extended-matching
 DOMAIN-SUFFIX,dii3.zooplus.hu,extended-matching
 DOMAIN-SUFFIX,dii3.zooplus.ie,extended-matching
+DOMAIN-SUFFIX,dii3.zooplus.it,extended-matching
 DOMAIN-SUFFIX,eagle.kudzu.com,extended-matching
 DOMAIN-SUFFIX,electronics.sony-latin.com,extended-matching
 DOMAIN-SUFFIX,emetrics.bose.ca,extended-matching
@@ -9185,6 +9186,7 @@ DOMAIN-SUFFIX,metrics.fortune.com,extended-matching
 DOMAIN-SUFFIX,metrics.fressnapf.ch,extended-matching
 DOMAIN-SUFFIX,metrics.friskies.com,extended-matching
 DOMAIN-SUFFIX,metrics.ftd.com,extended-matching
+DOMAIN-SUFFIX,metrics.galicia.ar,extended-matching
 DOMAIN-SUFFIX,metrics.gap.com,extended-matching
 DOMAIN-SUFFIX,metrics.genesis.es,extended-matching
 DOMAIN-SUFFIX,metrics.gengraf.com,extended-matching
@@ -9557,6 +9559,7 @@ DOMAIN-SUFFIX,metrics.rbcgam.com,extended-matching
 DOMAIN-SUFFIX,metrics.rci.com,extended-matching
 DOMAIN-SUFFIX,metrics.rcsmetrics.it,extended-matching
 DOMAIN-SUFFIX,metrics.realclearpolitics.com,extended-matching
+DOMAIN-SUFFIX,metrics.reallymoving.com,extended-matching
 DOMAIN-SUFFIX,metrics.realpropertymgt.com,extended-matching
 DOMAIN-SUFFIX,metrics.realsimple.com,extended-matching
 DOMAIN-SUFFIX,metrics.realtor.com,extended-matching
@@ -23989,6 +23992,8 @@ DOMAIN-SUFFIX,images.constellation.quintiles.com,extended-matching
 DOMAIN-SUFFIX,images.contact.cigna.com,extended-matching
 DOMAIN-SUFFIX,images.contact.princess.com,extended-matching
 DOMAIN-SUFFIX,images.contact.staubli.com,extended-matching
+DOMAIN-SUFFIX,images.contacto.unis.edu.gt,extended-matching
+DOMAIN-SUFFIX,images.e.seagate.com,extended-matching
 DOMAIN-SUFFIX,images.e.skandia.pl,extended-matching
 DOMAIN-SUFFIX,images.e.tcichemicals.com,extended-matching
 DOMAIN-SUFFIX,images.e.transunion.com,extended-matching
@@ -24573,6 +24578,7 @@ DOMAIN-SUFFIX,mail.dolce-gusto.com.au,extended-matching
 DOMAIN-SUFFIX,mail.dolce-gusto.com.my,extended-matching
 DOMAIN-SUFFIX,mail.dolce-gusto.com.sg,extended-matching
 DOMAIN-SUFFIX,mail.dolce-gusto.com.tw,extended-matching
+DOMAIN-SUFFIX,mail.dolce-gusto.cz,extended-matching
 DOMAIN-SUFFIX,mail.hsm.co.uk,extended-matching
 DOMAIN-SUFFIX,making-future.afry.com,extended-matching
 DOMAIN-SUFFIX,marketing-ap.mmc.co.jp,extended-matching
@@ -24755,6 +24761,9 @@ DOMAIN-SUFFIX,organizations.stratfor.com,extended-matching
 DOMAIN-SUFFIX,origin.www.images.2.forms.healthcare.philips.com,extended-matching
 DOMAIN-SUFFIX,our.sunshinecoast.qld.gov.au,extended-matching
 DOMAIN-SUFFIX,outsource.sitel.com,extended-matching
+DOMAIN-SUFFIX,owp-hk.americanexpress.com,extended-matching
+DOMAIN-SUFFIX,owp-sg-prop.americanexpress.com,extended-matching
+DOMAIN-SUFFIX,owp-tw.americanexpress.com,extended-matching
 DOMAIN-SUFFIX,p01.sc.origins.en25.com,extended-matching
 DOMAIN-SUFFIX,p03.sc.origins.en25.com,extended-matching
 DOMAIN-SUFFIX,p04.sc.origins.en25.com,extended-matching
@@ -25955,6 +25964,7 @@ DOMAIN-SUFFIX,trk.designcon.com,extended-matching
 DOMAIN-SUFFIX,trk.designnews.com,extended-matching
 DOMAIN-SUFFIX,trk.digitaltveurope.com,extended-matching
 DOMAIN-SUFFIX,trk.dosatron.com,extended-matching
+DOMAIN-SUFFIX,trk.drdobbs.com,extended-matching
 DOMAIN-SUFFIX,trk.du-darfst.de,extended-matching
 DOMAIN-SUFFIX,trk.dvsystems.com,extended-matching
 DOMAIN-SUFFIX,trk.e.chooseumpquabank.com,extended-matching
