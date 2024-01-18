@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401171521
+## ! Version: 202401181457
 ## ! Title: EasyPrivacy
-## ! Last modified: 17 Jan 2024 15:21 UTC
+## ! Last modified: 18 Jan 2024 14:57 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1538,6 +1538,7 @@ HOST-SUFFIX,popcornfood.com,reject,REJECT
 HOST-SUFFIX,popplantation.com,reject,REJECT
 HOST-SUFFIX,possessivebucket.com,reject,REJECT
 HOST-SUFFIX,possibleboats.com,reject,REJECT
+HOST-SUFFIX,possiblepencil.com,reject,REJECT
 HOST-SUFFIX,potatoinvention.com,reject,REJECT
 HOST-SUFFIX,powderjourney.com,reject,REJECT
 HOST-SUFFIX,powderprofit.com,reject,REJECT
@@ -2612,6 +2613,7 @@ HOST-SUFFIX,doppler-reporting.cbsivideo.com,reject,REJECT
 HOST-SUFFIX,doug1izaerwt3.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dx.mountain.com,reject,REJECT
 HOST-SUFFIX,dynamic.ziftsolutions.com,reject,REJECT
+HOST-SUFFIX,e.channelexco.com,reject,REJECT
 HOST-SUFFIX,e.htplayground.com,reject,REJECT
 HOST-SUFFIX,e.metarouter.io,reject,REJECT
 HOST-SUFFIX,ea.youmaker.com,reject,REJECT
@@ -32281,10 +32283,12 @@ HOST-SUFFIX,views.b1tv.ro,reject,REJECT
 HOST-SUFFIX,views.romaniatv.net,reject,REJECT
 HOST-SUFFIX,a.mts.ru,reject,REJECT
 HOST-SUFFIX,a.pikabu.ru,reject,REJECT
+HOST-SUFFIX,a.ria.ru,reject,REJECT
 HOST-SUFFIX,ad7.bigmir.net,reject,REJECT
 HOST-SUFFIX,affilate.hh.ru,reject,REJECT
 HOST-SUFFIX,analytics.carambatv.ru,reject,REJECT
 HOST-SUFFIX,c.sibnet.ru,reject,REJECT
+HOST-SUFFIX,clck.dzen.ru,reject,REJECT
 HOST-SUFFIX,counter.drom.ru,reject,REJECT
 HOST-SUFFIX,counter.sibnet.ru,reject,REJECT
 HOST-SUFFIX,cpa.hh.ru,reject,REJECT
@@ -32293,9 +32297,11 @@ HOST-SUFFIX,cvt1.sibnet.ru,reject,REJECT
 HOST-SUFFIX,data.glamour.ru,reject,REJECT
 HOST-SUFFIX,goya.rutube.ru,reject,REJECT
 HOST-SUFFIX,link.subscribe.ru,reject,REJECT
+HOST-SUFFIX,log.dzen.ru,reject,REJECT
 HOST-SUFFIX,log.ren.tv,reject,REJECT
 HOST-SUFFIX,log.rutube.ru,reject,REJECT
 HOST-SUFFIX,metrika.kontur.ru,reject,REJECT
+HOST-SUFFIX,ms.dzen.ru,reject,REJECT
 HOST-SUFFIX,pixels.boxberry.ru,reject,REJECT
 HOST-SUFFIX,radar.imgsmail.ru,reject,REJECT
 HOST-SUFFIX,ssp.rambler.ru,reject,REJECT

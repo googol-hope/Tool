@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401171521
+## ! Version: 202401181457
 ## ! Title: EasyPrivacy
-## ! Last modified: 17 Jan 2024 15:21 UTC
+## ! Last modified: 18 Jan 2024 14:57 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1538,6 +1538,7 @@ DOMAIN-SUFFIX,popcornfood.com,extended-matching
 DOMAIN-SUFFIX,popplantation.com,extended-matching
 DOMAIN-SUFFIX,possessivebucket.com,extended-matching
 DOMAIN-SUFFIX,possibleboats.com,extended-matching
+DOMAIN-SUFFIX,possiblepencil.com,extended-matching
 DOMAIN-SUFFIX,potatoinvention.com,extended-matching
 DOMAIN-SUFFIX,powderjourney.com,extended-matching
 DOMAIN-SUFFIX,powderprofit.com,extended-matching
@@ -2612,6 +2613,7 @@ DOMAIN-SUFFIX,doppler-reporting.cbsivideo.com,extended-matching
 DOMAIN-SUFFIX,doug1izaerwt3.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dx.mountain.com,extended-matching
 DOMAIN-SUFFIX,dynamic.ziftsolutions.com,extended-matching
+DOMAIN-SUFFIX,e.channelexco.com,extended-matching
 DOMAIN-SUFFIX,e.htplayground.com,extended-matching
 DOMAIN-SUFFIX,e.metarouter.io,extended-matching
 DOMAIN-SUFFIX,ea.youmaker.com,extended-matching
@@ -32281,10 +32283,12 @@ DOMAIN-SUFFIX,views.b1tv.ro,extended-matching
 DOMAIN-SUFFIX,views.romaniatv.net,extended-matching
 DOMAIN-SUFFIX,a.mts.ru,extended-matching
 DOMAIN-SUFFIX,a.pikabu.ru,extended-matching
+DOMAIN-SUFFIX,a.ria.ru,extended-matching
 DOMAIN-SUFFIX,ad7.bigmir.net,extended-matching
 DOMAIN-SUFFIX,affilate.hh.ru,extended-matching
 DOMAIN-SUFFIX,analytics.carambatv.ru,extended-matching
 DOMAIN-SUFFIX,c.sibnet.ru,extended-matching
+DOMAIN-SUFFIX,clck.dzen.ru,extended-matching
 DOMAIN-SUFFIX,counter.drom.ru,extended-matching
 DOMAIN-SUFFIX,counter.sibnet.ru,extended-matching
 DOMAIN-SUFFIX,cpa.hh.ru,extended-matching
@@ -32293,9 +32297,11 @@ DOMAIN-SUFFIX,cvt1.sibnet.ru,extended-matching
 DOMAIN-SUFFIX,data.glamour.ru,extended-matching
 DOMAIN-SUFFIX,goya.rutube.ru,extended-matching
 DOMAIN-SUFFIX,link.subscribe.ru,extended-matching
+DOMAIN-SUFFIX,log.dzen.ru,extended-matching
 DOMAIN-SUFFIX,log.ren.tv,extended-matching
 DOMAIN-SUFFIX,log.rutube.ru,extended-matching
 DOMAIN-SUFFIX,metrika.kontur.ru,extended-matching
+DOMAIN-SUFFIX,ms.dzen.ru,extended-matching
 DOMAIN-SUFFIX,pixels.boxberry.ru,extended-matching
 DOMAIN-SUFFIX,radar.imgsmail.ru,extended-matching
 DOMAIN-SUFFIX,ssp.rambler.ru,extended-matching
