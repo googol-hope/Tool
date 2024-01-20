@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401191544
+## ! Version: 202401201223
 ## ! Title: EasyPrivacy
-## ! Last modified: 19 Jan 2024 15:44 UTC
+## ! Last modified: 20 Jan 2024 12:23 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -22285,8 +22285,11 @@ HOST-SUFFIX,xwpoxv.birdies.com,reject,REJECT
 HOST-SUFFIX,xxjiqg.oysho.com,reject,REJECT
 HOST-SUFFIX,xxlefq.commentcamarche.net,reject,REJECT
 HOST-SUFFIX,xxlefq.hugolescargot.com,reject,REJECT
+HOST-SUFFIX,xxlefq.jeux-gratuits.com,reject,REJECT
 HOST-SUFFIX,xxlefq.journaldesfemmes.fr,reject,REJECT
+HOST-SUFFIX,xxlefq.journaldunet.com,reject,REJECT
 HOST-SUFFIX,xxlefq.linternaute.com,reject,REJECT
+HOST-SUFFIX,xyhojp.lacoste.com,reject,REJECT
 HOST-SUFFIX,xymhzq.klingel.de,reject,REJECT
 HOST-SUFFIX,xyxgbs.lezhin.com,reject,REJECT
 HOST-SUFFIX,xyzznt.uterque.com,reject,REJECT
