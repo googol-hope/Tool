@@ -770,6 +770,7 @@ HOST-SUFFIX,cahr.org.tw,PROXY
 HOST-SUFFIX,caijinglengyan.com,PROXY
 HOST-SUFFIX,calameo.com,PROXY
 HOST-SUFFIX,calebelston.com,PROXY
+HOST-SUFFIX,calendarz.com,PROXY
 HOST-SUFFIX,calgarychinese.ca,PROXY
 HOST-SUFFIX,calgarychinese.com,PROXY
 HOST-SUFFIX,calgarychinese.net,PROXY
@@ -839,6 +840,7 @@ HOST-SUFFIX,cdcparty.com,PROXY
 HOST-SUFFIX,cdef.org,PROXY
 HOST-SUFFIX,cdig.info,PROXY
 HOST-SUFFIX,cdjp.org,PROXY
+HOST-SUFFIX,cdn-telegram.org,PROXY
 HOST-SUFFIX,cdnews.com.tw,PROXY
 HOST-SUFFIX,cdninstagram.com,PROXY
 HOST-SUFFIX,cdp1989.org,PROXY
@@ -1067,6 +1069,7 @@ HOST-SUFFIX,comefromchina.com,PROXY
 HOST-SUFFIX,comic-mega.me,PROXY
 HOST-SUFFIX,comico.tw,PROXY
 HOST-SUFFIX,commandarms.com,PROXY
+HOST-SUFFIX,comments.app,PROXY
 HOST-SUFFIX,commentshk.com,PROXY
 HOST-SUFFIX,communistcrimes.org,PROXY
 HOST-SUFFIX,communitychoicecu.com,PROXY
@@ -1919,6 +1922,7 @@ HOST-SUFFIX,geekerhome.com,PROXY
 HOST-SUFFIX,geekheart.info,PROXY
 HOST-SUFFIX,gekikame.com,PROXY
 HOST-SUFFIX,gelbooru.com,PROXY
+HOST-SUFFIX,generated.photos,PROXY
 HOST-SUFFIX,genius.com,PROXY
 HOST-SUFFIX,geocities.co.jp,PROXY
 HOST-SUFFIX,geocities.com,PROXY
@@ -2292,10 +2296,10 @@ HOST-SUFFIX,gradconnection.com,PROXY
 HOST-SUFFIX,grammaly.com,PROXY
 HOST-SUFFIX,grandtrial.org,PROXY
 HOST-SUFFIX,grangorz.org,PROXY
+HOST-SUFFIX,graph.org,PROXY
 HOST-SUFFIX,graphis.ne.jp,PROXY
 HOST-SUFFIX,graphql.org,PROXY
 HOST-SUFFIX,gravatar.com,PROXY
-HOST-SUFFIX,greasespot.net,PROXY
 HOST-SUFFIX,great-firewall.com,PROXY
 HOST-SUFFIX,great-roc.org,PROXY
 HOST-SUFFIX,greatfire.org,PROXY
@@ -2585,6 +2589,8 @@ HOST-SUFFIX,huayuworld.org,PROXY
 HOST-SUFFIX,hudatoriq.web.id,PROXY
 HOST-SUFFIX,hudson.org,PROXY
 HOST-SUFFIX,huffingtonpost.com,PROXY
+HOST-SUFFIX,huffpost.com,PROXY
+HOST-SUFFIX,huggingface.co,PROXY
 HOST-SUFFIX,hugoroy.eu,PROXY
 HOST-SUFFIX,huhaitai.com,PROXY
 HOST-SUFFIX,huhamhire.com,PROXY
@@ -3734,6 +3740,7 @@ HOST-SUFFIX,oann.com,PROXY
 HOST-SUFFIX,oauth.net,PROXY
 HOST-SUFFIX,observechina.net,PROXY
 HOST-SUFFIX,obutu.com,PROXY
+HOST-SUFFIX,obyte.org,PROXY
 HOST-SUFFIX,ocaspro.com,PROXY
 HOST-SUFFIX,occupytiananmen.com,PROXY
 HOST-SUFFIX,oclp.hk,PROXY
@@ -4099,6 +4106,7 @@ HOST-SUFFIX,pshvpn.com,PROXY
 HOST-SUFFIX,psiphon.ca,PROXY
 HOST-SUFFIX,psiphon3.com,PROXY
 HOST-SUFFIX,psiphontoday.com,PROXY
+HOST-SUFFIX,pstatic.net,PROXY
 HOST-SUFFIX,pt.im,PROXY
 HOST-SUFFIX,pts.org.tw,PROXY
 HOST-SUFFIX,ptt.cc,PROXY
@@ -4157,6 +4165,7 @@ HOST-SUFFIX,quantumbooter.net,PROXY
 HOST-SUFFIX,questvisual.com,PROXY
 HOST-SUFFIX,quitccp.net,PROXY
 HOST-SUFFIX,quitccp.org,PROXY
+HOST-SUFFIX,quiz.directory,PROXY
 HOST-SUFFIX,quora.com,PROXY
 HOST-SUFFIX,quoracdn.net,PROXY
 HOST-SUFFIX,quran.com,PROXY
@@ -4855,9 +4864,11 @@ HOST-SUFFIX,teensinasia.com,PROXY
 HOST-SUFFIX,tehrantimes.com,PROXY
 HOST-SUFFIX,telecomspace.com,PROXY
 HOST-SUFFIX,telegra.ph,PROXY
+HOST-SUFFIX,telegram-cdn.org,PROXY
 HOST-SUFFIX,telegram.dog,PROXY
 HOST-SUFFIX,telegram.me,PROXY
 HOST-SUFFIX,telegram.org,PROXY
+HOST-SUFFIX,telegram.space,PROXY
 HOST-SUFFIX,telegramdownload.com,PROXY
 HOST-SUFFIX,telegraph.co.uk,PROXY
 HOST-SUFFIX,telesco.pe,PROXY
@@ -4926,6 +4937,7 @@ HOST-SUFFIX,thlib.org,PROXY
 HOST-SUFFIX,thomasbernhard.org,PROXY
 HOST-SUFFIX,thongdreams.com,PROXY
 HOST-SUFFIX,threadreaderapp.com,PROXY
+HOST-SUFFIX,threads.net,PROXY
 HOST-SUFFIX,threatchaos.com,PROXY
 HOST-SUFFIX,throughnightsfire.com,PROXY
 HOST-SUFFIX,thumbzilla.com,PROXY
@@ -5552,6 +5564,7 @@ HOST-SUFFIX,wattpad.com,PROXY
 HOST-SUFFIX,wav.tv,PROXY
 HOST-SUFFIX,waveprotocol.org,PROXY
 HOST-SUFFIX,waymo.com,PROXY
+HOST-SUFFIX,wd.bible,PROXY
 HOST-SUFFIX,wda.gov.tw,PROXY
 HOST-SUFFIX,wdf5.com,PROXY
 HOST-SUFFIX,wealth.com.tw,PROXY
@@ -5667,12 +5680,12 @@ HOST-SUFFIX,witnessleeteaching.com,PROXY
 HOST-SUFFIX,witopia.net,PROXY
 HOST-SUFFIX,wizcrafts.net,PROXY
 HOST-SUFFIX,wjbk.org,PROXY
+HOST-SUFFIX,wmflabs.org,PROXY
 HOST-SUFFIX,wn.com,PROXY
 HOST-SUFFIX,wnacg.com,PROXY
 HOST-SUFFIX,wnacg.org,PROXY
 HOST-SUFFIX,wo.tc,PROXY
 HOST-SUFFIX,woeser.com,PROXY
-HOST-SUFFIX,woesermiddle-way.net,PROXY
 HOST-SUFFIX,wokar.org,PROXY
 HOST-SUFFIX,wolfax.com,PROXY
 HOST-SUFFIX,wombo.ai,PROXY
@@ -5830,6 +5843,7 @@ HOST-SUFFIX,yam.com,PROXY
 HOST-SUFFIX,yam.org.tw,PROXY
 HOST-SUFFIX,yande.re,PROXY
 HOST-SUFFIX,yandex.com,PROXY
+HOST-SUFFIX,yandex.ru,PROXY
 HOST-SUFFIX,yanghengjun.com,PROXY
 HOST-SUFFIX,yangjianli.com,PROXY
 HOST-SUFFIX,yasni.co.uk,PROXY

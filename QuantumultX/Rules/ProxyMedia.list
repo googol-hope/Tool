@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2023-12-14 21:59:10
-# 数量：369条
+# 更新：2024-01-23 22:08:30
+# 数量：368条
 
 # ABC
 HOST-SUFFIX,edgedatg.com,PROXY
@@ -161,7 +161,6 @@ HOST-SUFFIX,hbonow.com,PROXY
 
 # HBO_GO_HKG
 USER-AGENT,HBO%20GO%20PROD*,PROXY
-HOST-KEYWORD,.hbogoasia.,PROXY
 HOST-KEYWORD,hbogoasia,PROXY
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,PROXY
 HOST,bcbolthboa-a.akamaihd.net,PROXY
