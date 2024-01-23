@@ -82,6 +82,12 @@ HOST,gamer2-cds.cdn.hinet.net,PROXY
 HOST-SUFFIX,bahamut.com.tw,PROXY
 HOST-SUFFIX,gamer.com.tw,PROXY
 
+# B_Global
+USER-AGENT,app/bstar*,PROXY
+HOST-SUFFIX,bilibili.tv,PROXY
+HOST-SUFFIX,bstarstatic.com,PROXY
+HOST,pic-bstarstatic.akamaized.net,PROXY
+
 # DAZN
 USER-AGENT,DAZN*,PROXY
 HOST-KEYWORD,voddazn,PROXY
