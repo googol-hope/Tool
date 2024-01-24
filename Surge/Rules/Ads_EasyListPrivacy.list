@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401231408
+## ! Version: 202401241416
 ## ! Title: EasyPrivacy
-## ! Last modified: 23 Jan 2024 14:08 UTC
+## ! Last modified: 24 Jan 2024 14:16 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1144,6 +1144,7 @@ DOMAIN-SUFFIX,greetzebra.com,extended-matching
 DOMAIN-SUFFIX,greyinstrument.com,extended-matching
 DOMAIN-SUFFIX,gripcorn.com,extended-matching
 DOMAIN-SUFFIX,groovyornament.com,extended-matching
+DOMAIN-SUFFIX,grouchybrothers.com,extended-matching
 DOMAIN-SUFFIX,grouchypush.com,extended-matching
 DOMAIN-SUFFIX,grumpydime.com,extended-matching
 DOMAIN-SUFFIX,grumpydrawer.com,extended-matching
