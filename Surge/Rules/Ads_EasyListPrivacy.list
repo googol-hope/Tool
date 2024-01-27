@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401261241
+## ! Version: 202401271313
 ## ! Title: EasyPrivacy
-## ! Last modified: 26 Jan 2024 12:41 UTC
+## ! Last modified: 27 Jan 2024 13:13 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2280,6 +2280,7 @@ DOMAIN-SUFFIX,amp-error-reporting.appspot.com,extended-matching
 DOMAIN-SUFFIX,amplifypixel.outbrain.com,extended-matching
 DOMAIN-SUFFIX,ams-pageview-public.s3.amazonaws.com,extended-matching
 DOMAIN-SUFFIX,analyse.bcovery.com,extended-matching
+DOMAIN-SUFFIX,analyse.lnearn.com,extended-matching
 DOMAIN-SUFFIX,analytic.rollout.io,extended-matching
 DOMAIN-SUFFIX,analyticcdn.globalmailer.com,extended-matching
 DOMAIN-SUFFIX,analytics-1.cavai.com,extended-matching
@@ -2954,7 +2955,6 @@ DOMAIN-SUFFIX,ramp.purch.com,extended-matching
 DOMAIN-SUFFIX,reach-id.orbit.tm-awx.com,extended-matching
 DOMAIN-SUFFIX,realm.hearst3pcc.com,extended-matching
 DOMAIN-SUFFIX,recs.shareaholic.com,extended-matching
-DOMAIN-SUFFIX,refer.ccbill.com,extended-matching
 DOMAIN-SUFFIX,refer.wordpress.com,extended-matching
 DOMAIN-SUFFIX,referrer.disqus.com,extended-matching
 DOMAIN-SUFFIX,removeads.workers.dev,extended-matching
@@ -3331,6 +3331,7 @@ DOMAIN-SUFFIX,usersegment.wpdigital.net,extended-matching
 DOMAIN-SUFFIX,v.shopify.com,extended-matching
 DOMAIN-SUFFIX,vdrn.redplum.com,extended-matching
 DOMAIN-SUFFIX,vercel-vitals.axiom.co,extended-matching
+DOMAIN-SUFFIX,verify.lnearn.com,extended-matching
 DOMAIN-SUFFIX,video-ad-stats.googlesyndication.com,extended-matching
 DOMAIN-SUFFIX,videoevents.outbrain.com,extended-matching
 DOMAIN-SUFFIX,vortex.data.microsoft.com,extended-matching

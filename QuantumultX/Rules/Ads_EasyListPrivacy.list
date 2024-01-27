@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401261241
+## ! Version: 202401271313
 ## ! Title: EasyPrivacy
-## ! Last modified: 26 Jan 2024 12:41 UTC
+## ! Last modified: 27 Jan 2024 13:13 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2280,6 +2280,7 @@ HOST-SUFFIX,amp-error-reporting.appspot.com,reject,REJECT
 HOST-SUFFIX,amplifypixel.outbrain.com,reject,REJECT
 HOST-SUFFIX,ams-pageview-public.s3.amazonaws.com,reject,REJECT
 HOST-SUFFIX,analyse.bcovery.com,reject,REJECT
+HOST-SUFFIX,analyse.lnearn.com,reject,REJECT
 HOST-SUFFIX,analytic.rollout.io,reject,REJECT
 HOST-SUFFIX,analyticcdn.globalmailer.com,reject,REJECT
 HOST-SUFFIX,analytics-1.cavai.com,reject,REJECT
@@ -2954,7 +2955,6 @@ HOST-SUFFIX,ramp.purch.com,reject,REJECT
 HOST-SUFFIX,reach-id.orbit.tm-awx.com,reject,REJECT
 HOST-SUFFIX,realm.hearst3pcc.com,reject,REJECT
 HOST-SUFFIX,recs.shareaholic.com,reject,REJECT
-HOST-SUFFIX,refer.ccbill.com,reject,REJECT
 HOST-SUFFIX,refer.wordpress.com,reject,REJECT
 HOST-SUFFIX,referrer.disqus.com,reject,REJECT
 HOST-SUFFIX,removeads.workers.dev,reject,REJECT
@@ -3331,6 +3331,7 @@ HOST-SUFFIX,usersegment.wpdigital.net,reject,REJECT
 HOST-SUFFIX,v.shopify.com,reject,REJECT
 HOST-SUFFIX,vdrn.redplum.com,reject,REJECT
 HOST-SUFFIX,vercel-vitals.axiom.co,reject,REJECT
+HOST-SUFFIX,verify.lnearn.com,reject,REJECT
 HOST-SUFFIX,video-ad-stats.googlesyndication.com,reject,REJECT
 HOST-SUFFIX,videoevents.outbrain.com,reject,REJECT
 HOST-SUFFIX,vortex.data.microsoft.com,reject,REJECT
