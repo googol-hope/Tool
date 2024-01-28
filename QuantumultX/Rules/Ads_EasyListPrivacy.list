@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401271313
+## ! Version: 202401281538
 ## ! Title: EasyPrivacy
-## ! Last modified: 27 Jan 2024 13:13 UTC
+## ! Last modified: 28 Jan 2024 15:38 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -72,7 +72,6 @@ HOST-SUFFIX,btloader.com,reject,REJECT
 HOST-SUFFIX,bx-cloud.com,reject,REJECT
 HOST-SUFFIX,bydst.com,reject,REJECT
 HOST-SUFFIX,cadsuta.net,reject,REJECT
-HOST-SUFFIX,captcha-display.com,reject,REJECT
 HOST-SUFFIX,catsunrunjam.com,reject,REJECT
 HOST-SUFFIX,cbdatatracker.com,reject,REJECT
 HOST-SUFFIX,cdnhst.xyz,reject,REJECT
@@ -4239,6 +4238,7 @@ HOST-SUFFIX,geoip.hmageo.com,reject,REJECT
 HOST-SUFFIX,geoip.ifunny.co,reject,REJECT
 HOST-SUFFIX,geolocation.forbes.com,reject,REJECT
 HOST-SUFFIX,glassmoni.researchgate.net,reject,REJECT
+HOST-SUFFIX,gmetrics.getbeamer.com,reject,REJECT
 HOST-SUFFIX,gnar.grammarly.com,reject,REJECT
 HOST-SUFFIX,go.pardot.com,reject,REJECT
 HOST-SUFFIX,gotie.tunein.com,reject,REJECT
@@ -23548,7 +23548,6 @@ HOST-SUFFIX,email.hockeytown.com,reject,REJECT
 HOST-SUFFIX,email.info.exclusive-networks.com,reject,REJECT
 HOST-SUFFIX,email.mymandg.co.uk,reject,REJECT
 HOST-SUFFIX,emailhoteldevelopment.ihg.com,reject,REJECT
-HOST-SUFFIX,emam,reject,REJECT
 HOST-SUFFIX,emea-go.experian.com,reject,REJECT
 HOST-SUFFIX,emeadm.rockwellautomation.com,reject,REJECT
 HOST-SUFFIX,emeanews.secureforms.partnermcafee.com,reject,REJECT
@@ -26237,7 +26236,6 @@ HOST-SUFFIX,webtracking.devry.edu,reject,REJECT
 HOST-SUFFIX,webtracking.medical.rossu.edu,reject,REJECT
 HOST-SUFFIX,webtracking.moneylaundering.com,reject,REJECT
 HOST-SUFFIX,webtracking.oncourselearning.com,reject,REJECT
-HOST-SUFFIX,welcome..org,reject,REJECT
 HOST-SUFFIX,welcome.ciscopowerofpartnership.com,reject,REJECT
 HOST-SUFFIX,welcome.coniferhealth.com,reject,REJECT
 HOST-SUFFIX,welcome.e.chiefs.com,reject,REJECT

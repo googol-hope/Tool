@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401271313
+## ! Version: 202401281538
 ## ! Title: EasyPrivacy
-## ! Last modified: 27 Jan 2024 13:13 UTC
+## ! Last modified: 28 Jan 2024 15:38 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -72,7 +72,6 @@ DOMAIN-SUFFIX,btloader.com,extended-matching
 DOMAIN-SUFFIX,bx-cloud.com,extended-matching
 DOMAIN-SUFFIX,bydst.com,extended-matching
 DOMAIN-SUFFIX,cadsuta.net,extended-matching
-DOMAIN-SUFFIX,captcha-display.com,extended-matching
 DOMAIN-SUFFIX,catsunrunjam.com,extended-matching
 DOMAIN-SUFFIX,cbdatatracker.com,extended-matching
 DOMAIN-SUFFIX,cdnhst.xyz,extended-matching
@@ -4239,6 +4238,7 @@ DOMAIN-SUFFIX,geoip.hmageo.com,extended-matching
 DOMAIN-SUFFIX,geoip.ifunny.co,extended-matching
 DOMAIN-SUFFIX,geolocation.forbes.com,extended-matching
 DOMAIN-SUFFIX,glassmoni.researchgate.net,extended-matching
+DOMAIN-SUFFIX,gmetrics.getbeamer.com,extended-matching
 DOMAIN-SUFFIX,gnar.grammarly.com,extended-matching
 DOMAIN-SUFFIX,go.pardot.com,extended-matching
 DOMAIN-SUFFIX,gotie.tunein.com,extended-matching
@@ -23548,7 +23548,6 @@ DOMAIN-SUFFIX,email.hockeytown.com,extended-matching
 DOMAIN-SUFFIX,email.info.exclusive-networks.com,extended-matching
 DOMAIN-SUFFIX,email.mymandg.co.uk,extended-matching
 DOMAIN-SUFFIX,emailhoteldevelopment.ihg.com,extended-matching
-DOMAIN-SUFFIX,emam,extended-matching
 DOMAIN-SUFFIX,emea-go.experian.com,extended-matching
 DOMAIN-SUFFIX,emeadm.rockwellautomation.com,extended-matching
 DOMAIN-SUFFIX,emeanews.secureforms.partnermcafee.com,extended-matching
@@ -26237,7 +26236,6 @@ DOMAIN-SUFFIX,webtracking.devry.edu,extended-matching
 DOMAIN-SUFFIX,webtracking.medical.rossu.edu,extended-matching
 DOMAIN-SUFFIX,webtracking.moneylaundering.com,extended-matching
 DOMAIN-SUFFIX,webtracking.oncourselearning.com,extended-matching
-DOMAIN-SUFFIX,welcome..org,extended-matching
 DOMAIN-SUFFIX,welcome.ciscopowerofpartnership.com,extended-matching
 DOMAIN-SUFFIX,welcome.coniferhealth.com,extended-matching
 DOMAIN-SUFFIX,welcome.e.chiefs.com,extended-matching
