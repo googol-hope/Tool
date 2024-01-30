@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401291416
+## ! Version: 202401301522
 ## ! Title: EasyPrivacy
-## ! Last modified: 29 Jan 2024 14:16 UTC
+## ! Last modified: 30 Jan 2024 15:22 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -223,6 +223,7 @@ HOST-SUFFIX,loopcybersec.com,reject,REJECT
 HOST-SUFFIX,lsdm.co,reject,REJECT
 HOST-SUFFIX,maggieeatstheangel.com,reject,REJECT
 HOST-SUFFIX,matheranalytics.com,reject,REJECT
+HOST-SUFFIX,mathilde-ads.com,reject,REJECT
 HOST-SUFFIX,maxepv.com,reject,REJECT
 HOST-SUFFIX,maxtrafixx.tech,reject,REJECT
 HOST-SUFFIX,mb-tracking.com,reject,REJECT
@@ -2952,6 +2953,7 @@ HOST-SUFFIX,pixels.afcdn.com,reject,REJECT
 HOST-SUFFIX,pl.connatix.com,reject,REJECT
 HOST-SUFFIX,platform.iteratehq.com,reject,REJECT
 HOST-SUFFIX,play.adtonos.com,reject,REJECT
+HOST-SUFFIX,player-metrics.instaread.co,reject,REJECT
 HOST-SUFFIX,pm.boostintegrated.com,reject,REJECT
 HOST-SUFFIX,popup-static.unisender.com,reject,REJECT
 HOST-SUFFIX,porpoise.azettl.net,reject,REJECT
@@ -3862,11 +3864,14 @@ HOST-SUFFIX,uh.nakanohito.jp,reject,REJECT
 HOST-SUFFIX,webbc.fivecdm.com,reject,REJECT
 HOST-SUFFIX,x9.shinobi.jp,reject,REJECT
 HOST-SUFFIX,acelogger.heraldcorp.com,reject,REJECT
+HOST-SUFFIX,assets.datarize.ai,reject,REJECT
 HOST-SUFFIX,cm-exchange.toast.com,reject,REJECT
+HOST-SUFFIX,dtr-onsite-feed.datarize.ai,reject,REJECT
 HOST-SUFFIX,event.hackle.io,reject,REJECT
 HOST-SUFFIX,log.adplex.co.kr,reject,REJECT
 HOST-SUFFIX,log.cizion.com,reject,REJECT
 HOST-SUFFIX,log.mofa.go.kr,reject,REJECT
+HOST-SUFFIX,log.pipeline.datarize.io,reject,REJECT
 HOST-SUFFIX,log.targetpush.co.kr,reject,REJECT
 HOST-SUFFIX,logger.bzu.kr,reject,REJECT
 HOST-SUFFIX,logs-partners.coupang.com,reject,REJECT
@@ -3875,6 +3880,7 @@ HOST-SUFFIX,mtag.mman.kr,reject,REJECT
 HOST-SUFFIX,ngc1.nsm-corp.com,reject,REJECT
 HOST-SUFFIX,performanceplay.co.kr,reject,REJECT
 HOST-SUFFIX,pxl.retaku.net,reject,REJECT
+HOST-SUFFIX,realtime-profiling.datarize.ai,reject,REJECT
 HOST-SUFFIX,saluton.cizion.com,reject,REJECT
 HOST-SUFFIX,sas.nsm-corp.com,reject,REJECT
 HOST-SUFFIX,teralog.techhub.co.kr,reject,REJECT
