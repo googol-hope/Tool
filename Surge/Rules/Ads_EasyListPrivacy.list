@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401301522
+## ! Version: 202401311459
 ## ! Title: EasyPrivacy
-## ! Last modified: 30 Jan 2024 15:22 UTC
+## ! Last modified: 31 Jan 2024 14:59 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1231,6 +1231,7 @@ DOMAIN-SUFFIX,hospitablehat.com,extended-matching
 DOMAIN-SUFFIX,hothydrant.com,extended-matching
 DOMAIN-SUFFIX,humdrumhat.com,extended-matching
 DOMAIN-SUFFIX,humdrumhobbies.com,extended-matching
+DOMAIN-SUFFIX,humdrumtouch.com,extended-matching
 DOMAIN-SUFFIX,hurtgrape.com,extended-matching
 DOMAIN-SUFFIX,hurtteeth.com,extended-matching
 DOMAIN-SUFFIX,hypnoticwound.com,extended-matching
@@ -3864,8 +3865,10 @@ DOMAIN-SUFFIX,uh.nakanohito.jp,extended-matching
 DOMAIN-SUFFIX,webbc.fivecdm.com,extended-matching
 DOMAIN-SUFFIX,x9.shinobi.jp,extended-matching
 DOMAIN-SUFFIX,acelogger.heraldcorp.com,extended-matching
+DOMAIN-SUFFIX,applog.ssgdfs.com,extended-matching
 DOMAIN-SUFFIX,assets.datarize.ai,extended-matching
 DOMAIN-SUFFIX,cm-exchange.toast.com,extended-matching
+DOMAIN-SUFFIX,dadispapi.gmarket.co.kr,extended-matching
 DOMAIN-SUFFIX,dtr-onsite-feed.datarize.ai,extended-matching
 DOMAIN-SUFFIX,event.hackle.io,extended-matching
 DOMAIN-SUFFIX,log.adplex.co.kr,extended-matching
@@ -3876,6 +3879,7 @@ DOMAIN-SUFFIX,log.targetpush.co.kr,extended-matching
 DOMAIN-SUFFIX,logger.bzu.kr,extended-matching
 DOMAIN-SUFFIX,logs-partners.coupang.com,extended-matching
 DOMAIN-SUFFIX,megadata.co.kr,extended-matching
+DOMAIN-SUFFIX,montelena.auction.co.kr,extended-matching
 DOMAIN-SUFFIX,mtag.mman.kr,extended-matching
 DOMAIN-SUFFIX,ngc1.nsm-corp.com,extended-matching
 DOMAIN-SUFFIX,performanceplay.co.kr,extended-matching
@@ -3886,6 +3890,7 @@ DOMAIN-SUFFIX,sas.nsm-corp.com,extended-matching
 DOMAIN-SUFFIX,teralog.techhub.co.kr,extended-matching
 DOMAIN-SUFFIX,tracker.adbinead.com,extended-matching
 DOMAIN-SUFFIX,tracker.digitalcamp.co.kr,extended-matching
+DOMAIN-SUFFIX,utsgw.auction.co.kr,extended-matching
 DOMAIN-SUFFIX,counter.hackers.lv,extended-matching
 DOMAIN-SUFFIX,cis.schibsted.com,extended-matching
 DOMAIN-SUFFIX,collect.adplogger.no,extended-matching

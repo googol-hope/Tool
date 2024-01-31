@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202401301522
+## ! Version: 202401311459
 ## ! Title: EasyPrivacy
-## ! Last modified: 30 Jan 2024 15:22 UTC
+## ! Last modified: 31 Jan 2024 14:59 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1231,6 +1231,7 @@ HOST-SUFFIX,hospitablehat.com,reject,REJECT
 HOST-SUFFIX,hothydrant.com,reject,REJECT
 HOST-SUFFIX,humdrumhat.com,reject,REJECT
 HOST-SUFFIX,humdrumhobbies.com,reject,REJECT
+HOST-SUFFIX,humdrumtouch.com,reject,REJECT
 HOST-SUFFIX,hurtgrape.com,reject,REJECT
 HOST-SUFFIX,hurtteeth.com,reject,REJECT
 HOST-SUFFIX,hypnoticwound.com,reject,REJECT
@@ -3864,8 +3865,10 @@ HOST-SUFFIX,uh.nakanohito.jp,reject,REJECT
 HOST-SUFFIX,webbc.fivecdm.com,reject,REJECT
 HOST-SUFFIX,x9.shinobi.jp,reject,REJECT
 HOST-SUFFIX,acelogger.heraldcorp.com,reject,REJECT
+HOST-SUFFIX,applog.ssgdfs.com,reject,REJECT
 HOST-SUFFIX,assets.datarize.ai,reject,REJECT
 HOST-SUFFIX,cm-exchange.toast.com,reject,REJECT
+HOST-SUFFIX,dadispapi.gmarket.co.kr,reject,REJECT
 HOST-SUFFIX,dtr-onsite-feed.datarize.ai,reject,REJECT
 HOST-SUFFIX,event.hackle.io,reject,REJECT
 HOST-SUFFIX,log.adplex.co.kr,reject,REJECT
@@ -3876,6 +3879,7 @@ HOST-SUFFIX,log.targetpush.co.kr,reject,REJECT
 HOST-SUFFIX,logger.bzu.kr,reject,REJECT
 HOST-SUFFIX,logs-partners.coupang.com,reject,REJECT
 HOST-SUFFIX,megadata.co.kr,reject,REJECT
+HOST-SUFFIX,montelena.auction.co.kr,reject,REJECT
 HOST-SUFFIX,mtag.mman.kr,reject,REJECT
 HOST-SUFFIX,ngc1.nsm-corp.com,reject,REJECT
 HOST-SUFFIX,performanceplay.co.kr,reject,REJECT
@@ -3886,6 +3890,7 @@ HOST-SUFFIX,sas.nsm-corp.com,reject,REJECT
 HOST-SUFFIX,teralog.techhub.co.kr,reject,REJECT
 HOST-SUFFIX,tracker.adbinead.com,reject,REJECT
 HOST-SUFFIX,tracker.digitalcamp.co.kr,reject,REJECT
+HOST-SUFFIX,utsgw.auction.co.kr,reject,REJECT
 HOST-SUFFIX,counter.hackers.lv,reject,REJECT
 HOST-SUFFIX,cis.schibsted.com,reject,REJECT
 HOST-SUFFIX,collect.adplogger.no,reject,REJECT
