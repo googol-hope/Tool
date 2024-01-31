@@ -1,4 +1,4 @@
-# 2024-01-26 22:50
+# 2024-01-31 12:22
 
 # ======= A ======= #
 # 阿里巴巴
@@ -194,6 +194,7 @@ DOMAIN,ipv4.music.163.com,extended-matching
 DOMAIN,ipv6.music.163.com,extended-matching
 DOMAIN-SUFFIX,163jiasu.com,extended-matching
 # 微博 开屏广告
+DOMAIN,huodong.weibo.cn,extended-matching
 DOMAIN-SUFFIX,biz.weibo.com,extended-matching
 
 # ======= X ======= #
