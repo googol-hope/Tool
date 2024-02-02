@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402011446
+## ! Version: 202402021447
 ## ! Title: EasyPrivacy
-## ! Last modified: 01 Feb 2024 14:46 UTC
+## ! Last modified: 02 Feb 2024 14:47 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2321,6 +2321,7 @@ DOMAIN-SUFFIX,analytics-scripts.cablelabs.com,extended-matching
 DOMAIN-SUFFIX,analytics-sg.tiktok.com,extended-matching
 DOMAIN-SUFFIX,analytics-static.ugc.bazaarvoice.com,extended-matching
 DOMAIN-SUFFIX,analytics.30m.com,extended-matching
+DOMAIN-SUFFIX,analytics.adobe.io,extended-matching
 DOMAIN-SUFFIX,analytics.agoda.com,extended-matching
 DOMAIN-SUFFIX,analytics.aimtell.com,extended-matching
 DOMAIN-SUFFIX,analytics.algolia.com,extended-matching
@@ -2613,6 +2614,7 @@ DOMAIN-SUFFIX,customfingerprints.bablosoft.com,extended-matching
 DOMAIN-SUFFIX,cws.conviva.com,extended-matching
 DOMAIN-SUFFIX,d.shareaholic.com,extended-matching
 DOMAIN-SUFFIX,d1tbj6eaenapdy.cloudfront.net,extended-matching
+DOMAIN-SUFFIX,d2pt12ct4kmq21.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,d2wa5sea6guof0.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,d3vebqdofhigrn.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dash.getsitecontrol.com,extended-matching
@@ -3543,6 +3545,7 @@ DOMAIN-SUFFIX,vwonwkaqvq-a.global.ssl.fastly.net,extended-matching
 DOMAIN-SUFFIX,siteintercept.allegiancetech.com,extended-matching
 DOMAIN-SUFFIX,trusted-web-seal.cybertrust.ne.jp,extended-matching
 DOMAIN-SUFFIX,advantage.digitalsunray.com,extended-matching
+DOMAIN-SUFFIX,analytics.agenedia.com,extended-matching
 DOMAIN-SUFFIX,analytics.audionow.de,extended-matching
 DOMAIN-SUFFIX,analytics.gameforge.de,extended-matching
 DOMAIN-SUFFIX,analytics.idfnet.net,extended-matching
@@ -4008,6 +4011,7 @@ DOMAIN-SUFFIX,analytics.lasegunda.ecn.cl,extended-matching
 DOMAIN-SUFFIX,analytics.neoogilvy.uy,extended-matching
 DOMAIN-SUFFIX,bpt.webedia-group.com,extended-matching
 DOMAIN-SUFFIX,collector-videoplayer.5centscdn.net,extended-matching
+DOMAIN-SUFFIX,contador.biobiochile.cl,extended-matching
 DOMAIN-SUFFIX,contadores.miarroba.com,extended-matching
 DOMAIN-SUFFIX,contadores.miarroba.es,extended-matching
 DOMAIN-SUFFIX,creatives.sunmedia.tv,extended-matching
@@ -4276,6 +4280,7 @@ DOMAIN-SUFFIX,geoip.boredpanda.com,extended-matching
 DOMAIN-SUFFIX,geoip.hmageo.com,extended-matching
 DOMAIN-SUFFIX,geoip.ifunny.co,extended-matching
 DOMAIN-SUFFIX,geolocation.forbes.com,extended-matching
+DOMAIN-SUFFIX,gg.vevor.com,extended-matching
 DOMAIN-SUFFIX,glassmoni.researchgate.net,extended-matching
 DOMAIN-SUFFIX,gmetrics.getbeamer.com,extended-matching
 DOMAIN-SUFFIX,gnar.grammarly.com,extended-matching
@@ -4442,6 +4447,7 @@ DOMAIN-SUFFIX,rum.api.intuit.com,extended-matching
 DOMAIN-SUFFIX,rum.condenastdigital.com,extended-matching
 DOMAIN-SUFFIX,rum.kobo.com,extended-matching
 DOMAIN-SUFFIX,rvo-cohesion.healthline.com,extended-matching
+DOMAIN-SUFFIX,s.gofile.io,extended-matching
 DOMAIN-SUFFIX,s.infogram.com,extended-matching
 DOMAIN-SUFFIX,s.wayfair.com,extended-matching
 DOMAIN-SUFFIX,saa.insideedition.com,extended-matching
@@ -4616,6 +4622,7 @@ DOMAIN-SUFFIX,cfa.fidelity.com,extended-matching
 DOMAIN-SUFFIX,clear.wallapop.com,extended-matching
 DOMAIN-SUFFIX,content22.bmo.com,extended-matching
 DOMAIN-SUFFIX,content22.citibank.com.au,extended-matching
+DOMAIN-SUFFIX,content22.citibankonline.com,extended-matching
 DOMAIN-SUFFIX,content22.online.citi.com,extended-matching
 DOMAIN-SUFFIX,drfdisvc.walmart.com,extended-matching
 DOMAIN-SUFFIX,event.evtm.53.com,extended-matching
@@ -32378,6 +32385,7 @@ DOMAIN-SUFFIX,hits.antena3.com,extended-matching
 DOMAIN-SUFFIX,horizon-track.globo.com,extended-matching
 DOMAIN-SUFFIX,pixel.europapress.net,extended-matching
 DOMAIN-SUFFIX,px-intl.ucweb.com,extended-matching
+DOMAIN-SUFFIX,realtime.bbcl.cl,extended-matching
 DOMAIN-SUFFIX,rvv.emol.com,extended-matching
 DOMAIN-SUFFIX,statsmp2.emol.com,extended-matching
 DOMAIN-SUFFIX,t-pan.triodos.com,extended-matching
