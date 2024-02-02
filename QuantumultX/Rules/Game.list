@@ -1,20 +1,16 @@
 # NAME: Game
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-02 03:01:39
-# DOMAIN: 13
+# UPDATED: 2024-02-03 01:43:26
+# DOMAIN: 9
 # HOST-KEYWORD: 4
-# HOST-SUFFIX: 537
+# HOST-SUFFIX: 527
 # IP-CIDR: 46
-# TOTAL: 600
+# TOTAL: 586
 HOST,eaasserts-a.akamaihd.net,PROXY
 HOST,originasserts.akamaized.net,PROXY
-HOST,dlgarenanow-a.akamaihd.net,PROXY
 HOST,gog.salesmanago.com,PROXY
-HOST,f3b7q2p3.ssl.hwcdn.net,PROXY
 HOST,steammobile.akamaized.net,PROXY
-HOST,steampipe-kr.akamaized.net,PROXY
-HOST,steampipe-partner.akamaized.net,PROXY
 HOST,xz.pphimalayanrt.com,PROXY
 HOST,img-prod-cms-rt-microsoft-com.akamaized.net,PROXY
 HOST,login.live.com,PROXY
@@ -237,6 +233,8 @@ HOST-SUFFIX,shadowcomplex.com,PROXY
 HOST-SUFFIX,spyjinx.com,PROXY
 HOST-SUFFIX,unrealengine.com,PROXY
 HOST-SUFFIX,unrealtournament.com,PROXY
+HOST-SUFFIX,doom.com,PROXY
+HOST-SUFFIX,elderscrolls.com,PROXY
 HOST-SUFFIX,game.maj-soul.com,PROXY
 HOST-SUFFIX,gateway-cdn.maj-soul.com,PROXY
 HOST-SUFFIX,gateway-hw.maj-soul.com,PROXY
@@ -248,6 +246,7 @@ HOST-SUFFIX,lb-hw.maj-soul.com,PROXY
 HOST-SUFFIX,lb-sy.maj-soul.com,PROXY
 HOST-SUFFIX,lb-v2.maj-soul.com,PROXY
 HOST-SUFFIX,majsoul-hk-client.cn-hongkong.log.aliyuncs.com,PROXY
+HOST-SUFFIX,pokemon-unitepgame.com,PROXY
 HOST-SUFFIX,sony.com,PROXY
 HOST-SUFFIX,avatargarenanow-a.akamaihd.net,PROXY
 HOST-SUFFIX,cdngarenanow-a.akamaihd.net,PROXY
@@ -349,7 +348,6 @@ HOST-SUFFIX,pokedex3d.com,PROXY
 HOST-SUFFIX,pokemon-moon.com,PROXY
 HOST-SUFFIX,pokemon-sun.com,PROXY
 HOST-SUFFIX,pokemon-sunmoon.com,PROXY
-HOST-SUFFIX,pokemon-unitepgame.com,PROXY
 HOST-SUFFIX,pokemon.com,PROXY
 HOST-SUFFIX,pokemonbank.com,PROXY
 HOST-SUFFIX,pokemonblackwhite.com,PROXY
@@ -464,7 +462,6 @@ HOST-SUFFIX,csgo.wmsj.cn,PROXY
 HOST-SUFFIX,dl.steam.clngaa.com,PROXY
 HOST-SUFFIX,dl.steam.ksyna.com,PROXY
 HOST-SUFFIX,dota2.wmsj.cn,PROXY
-HOST-SUFFIX,edge.steam-dns.top.comcast.net,PROXY
 HOST-SUFFIX,fanatical.com,PROXY
 HOST-SUFFIX,humblebundle.com,PROXY
 HOST-SUFFIX,playartifact.com,PROXY
@@ -474,20 +471,11 @@ HOST-SUFFIX,st.dl.eccdnx.com,PROXY
 HOST-SUFFIX,st.dl.pinyuncloud.com,PROXY
 HOST-SUFFIX,steam-api.com,PROXY
 HOST-SUFFIX,steam-chat.com,PROXY
-HOST-SUFFIX,steam.apac.qtlglb.com,PROXY
-HOST-SUFFIX,steam.cdn.on.net,PROXY
-HOST-SUFFIX,steam.cdn.orcon.net.nz,PROXY
-HOST-SUFFIX,steam.cdn.slingshot.co.nz,PROXY
-HOST-SUFFIX,steam.cdn.webra.ru,PROXY
-HOST-SUFFIX,steam.eca.qtlglb.com,PROXY
-HOST-SUFFIX,steam.naeu.qtlglb.com,PROXY
-HOST-SUFFIX,steam.ru.qtlglb.com,PROXY
 HOST-SUFFIX,steambroadcast.akamaized.net,PROXY
 HOST-SUFFIX,steamcdn-a.akamaihd.net,PROXY
 HOST-SUFFIX,steamcommunity-a.akamaihd.net,PROXY
 HOST-SUFFIX,steamcommunity.com,PROXY
 HOST-SUFFIX,steamcontent.tnkjmec.com,PROXY
-HOST-SUFFIX,steamdeck.com,PROXY
 HOST-SUFFIX,steamgames.com,PROXY
 HOST-SUFFIX,steampipe.akamaized.net,PROXY
 HOST-SUFFIX,steampowered.com,PROXY
@@ -522,8 +510,6 @@ HOST-SUFFIX,bethesda.net,PROXY
 HOST-SUFFIX,bethesdagamestudios.com,PROXY
 HOST-SUFFIX,bethsoft.com,PROXY
 HOST-SUFFIX,callersbane.com,PROXY
-HOST-SUFFIX,doom.com,PROXY
-HOST-SUFFIX,elderscrolls.com,PROXY
 HOST-SUFFIX,forzamotorsport.net,PROXY
 HOST-SUFFIX,forzaracingchampionship.com,PROXY
 HOST-SUFFIX,forzarc.com,PROXY
@@ -561,10 +547,7 @@ HOST-KEYWORD,epicgames,PROXY
 HOST-KEYWORD,steambroadcast,PROXY
 HOST-KEYWORD,steamstore,PROXY
 HOST-KEYWORD,steamuserimages,PROXY
-IP-CIDR,103.4.115.248/32,PROXY
 IP-CIDR,182.162.135.1/32,PROXY
-IP-CIDR,185.60.112.157/32,PROXY
-IP-CIDR,185.60.112.158/32,PROXY
 IP-CIDR,210.242.235.6/32,PROXY
 IP-CIDR,24.105.30.129/32,PROXY
 IP-CIDR,54.94.196.47/32,PROXY
@@ -573,13 +556,11 @@ IP-CIDR,103.4.114.233/32,PROXY
 IP-CIDR,182.162.116.1/32,PROXY
 IP-CIDR,202.9.67.59/32,PROXY
 IP-CIDR,203.69.111.4/32,PROXY
-IP-CIDR,24.105.62.129/32,PROXY
 IP-CIDR,54.207.104.145/32,PROXY
 IP-CIDR,35.192.0.0/12,PROXY
 IP-CIDR,203.66.81.98/32,PROXY
 IP-CIDR,211.234.110.1/32,PROXY
 IP-CIDR,54.207.107.12/32,PROXY
-IP-CIDR,185.60.114.159/32,PROXY
 IP-CIDR,202.9.67.254/32,PROXY
 IP-CIDR,222.231.22.1/32,PROXY
 IP-CIDR,13.210.25.233/32,PROXY
@@ -604,6 +585,11 @@ IP-CIDR,52.13.42.120/32,PROXY
 IP-CIDR,52.50.131.212/32,PROXY
 IP-CIDR,54.207.168.84/32,PROXY
 IP-CIDR,54.248.64.192/32,PROXY
+IP-CIDR,103.4.115.248/32,PROXY
 IP-CIDR,137.221.105.2/32,PROXY
+IP-CIDR,185.60.112.157/32,PROXY
+IP-CIDR,185.60.112.158/32,PROXY
+IP-CIDR,185.60.114.159/32,PROXY
 IP-CIDR,210.71.148.11/32,PROXY
 IP-CIDR,211.115.104.1/32,PROXY
+IP-CIDR,24.105.62.129/32,PROXY
