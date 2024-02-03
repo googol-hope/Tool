@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402021447
+## ! Version: 202402031458
 ## ! Title: EasyPrivacy
-## ! Last modified: 02 Feb 2024 14:47 UTC
+## ! Last modified: 03 Feb 2024 14:58 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,34.215.155.61,extended-matching
 DOMAIN-SUFFIX,3gl.net,extended-matching
 DOMAIN-SUFFIX,4251.tech,extended-matching
 DOMAIN-SUFFIX,44.228.85.26,extended-matching
-DOMAIN-SUFFIX,520886.xyz,extended-matching
 DOMAIN-SUFFIX,a1webstrategy.com,extended-matching
 DOMAIN-SUFFIX,a8723.com,extended-matching
 DOMAIN-SUFFIX,aaxwall.com,extended-matching
@@ -52,7 +51,6 @@ DOMAIN-SUFFIX,apenterprise.io,extended-matching
 DOMAIN-SUFFIX,apxl.io,extended-matching
 DOMAIN-SUFFIX,as3.io,extended-matching
 DOMAIN-SUFFIX,awmonitor.com,extended-matching
-DOMAIN-SUFFIX,ayc0zsm69431gfebd.info,extended-matching
 DOMAIN-SUFFIX,bfmio.com,extended-matching
 DOMAIN-SUFFIX,bidgx.com,extended-matching
 DOMAIN-SUFFIX,bidswitch.net,extended-matching
@@ -66,7 +64,6 @@ DOMAIN-SUFFIX,bqstreamer.com,extended-matching
 DOMAIN-SUFFIX,bringmethehats.com,extended-matching
 DOMAIN-SUFFIX,briskeagle.io,extended-matching
 DOMAIN-SUFFIX,briskpelican.io,extended-matching
-DOMAIN-SUFFIX,brontops.com,extended-matching
 DOMAIN-SUFFIX,brsrvr.com,extended-matching
 DOMAIN-SUFFIX,btloader.com,extended-matching
 DOMAIN-SUFFIX,bx-cloud.com,extended-matching
@@ -93,7 +90,6 @@ DOMAIN-SUFFIX,cpx.to,extended-matching
 DOMAIN-SUFFIX,crwdcntrl.net,extended-matching
 DOMAIN-SUFFIX,cvlb.dev,extended-matching
 DOMAIN-SUFFIX,cxense.com,extended-matching
-DOMAIN-SUFFIX,cxt.ms,extended-matching
 DOMAIN-SUFFIX,cybba.solutions,extended-matching
 DOMAIN-SUFFIX,czx5eyk0exbhwp43ya.biz,extended-matching
 DOMAIN-SUFFIX,da29e6b8-f018-490f-b25f-39a887fc95e7.xyz,extended-matching
@@ -114,13 +110,11 @@ DOMAIN-SUFFIX,dwin1.com,extended-matching
 DOMAIN-SUFFIX,dwin2.com,extended-matching
 DOMAIN-SUFFIX,e1e.io,extended-matching
 DOMAIN-SUFFIX,eagle-insight.com,extended-matching
-DOMAIN-SUFFIX,easycompute.systems,extended-matching
 DOMAIN-SUFFIX,ecn-ldr.de,extended-matching
 DOMAIN-SUFFIX,ed-sys.net,extended-matching
 DOMAIN-SUFFIX,efreecode.com,extended-matching
 DOMAIN-SUFFIX,egoi.site,extended-matching
 DOMAIN-SUFFIX,emailsnow.info,extended-matching
-DOMAIN-SUFFIX,emycewiw.xyz,extended-matching
 DOMAIN-SUFFIX,enthusiastgaming.net,extended-matching
 DOMAIN-SUFFIX,envato.market,extended-matching
 DOMAIN-SUFFIX,epsilondelta.co,extended-matching
@@ -138,7 +132,6 @@ DOMAIN-SUFFIX,fastgull.io,extended-matching
 DOMAIN-SUFFIX,fasttiger.io,extended-matching
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com,extended-matching
 DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de,extended-matching
-DOMAIN-SUFFIX,firstblackphase.com,extended-matching
 DOMAIN-SUFFIX,fn-pz.com,extended-matching
 DOMAIN-SUFFIX,fourtimessmelly.com,extended-matching
 DOMAIN-SUFFIX,fpapi.io,extended-matching
@@ -185,7 +178,6 @@ DOMAIN-SUFFIX,herbgreencolumn.com,extended-matching
 DOMAIN-SUFFIX,hs-analytics.net,extended-matching
 DOMAIN-SUFFIX,hsadspixel.net,extended-matching
 DOMAIN-SUFFIX,hsleadflows.net,extended-matching
-DOMAIN-SUFFIX,hubty.network,extended-matching
 DOMAIN-SUFFIX,i218435.net,extended-matching
 DOMAIN-SUFFIX,ia-dmp.com,extended-matching
 DOMAIN-SUFFIX,iconmediapixel.com,extended-matching
@@ -212,7 +204,6 @@ DOMAIN-SUFFIX,krxd.net,extended-matching
 DOMAIN-SUFFIX,kspotson.de,extended-matching
 DOMAIN-SUFFIX,ldnlyap.com,extended-matching
 DOMAIN-SUFFIX,leadhit.io,extended-matching
-DOMAIN-SUFFIX,lite-cdn.com,extended-matching
 DOMAIN-SUFFIX,liveyield.com,extended-matching
 DOMAIN-SUFFIX,lltrck.com,extended-matching
 DOMAIN-SUFFIX,lmepbq.com,extended-matching
@@ -225,7 +216,6 @@ DOMAIN-SUFFIX,maggieeatstheangel.com,extended-matching
 DOMAIN-SUFFIX,matheranalytics.com,extended-matching
 DOMAIN-SUFFIX,mathilde-ads.com,extended-matching
 DOMAIN-SUFFIX,maxepv.com,extended-matching
-DOMAIN-SUFFIX,maxtrafixx.tech,extended-matching
 DOMAIN-SUFFIX,mb-tracking.com,extended-matching
 DOMAIN-SUFFIX,mcangelus.com,extended-matching
 DOMAIN-SUFFIX,mdhv.io,extended-matching
@@ -243,7 +233,6 @@ DOMAIN-SUFFIX,mrpdata.net,extended-matching
 DOMAIN-SUFFIX,mt48.net,extended-matching
 DOMAIN-SUFFIX,mxpnl.com,extended-matching
 DOMAIN-SUFFIX,mysingleromance.com,extended-matching
-DOMAIN-SUFFIX,n0909.com,extended-matching
 DOMAIN-SUFFIX,native-track.com,extended-matching
 DOMAIN-SUFFIX,niblewren.co,extended-matching
 DOMAIN-SUFFIX,nigelmidnightrappers.com,extended-matching
@@ -316,7 +305,6 @@ DOMAIN-SUFFIX,stack-sonar.com,extended-matching
 DOMAIN-SUFFIX,stat.ovh,extended-matching
 DOMAIN-SUFFIX,statisticplatform.com,extended-matching
 DOMAIN-SUFFIX,statisticsplatform.com,extended-matching
-DOMAIN-SUFFIX,statsbox.info,extended-matching
 DOMAIN-SUFFIX,summerhamster.com,extended-matching
 DOMAIN-SUFFIX,superpointlesshamsters.com,extended-matching
 DOMAIN-SUFFIX,t13.io,extended-matching
@@ -342,7 +330,6 @@ DOMAIN-SUFFIX,trkn.us,extended-matching
 DOMAIN-SUFFIX,tru.am,extended-matching
 DOMAIN-SUFFIX,truffle.bid,extended-matching
 DOMAIN-SUFFIX,trx-hub.com,extended-matching
-DOMAIN-SUFFIX,try-snowplow.com,extended-matching
 DOMAIN-SUFFIX,tryzens-analytics.com,extended-matching
 DOMAIN-SUFFIX,turboeagle.co,extended-matching
 DOMAIN-SUFFIX,turbolion.io,extended-matching
@@ -360,7 +347,6 @@ DOMAIN-SUFFIX,videoplayerhub.com,extended-matching
 DOMAIN-SUFFIX,vkanalytics.net,extended-matching
 DOMAIN-SUFFIX,vpdcp.com,extended-matching
 DOMAIN-SUFFIX,vstats.me,extended-matching
-DOMAIN-SUFFIX,walkerllaw.org,extended-matching
 DOMAIN-SUFFIX,wct-2.com,extended-matching
 DOMAIN-SUFFIX,whale3.io,extended-matching
 DOMAIN-SUFFIX,widgetbe.com,extended-matching
@@ -376,8 +362,6 @@ DOMAIN-SUFFIX,yndhi.com,extended-matching
 DOMAIN-SUFFIX,yottlyscript.com,extended-matching
 DOMAIN-SUFFIX,youborafds01.com,extended-matching
 DOMAIN-SUFFIX,youboranqs01.com,extended-matching
-DOMAIN-SUFFIX,youboranqs02.com,extended-matching
-DOMAIN-SUFFIX,z0uolej1qnxzub1.info,extended-matching
 DOMAIN-SUFFIX,zdbb.net,extended-matching
 DOMAIN-SUFFIX,zenaps.com,extended-matching
 DOMAIN-SUFFIX,zfctrack.net,extended-matching
@@ -404,11 +388,6 @@ DOMAIN-SUFFIX,biberukalap.com,extended-matching
 DOMAIN-SUFFIX,bitclub.network,extended-matching
 DOMAIN-SUFFIX,bitclubnetwork.com,extended-matching
 DOMAIN-SUFFIX,bitcoin-cashcard.com,extended-matching
-DOMAIN-SUFFIX,bitcoin-cashcard.de,extended-matching
-DOMAIN-SUFFIX,bitcoin-cashcard.eu,extended-matching
-DOMAIN-SUFFIX,bitcoin-pay.eu,extended-matching
-DOMAIN-SUFFIX,bitcoin-pocket.de,extended-matching
-DOMAIN-SUFFIX,bitcoin-pocket.eu,extended-matching
 DOMAIN-SUFFIX,bmcm.pw,extended-matching
 DOMAIN-SUFFIX,bmnr.pw,extended-matching
 DOMAIN-SUFFIX,bmst.pw,extended-matching
@@ -417,15 +396,12 @@ DOMAIN-SUFFIX,candid.zone,extended-matching
 DOMAIN-SUFFIX,cashbeet.com,extended-matching
 DOMAIN-SUFFIX,chmproxy.bid,extended-matching
 DOMAIN-SUFFIX,clgserv.pro,extended-matching
-DOMAIN-SUFFIX,cloud-miner.de,extended-matching
 DOMAIN-SUFFIX,cloud-miner.eu,extended-matching
-DOMAIN-SUFFIX,de-mi-nis-ner.info,extended-matching
 DOMAIN-SUFFIX,de-nis-ner-mi-5.info,extended-matching
 DOMAIN-SUFFIX,f1tbit.com,extended-matching
 DOMAIN-SUFFIX,filmoljupci.com,extended-matching
 DOMAIN-SUFFIX,g1thub.com,extended-matching
 DOMAIN-SUFFIX,gay-hotvideo.net,extended-matching
-DOMAIN-SUFFIX,gramombird.com,extended-matching
 DOMAIN-SUFFIX,igrid.org,extended-matching
 DOMAIN-SUFFIX,jscoinminer.com,extended-matching
 DOMAIN-SUFFIX,mi-de-ner-nis3.info,extended-matching
@@ -2271,7 +2247,6 @@ DOMAIN-SUFFIX,zlp6s.pw,extended-matching
 DOMAIN-SUFFIX,aswpsdkus.com,extended-matching
 DOMAIN-SUFFIX,pushmaster-cdn.xyz,extended-matching
 DOMAIN-SUFFIX,urbanairship.com,extended-matching
-DOMAIN-SUFFIX,wwopenclick.space,extended-matching
 DOMAIN-SUFFIX,google-analytics-cn.com,extended-matching
 DOMAIN-SUFFIX,googleoptimize-cn.com,extended-matching
 DOMAIN-SUFFIX,googletagmanager-cn.com,extended-matching
@@ -2362,7 +2337,6 @@ DOMAIN-SUFFIX,analytics.gooogol.com,extended-matching
 DOMAIN-SUFFIX,analytics.groupe-seb.com,extended-matching
 DOMAIN-SUFFIX,analytics.growthphysics.com,extended-matching
 DOMAIN-SUFFIX,analytics.gvim.mobi,extended-matching
-DOMAIN-SUFFIX,analytics.humanautomation.ai,extended-matching
 DOMAIN-SUFFIX,analytics.iraiser.eu,extended-matching
 DOMAIN-SUFFIX,analytics.jazel.net,extended-matching
 DOMAIN-SUFFIX,analytics.jst.ai,extended-matching
@@ -2418,10 +2392,8 @@ DOMAIN-SUFFIX,analytics.themarketiq.com,extended-matching
 DOMAIN-SUFFIX,analytics.threedeepmarketing.com,extended-matching
 DOMAIN-SUFFIX,analytics.tiktok.com,extended-matching
 DOMAIN-SUFFIX,analytics.tout.com,extended-matching
-DOMAIN-SUFFIX,analytics.tribeca.vidavee.com,extended-matching
 DOMAIN-SUFFIX,analytics.unibuddy.co,extended-matching
 DOMAIN-SUFFIX,analytics.unilogcorp.com,extended-matching
-DOMAIN-SUFFIX,analytics.urx.io,extended-matching
 DOMAIN-SUFFIX,analytics.vanillaforums.com,extended-matching
 DOMAIN-SUFFIX,analytics.vdo.ai,extended-matching
 DOMAIN-SUFFIX,analytics.vendemore.com,extended-matching
@@ -2431,7 +2403,6 @@ DOMAIN-SUFFIX,analytics.webpushr.com,extended-matching
 DOMAIN-SUFFIX,analytics.websolute.it,extended-matching
 DOMAIN-SUFFIX,analytics.wildtangent.com,extended-matching
 DOMAIN-SUFFIX,analytics.witglobal.net,extended-matching
-DOMAIN-SUFFIX,analytics.worldtable.co,extended-matching
 DOMAIN-SUFFIX,analytics.yahoo.com,extended-matching
 DOMAIN-SUFFIX,analytics.yext-static.com,extended-matching
 DOMAIN-SUFFIX,analytics.ynap.biz,extended-matching
@@ -2441,7 +2412,6 @@ DOMAIN-SUFFIX,analytics.ziftsolutions.com,extended-matching
 DOMAIN-SUFFIX,analytics1.vdo.ai,extended-matching
 DOMAIN-SUFFIX,analyticsehnwe.servicebus.windows.net,extended-matching
 DOMAIN-SUFFIX,analyticssec.overwolf.com,extended-matching
-DOMAIN-SUFFIX,analyze.full-marke.com,extended-matching
 DOMAIN-SUFFIX,ao-freegeoip.herokuapp.com,extended-matching
 DOMAIN-SUFFIX,ape-tagit.timeinc.net,extended-matching
 DOMAIN-SUFFIX,api-analytics-prd.pelcro.com,extended-matching
@@ -2820,7 +2790,6 @@ DOMAIN-SUFFIX,log.aimtell.com,extended-matching
 DOMAIN-SUFFIX,log.cookieyes.com,extended-matching
 DOMAIN-SUFFIX,log.dpa.com,extended-matching
 DOMAIN-SUFFIX,log.go.com,extended-matching
-DOMAIN-SUFFIX,log.invodo.com,extended-matching
 DOMAIN-SUFFIX,log.mediacategory.com,extended-matching
 DOMAIN-SUFFIX,log.nordot.jp,extended-matching
 DOMAIN-SUFFIX,log.olark.com,extended-matching
@@ -2902,6 +2871,7 @@ DOMAIN-SUFFIX,olytics.omeda.com,extended-matching
 DOMAIN-SUFFIX,onespot-tracking.herokuapp.com,extended-matching
 DOMAIN-SUFFIX,open.delivery.net,extended-matching
 DOMAIN-SUFFIX,optimeeze.appspot.com,extended-matching
+DOMAIN-SUFFIX,p.cquotient.com,extended-matching
 DOMAIN-SUFFIX,p.metrilo.com,extended-matching
 DOMAIN-SUFFIX,p.placed.com,extended-matching
 DOMAIN-SUFFIX,p.skimresources.com,extended-matching
@@ -3101,7 +3071,6 @@ DOMAIN-SUFFIX,stats.screenresolution.org,extended-matching
 DOMAIN-SUFFIX,stats.shopify.com,extended-matching
 DOMAIN-SUFFIX,stats.smartclip.net,extended-matching
 DOMAIN-SUFFIX,stats.topofblogs.com,extended-matching
-DOMAIN-SUFFIX,stats.twistage.com,extended-matching
 DOMAIN-SUFFIX,stats.uscreen.io,extended-matching
 DOMAIN-SUFFIX,stats.varrando.com,extended-matching
 DOMAIN-SUFFIX,stats.viddler.com,extended-matching
@@ -3179,7 +3148,6 @@ DOMAIN-SUFFIX,tags.newscgp.com,extended-matching
 DOMAIN-SUFFIX,tags.refinery89.com,extended-matching
 DOMAIN-SUFFIX,tagtracking.vibescm.com,extended-matching
 DOMAIN-SUFFIX,target.mixi.media,extended-matching
-DOMAIN-SUFFIX,te.supportfreecontent.com,extended-matching
 DOMAIN-SUFFIX,telemetrics.klaviyo.com,extended-matching
 DOMAIN-SUFFIX,telemetry.goodlifefitness.com,extended-matching
 DOMAIN-SUFFIX,telemetry.phenixrts.com,extended-matching
@@ -3228,7 +3196,6 @@ DOMAIN-SUFFIX,track.mituo.cn,extended-matching
 DOMAIN-SUFFIX,track.mp4.center,extended-matching
 DOMAIN-SUFFIX,track.mycliplister.com,extended-matching
 DOMAIN-SUFFIX,track.nopaperforms.com,extended-matching
-DOMAIN-SUFFIX,track.pnicnik.live,extended-matching
 DOMAIN-SUFFIX,track.pricespider.com,extended-matching
 DOMAIN-SUFFIX,track.qoof.com,extended-matching
 DOMAIN-SUFFIX,track.realtimeboard.com,extended-matching
@@ -3267,7 +3234,6 @@ DOMAIN-SUFFIX,tracker.myyschool.xyz,extended-matching
 DOMAIN-SUFFIX,tracker.nitropay.com,extended-matching
 DOMAIN-SUFFIX,tracker.novage.com.ua,extended-matching
 DOMAIN-SUFFIX,tracker.openwebtorrent.com,extended-matching
-DOMAIN-SUFFIX,tracker.roitesting.com,extended-matching
 DOMAIN-SUFFIX,tracker.services.vaix.ai,extended-matching
 DOMAIN-SUFFIX,tracker.softcube.com,extended-matching
 DOMAIN-SUFFIX,tracker.ssl0d.com,extended-matching
@@ -3464,6 +3430,7 @@ DOMAIN-SUFFIX,d2t77mnxyo7adj.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,d2tgfbvjf3q6hn.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,d2wu036mkcz52n.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net,extended-matching
+DOMAIN-SUFFIX,d2z0bn1jv8xwtk.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,d2zue0pgsssbc6.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,d31y97ze264gaa.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,d34ko97cxuv4p7.cloudfront.net,extended-matching
@@ -3630,7 +3597,6 @@ DOMAIN-SUFFIX,btstats.devtribu.fr,extended-matching
 DOMAIN-SUFFIX,capping.sirius.press,extended-matching
 DOMAIN-SUFFIX,collect-v6.51.la,extended-matching
 DOMAIN-SUFFIX,compteur.websiteout.net,extended-matching
-DOMAIN-SUFFIX,core.unit-sense.net,extended-matching
 DOMAIN-SUFFIX,dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws,extended-matching
 DOMAIN-SUFFIX,e.viously.com,extended-matching
 DOMAIN-SUFFIX,events.newsroom.bi,extended-matching
@@ -3716,7 +3682,6 @@ DOMAIN-SUFFIX,tce.alicdn.com,extended-matching
 DOMAIN-SUFFIX,tns.simba.taobao.com,extended-matching
 DOMAIN-SUFFIX,toruk.tanx.com,extended-matching
 DOMAIN-SUFFIX,tr.n2.hk,extended-matching
-DOMAIN-SUFFIX,track.ra.icast.cn,extended-matching
 DOMAIN-SUFFIX,track.storm.mg,extended-matching
 DOMAIN-SUFFIX,track.tomwx.net,extended-matching
 DOMAIN-SUFFIX,track.unidata.ai,extended-matching
@@ -3992,7 +3957,6 @@ DOMAIN-SUFFIX,telemetry.jivosite.com,extended-matching
 DOMAIN-SUFFIX,tms-st.cdn.ngenix.net,extended-matching
 DOMAIN-SUFFIX,tms.dmp.wi-fi.ru,extended-matching
 DOMAIN-SUFFIX,top.elec.ru,extended-matching
-DOMAIN-SUFFIX,track.recreativ.ru,extended-matching
 DOMAIN-SUFFIX,tracker.comagic.ru,extended-matching
 DOMAIN-SUFFIX,tracking.gpm-rtv.ru,extended-matching
 DOMAIN-SUFFIX,tracking.retailrocket.net,extended-matching
