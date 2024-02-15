@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402141544
+## ! Version: 202402151519
 ## ! Title: EasyPrivacy
-## ! Last modified: 14 Feb 2024 15:44 UTC
+## ! Last modified: 15 Feb 2024 15:19 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -487,6 +487,7 @@ DOMAIN-SUFFIX,aloofmetal.com,extended-matching
 DOMAIN-SUFFIX,aloofvest.com,extended-matching
 DOMAIN-SUFFIX,alpineactor.com,extended-matching
 DOMAIN-SUFFIX,amazingairplane.com,extended-matching
+DOMAIN-SUFFIX,ambientdusk.com,extended-matching
 DOMAIN-SUFFIX,ambiguousafternoon.com,extended-matching
 DOMAIN-SUFFIX,ambiguousalarm.com,extended-matching
 DOMAIN-SUFFIX,ambiguousanger.com,extended-matching
@@ -2101,6 +2102,7 @@ DOMAIN-SUFFIX,toweringrun.com,extended-matching
 DOMAIN-SUFFIX,tradetooth.com,extended-matching
 DOMAIN-SUFFIX,tranquilamulet.com,extended-matching
 DOMAIN-SUFFIX,tranquilcanyon.com,extended-matching
+DOMAIN-SUFFIX,tranquilplume.com,extended-matching
 DOMAIN-SUFFIX,tranquilside.com,extended-matching
 DOMAIN-SUFFIX,translateoatmeal.com,extended-matching
 DOMAIN-SUFFIX,trappush.com,extended-matching
@@ -3776,6 +3778,7 @@ DOMAIN-SUFFIX,log.popin.cc,extended-matching
 DOMAIN-SUFFIX,log000.goo.ne.jp,extended-matching
 DOMAIN-SUFFIX,omt.shinobi.jp,extended-matching
 DOMAIN-SUFFIX,panda.kasika.io,extended-matching
+DOMAIN-SUFFIX,ping.paidy.com,extended-matching
 DOMAIN-SUFFIX,rcm.shinobi.jp,extended-matching
 DOMAIN-SUFFIX,reports-tsi.tangerine.io,extended-matching
 DOMAIN-SUFFIX,rlog.popin.cc,extended-matching
