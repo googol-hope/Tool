@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402171550
+## ! Version: 202402181156
 ## ! Title: EasyPrivacy
-## ! Last modified: 17 Feb 2024 15:50 UTC
+## ! Last modified: 18 Feb 2024 11:56 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3339,6 +3339,7 @@ DOMAIN-SUFFIX,wl-pixel.index.digital,extended-matching
 DOMAIN-SUFFIX,wren.condenastdigital.com,extended-matching
 DOMAIN-SUFFIX,ws.audioeye.com,extended-matching
 DOMAIN-SUFFIX,wsmcdn.audioeye.com,extended-matching
+DOMAIN-SUFFIX,wstats.slashed.cloud,extended-matching
 DOMAIN-SUFFIX,wt.viagogo.net,extended-matching
 DOMAIN-SUFFIX,wtbevents.pricespider.com,extended-matching
 DOMAIN-SUFFIX,wtr-digital-analytics.ew.r.appspot.com,extended-matching
@@ -38900,6 +38901,7 @@ DOMAIN-SUFFIX,tla.traderlink.com,extended-matching
 DOMAIN-SUFFIX,track.tesiteca.it,extended-matching
 DOMAIN-SUFFIX,tracker.stileo.it,extended-matching
 DOMAIN-SUFFIX,tracking.gruppo.mps.it,extended-matching
+DOMAIN-SUFFIX,analytics.castel.jp,extended-matching
 DOMAIN-SUFFIX,analytics.cocolog-nifty.com,extended-matching
 DOMAIN-SUFFIX,analytics.ikyu.com,extended-matching
 DOMAIN-SUFFIX,analytics.tver.jp,extended-matching
