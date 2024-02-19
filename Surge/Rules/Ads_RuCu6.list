@@ -1,4 +1,4 @@
-# 2024-02-15 11:35
+# 2024-02-19 10:10
 
 # ======= A ======= #
 # 阿里巴巴
@@ -64,7 +64,6 @@ DOMAIN,amap-aos-info-nogw.amap.com,extended-matching
 DOMAIN,awaken.amap.com,extended-matching
 DOMAIN,free-aos-cdn-image.amap.com,extended-matching
 # 工商银行
-DOMAIN,image.mybank.icbc.com.cn,extended-matching
 DOMAIN,pageviewp.icbc.com.cn,extended-matching
 DOMAIN-SUFFIX,mall.icbc.com.cn,extended-matching
 # 广告联盟
@@ -72,10 +71,13 @@ DOMAIN,ad.zijieapi.com,extended-matching
 DOMAIN,i.snssdk.com,extended-matching
 DOMAIN,is.snssdk.com,extended-matching
 DOMAIN,open.e.kuaishou.com,extended-matching
+DOMAIN,open.kuaishou.com,extended-matching
 DOMAIN,pagead2.googlesyndication-cn.com,extended-matching
 DOMAIN,pagead2.googlesyndication.com,extended-matching
 DOMAIN,www.googleadservices.com,extended-matching
+DOMAIN-SUFFIX,ads.linkedin.com,extended-matching
 DOMAIN-SUFFIX,adservice.google.com,extended-matching
+DOMAIN-SUFFIX,kuaishouzt.com,extended-matching
 DOMAIN-SUFFIX,miaozhen.com,extended-matching
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,ads.g.doubleclick
@@ -130,12 +132,9 @@ DOMAIN,rprain.log.mgtv.com,extended-matching
 DOMAIN,vip.bz.mgtv.com,extended-matching
 DOMAIN-SUFFIX,da.mgtv.com,extended-matching
 # 美团
-DOMAIN,al-log.d.meituan.net,extended-matching
-DOMAIN,babel-statistics-android.d.meituan.net,extended-matching
 DOMAIN,maplocatesdksnapshot.d.meituan.net,extended-matching
 DOMAIN,metrics-picture.d.meituan.net,extended-matching
-DOMAIN,open.kuaishouzt.com,extended-matching
-DOMAIN,route-stats.d.meituan.net,extended-matching
+IP-CIDR,103.37.155.60/32,no-resolve
 # 美颜相机
 DOMAIN,aaid.uyunad.com,extended-matching
 DOMAIN,adui.tg.meitu.com,extended-matching
