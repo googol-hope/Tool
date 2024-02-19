@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402181156
+## ! Version: 202402191544
 ## ! Title: EasyPrivacy
-## ! Last modified: 18 Feb 2024 11:56 UTC
+## ! Last modified: 19 Feb 2024 15:44 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3711,6 +3711,7 @@ DOMAIN-SUFFIX,pixel.barion.com,extended-matching
 DOMAIN-SUFFIX,rum.marquardmedia.hu,extended-matching
 DOMAIN-SUFFIX,videostat-new.index.hu,extended-matching
 DOMAIN-SUFFIX,videostat.index.hu,extended-matching
+DOMAIN-SUFFIX,tracker.oval.id,extended-matching
 DOMAIN-SUFFIX,analytics.competitoor.com,extended-matching
 DOMAIN-SUFFIX,analytics.eikondigital.it,extended-matching
 DOMAIN-SUFFIX,analytics.gtechgroup.it,extended-matching
@@ -4030,6 +4031,7 @@ DOMAIN-SUFFIX,analytics.brave.com,extended-matching
 DOMAIN-SUFFIX,analytics.chase.com,extended-matching
 DOMAIN-SUFFIX,analytics.cookiefirst.dev,extended-matching
 DOMAIN-SUFFIX,analytics.designspiration.com,extended-matching
+DOMAIN-SUFFIX,analytics.eip.telegraph.co.uk,extended-matching
 DOMAIN-SUFFIX,analytics.faceitanalytics.com,extended-matching
 DOMAIN-SUFFIX,analytics.footballdb.com,extended-matching
 DOMAIN-SUFFIX,analytics.freemake.com,extended-matching
@@ -38981,6 +38983,7 @@ DOMAIN-SUFFIX,stats.tunt.lv,extended-matching
 DOMAIN-SUFFIX,click.vgnett.no,extended-matching
 DOMAIN-SUFFIX,data.nrk.no,extended-matching
 DOMAIN-SUFFIX,stats.proff.no,extended-matching
+DOMAIN-SUFFIX,stm.komplett.no,extended-matching
 DOMAIN-SUFFIX,analytics.gazeta.pl,extended-matching
 DOMAIN-SUFFIX,collect.state.centrum24.pl,extended-matching
 DOMAIN-SUFFIX,entryhit.wp.pl,extended-matching
