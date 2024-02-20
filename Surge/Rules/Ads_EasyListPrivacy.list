@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402191544
+## ! Version: 202402201547
 ## ! Title: EasyPrivacy
-## ! Last modified: 19 Feb 2024 15:44 UTC
+## ! Last modified: 20 Feb 2024 15:47 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -307,6 +307,7 @@ DOMAIN-SUFFIX,stack-sonar.com,extended-matching
 DOMAIN-SUFFIX,stat.ovh,extended-matching
 DOMAIN-SUFFIX,statisticplatform.com,extended-matching
 DOMAIN-SUFFIX,statisticsplatform.com,extended-matching
+DOMAIN-SUFFIX,stats.rip,extended-matching
 DOMAIN-SUFFIX,summerhamster.com,extended-matching
 DOMAIN-SUFFIX,superpointlesshamsters.com,extended-matching
 DOMAIN-SUFFIX,t13.io,extended-matching
@@ -3711,7 +3712,6 @@ DOMAIN-SUFFIX,pixel.barion.com,extended-matching
 DOMAIN-SUFFIX,rum.marquardmedia.hu,extended-matching
 DOMAIN-SUFFIX,videostat-new.index.hu,extended-matching
 DOMAIN-SUFFIX,videostat.index.hu,extended-matching
-DOMAIN-SUFFIX,tracker.oval.id,extended-matching
 DOMAIN-SUFFIX,analytics.competitoor.com,extended-matching
 DOMAIN-SUFFIX,analytics.eikondigital.it,extended-matching
 DOMAIN-SUFFIX,analytics.gtechgroup.it,extended-matching
@@ -4520,6 +4520,7 @@ DOMAIN-SUFFIX,tracking.unrealengine.com,extended-matching
 DOMAIN-SUFFIX,trackr.vivenu.com,extended-matching
 DOMAIN-SUFFIX,treatment.grammarly.com,extended-matching
 DOMAIN-SUFFIX,tredir.go.com,extended-matching
+DOMAIN-SUFFIX,trk.decido.io,extended-matching
 DOMAIN-SUFFIX,trk.tirto.id,extended-matching
 DOMAIN-SUFFIX,trx3.famousfix.com,extended-matching
 DOMAIN-SUFFIX,ts.delfi.lt,extended-matching
@@ -38942,6 +38943,7 @@ DOMAIN-SUFFIX,sy.amebame.com,extended-matching
 DOMAIN-SUFFIX,sy.ameblo.jp,extended-matching
 DOMAIN-SUFFIX,t.syosetu.org,extended-matching
 DOMAIN-SUFFIX,track.buyma.com,extended-matching
+DOMAIN-SUFFIX,tracking.ai.rakuten.co.jp,extended-matching
 DOMAIN-SUFFIX,tracking.game8.jp,extended-matching
 DOMAIN-SUFFIX,tracking.gnavi.co.jp,extended-matching
 DOMAIN-SUFFIX,view.fujitv.co.jp,extended-matching
