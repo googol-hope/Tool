@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402201547
+## ! Version: 202402211544
 ## ! Title: EasyPrivacy
-## ! Last modified: 20 Feb 2024 15:47 UTC
+## ! Last modified: 21 Feb 2024 15:44 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -203,6 +203,7 @@ DOMAIN-SUFFIX,jubbie.de,extended-matching
 DOMAIN-SUFFIX,k5a.io,extended-matching
 DOMAIN-SUFFIX,krxd.net,extended-matching
 DOMAIN-SUFFIX,kspotson.de,extended-matching
+DOMAIN-SUFFIX,ldgnrtn.com,extended-matching
 DOMAIN-SUFFIX,ldnlyap.com,extended-matching
 DOMAIN-SUFFIX,leadhit.io,extended-matching
 DOMAIN-SUFFIX,liveyield.com,extended-matching
@@ -1412,6 +1413,7 @@ DOMAIN-SUFFIX,naivestatement.com,extended-matching
 DOMAIN-SUFFIX,nappyattack.com,extended-matching
 DOMAIN-SUFFIX,nappyneck.com,extended-matching
 DOMAIN-SUFFIX,neatshade.com,extended-matching
+DOMAIN-SUFFIX,nebulacrescent.com,extended-matching
 DOMAIN-SUFFIX,nebulousripple.com,extended-matching
 DOMAIN-SUFFIX,necessarywax.com,extended-matching
 DOMAIN-SUFFIX,needlessnorth.com,extended-matching
@@ -3980,6 +3982,7 @@ DOMAIN-SUFFIX,tracking.smartmeapp.com,extended-matching
 DOMAIN-SUFFIX,webpixel.smartmeapp.com,extended-matching
 DOMAIN-SUFFIX,collector.schibsted.io,extended-matching
 DOMAIN-SUFFIX,evt-api.ntm.eu,extended-matching
+DOMAIN-SUFFIX,impression-tracker-service-5eimuebuhq-lz.a.run.app,extended-matching
 DOMAIN-SUFFIX,pixel.smartmedia.tj,extended-matching
 DOMAIN-SUFFIX,sal.isanook.com,extended-matching
 DOMAIN-SUFFIX,stat.matichon.co.th,extended-matching
@@ -37189,7 +37192,6 @@ DOMAIN-SUFFIX,link.nextaveapp.com,extended-matching
 DOMAIN-SUFFIX,link.nextlevelsports.com,extended-matching
 DOMAIN-SUFFIX,link.nilclub.com,extended-matching
 DOMAIN-SUFFIX,link.notifications.busuu.app,extended-matching
-DOMAIN-SUFFIX,link.nubank.com.br,extended-matching
 DOMAIN-SUFFIX,link.nutty.chat,extended-matching
 DOMAIN-SUFFIX,link.offers.kodakmoments.com,extended-matching
 DOMAIN-SUFFIX,link.olympya.com,extended-matching
