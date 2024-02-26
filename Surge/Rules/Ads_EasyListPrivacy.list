@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202402251422
+## ! Version: 202402261503
 ## ! Title: EasyPrivacy
-## ! Last modified: 25 Feb 2024 14:22 UTC
+## ! Last modified: 26 Feb 2024 15:03 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -330,6 +330,7 @@ DOMAIN-SUFFIX,tracking24.net,extended-matching
 DOMAIN-SUFFIX,transmapp.com,extended-matching
 DOMAIN-SUFFIX,triplestat.online,extended-matching
 DOMAIN-SUFFIX,trk-maiorum.com,extended-matching
+DOMAIN-SUFFIX,trkapi.impact.com,extended-matching
 DOMAIN-SUFFIX,trkbc.com,extended-matching
 DOMAIN-SUFFIX,trkn.us,extended-matching
 DOMAIN-SUFFIX,tru.am,extended-matching
@@ -1792,6 +1793,7 @@ DOMAIN-SUFFIX,sheltercellar.com,extended-matching
 DOMAIN-SUFFIX,shesubscriptions.com,extended-matching
 DOMAIN-SUFFIX,shinesavage.com,extended-matching
 DOMAIN-SUFFIX,shinestuart.com,extended-matching
+DOMAIN-SUFFIX,shinypond.com,extended-matching
 DOMAIN-SUFFIX,shirtsidewalk.com,extended-matching
 DOMAIN-SUFFIX,shiveringspot.com,extended-matching
 DOMAIN-SUFFIX,shiverscissors.com,extended-matching
@@ -3354,7 +3356,6 @@ DOMAIN-SUFFIX,x.weather.com,extended-matching
 DOMAIN-SUFFIX,xp2023-pix.s3.amazonaws.com,extended-matching
 DOMAIN-SUFFIX,adsdk.yandex.ru,extended-matching
 DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com,extended-matching
-DOMAIN-SUFFIX,analytics.b2.ai,extended-matching
 DOMAIN-SUFFIX,analytics.mobile.yandex.net,extended-matching
 DOMAIN-SUFFIX,analytics.samsungknox.com,extended-matching
 DOMAIN-SUFFIX,click.oneplus.cn,extended-matching
@@ -4199,6 +4200,7 @@ DOMAIN-SUFFIX,events2.www.edenfantasys.com,extended-matching
 DOMAIN-SUFFIX,evs.icy-lake.kickstarter.com,extended-matching
 DOMAIN-SUFFIX,exr-mms.expertreviews.co.uk,extended-matching
 DOMAIN-SUFFIX,f362.nola.com,extended-matching
+DOMAIN-SUFFIX,faro-collector-prod-*.grafana.net,extended-matching
 DOMAIN-SUFFIX,fathom.app.silverbeak.com,extended-matching
 DOMAIN-SUFFIX,fathom.tdvm.net,extended-matching
 DOMAIN-SUFFIX,fbo-statistics-collector-tc.is.flippingbook.com,extended-matching
