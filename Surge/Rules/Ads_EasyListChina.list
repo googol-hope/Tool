@@ -26,11 +26,13 @@ DOMAIN-SUFFIX,2jse6.icu,extended-matching
 DOMAIN-SUFFIX,3bxe2.cyou,extended-matching
 DOMAIN-SUFFIX,51hir.cyou,extended-matching
 DOMAIN-SUFFIX,88lm05.com,extended-matching
+DOMAIN-SUFFIX,88lm06.com,extended-matching
 DOMAIN-SUFFIX,8xtm6i.cn,extended-matching
 DOMAIN-SUFFIX,999xx999kk.com,extended-matching
 DOMAIN-SUFFIX,aaoisp.com,extended-matching
 DOMAIN-SUFFIX,agmed.cyou,extended-matching
 DOMAIN-SUFFIX,anjdwmq.xyz,extended-matching
+DOMAIN-SUFFIX,aourgk.xyz,extended-matching
 DOMAIN-SUFFIX,arqvm.cn,extended-matching
 DOMAIN-SUFFIX,awuvcq.xyz,extended-matching
 DOMAIN-SUFFIX,b37r5.cyou,extended-matching
@@ -40,6 +42,7 @@ DOMAIN-SUFFIX,bdxpdz.xyz,extended-matching
 DOMAIN-SUFFIX,benpsbp.com,extended-matching
 DOMAIN-SUFFIX,bjswhpy.cn,extended-matching
 DOMAIN-SUFFIX,bmnbyn.icu,extended-matching
+DOMAIN-SUFFIX,bugzmn.icu,extended-matching
 DOMAIN-SUFFIX,bvxiht.xyz,extended-matching
 DOMAIN-SUFFIX,bwlcpr.xyz,extended-matching
 DOMAIN-SUFFIX,bzzxyyh.xyz,extended-matching
@@ -68,8 +71,11 @@ DOMAIN-SUFFIX,dzuht.cn,extended-matching
 DOMAIN-SUFFIX,ebgwdon.cn,extended-matching
 DOMAIN-SUFFIX,efmtsw.xyz,extended-matching
 DOMAIN-SUFFIX,ejdhmed.xyz,extended-matching
+DOMAIN-SUFFIX,execuri.com,extended-matching
+DOMAIN-SUFFIX,fefgvh.xyz,extended-matching
 DOMAIN-SUFFIX,ferriesendless.com,extended-matching
 DOMAIN-SUFFIX,fmfnrf.xyz,extended-matching
+DOMAIN-SUFFIX,fvpboxu.xyz,extended-matching
 DOMAIN-SUFFIX,fwcnex.icu,extended-matching
 DOMAIN-SUFFIX,ghgasdb365.shop,extended-matching
 DOMAIN-SUFFIX,ghgasdt963.shop,extended-matching
@@ -86,6 +92,7 @@ DOMAIN-SUFFIX,hmrwkcx.cn,extended-matching
 DOMAIN-SUFFIX,hozatr.xyz,extended-matching
 DOMAIN-SUFFIX,ijvla.cn,extended-matching
 DOMAIN-SUFFIX,jgmywh.icu,extended-matching
+DOMAIN-SUFFIX,jioed.cyou,extended-matching
 DOMAIN-SUFFIX,jqpejp.xyz,extended-matching
 DOMAIN-SUFFIX,js131.cn,extended-matching
 DOMAIN-SUFFIX,kbomku.xyz,extended-matching
@@ -96,6 +103,7 @@ DOMAIN-SUFFIX,lfffzv.xyz,extended-matching
 DOMAIN-SUFFIX,luofk.xyz,extended-matching
 DOMAIN-SUFFIX,lvdedf.xyz,extended-matching
 DOMAIN-SUFFIX,misjgy.xyz,extended-matching
+DOMAIN-SUFFIX,mlhtr.cn,extended-matching
 DOMAIN-SUFFIX,nddld.cn,extended-matching
 DOMAIN-SUFFIX,ndthdte125.shop,extended-matching
 DOMAIN-SUFFIX,ndthdtr586.shop,extended-matching
@@ -131,6 +139,8 @@ DOMAIN-SUFFIX,rnkzhsi.cn,extended-matching
 DOMAIN-SUFFIX,ruqwgb.icu,extended-matching
 DOMAIN-SUFFIX,rydyvv.xyz,extended-matching
 DOMAIN-SUFFIX,rzfdbsn.cn,extended-matching
+DOMAIN-SUFFIX,sdjkbcjksbdsvv.com,extended-matching
+DOMAIN-SUFFIX,shanvezhu.com,extended-matching
 DOMAIN-SUFFIX,shuocyw.cn,extended-matching
 DOMAIN-SUFFIX,sjaaquj.cn,extended-matching
 DOMAIN-SUFFIX,soffersk.com,extended-matching
@@ -140,12 +150,14 @@ DOMAIN-SUFFIX,svncowt.cn,extended-matching
 DOMAIN-SUFFIX,szbhb.cn,extended-matching
 DOMAIN-SUFFIX,szmnd.cn,extended-matching
 DOMAIN-SUFFIX,szmnf.cn,extended-matching
+DOMAIN-SUFFIX,szmnl.cn,extended-matching
 DOMAIN-SUFFIX,szpnz.cn,extended-matching
 DOMAIN-SUFFIX,szptp.cn,extended-matching
 DOMAIN-SUFFIX,szpwh.cn,extended-matching
 DOMAIN-SUFFIX,tahznx.xyz,extended-matching
 DOMAIN-SUFFIX,tchdxl.xyz,extended-matching
 DOMAIN-SUFFIX,tdljuuw.xyz,extended-matching
+DOMAIN-SUFFIX,tduenkq839.shop,extended-matching
 DOMAIN-SUFFIX,tgccct.icu,extended-matching
 DOMAIN-SUFFIX,tmjetb.xyz,extended-matching
 DOMAIN-SUFFIX,tsrvrr.xyz,extended-matching
@@ -154,6 +166,7 @@ DOMAIN-SUFFIX,tyodot.icu,extended-matching
 DOMAIN-SUFFIX,uctutu3789.xyz,extended-matching
 DOMAIN-SUFFIX,usltmus.cn,extended-matching
 DOMAIN-SUFFIX,uu22662.com,extended-matching
+DOMAIN-SUFFIX,uxlvk.cn,extended-matching
 DOMAIN-SUFFIX,uxrdg.cn,extended-matching
 DOMAIN-SUFFIX,veaiyl.icu,extended-matching
 DOMAIN-SUFFIX,vhvwlb.xyz,extended-matching
@@ -172,6 +185,7 @@ DOMAIN-SUFFIX,xklofoz.cn,extended-matching
 DOMAIN-SUFFIX,xkrnud.icu,extended-matching
 DOMAIN-SUFFIX,xliffnsc.xyz,extended-matching
 DOMAIN-SUFFIX,xn--wgvp78a61swpe6zdozj.cn,extended-matching
+DOMAIN-SUFFIX,xsfajf.xyz,extended-matching
 DOMAIN-SUFFIX,xszw0.icu,extended-matching
 DOMAIN-SUFFIX,xvbjctqs.xyz,extended-matching
 DOMAIN-SUFFIX,xvgrszkg.xyz,extended-matching
@@ -188,7 +202,9 @@ DOMAIN-SUFFIX,yvnxetmq.xyz,extended-matching
 DOMAIN-SUFFIX,yvudqzoa.xyz,extended-matching
 DOMAIN-SUFFIX,yyddkm526.shop,extended-matching
 DOMAIN-SUFFIX,zagyjnn.cn,extended-matching
+DOMAIN-SUFFIX,zhaweifeng.com,extended-matching
 DOMAIN-SUFFIX,zopuqv.icu,extended-matching
+DOMAIN-SUFFIX,zsjpi.cn,extended-matching
 DOMAIN-SUFFIX,ztxjutz.xyz,extended-matching
 DOMAIN-SUFFIX,zuvbzl.xyz,extended-matching
 DOMAIN-SUFFIX,002777.xyz,extended-matching
@@ -5548,6 +5564,7 @@ DOMAIN-SUFFIX,zq.lansedir.com,extended-matching
 DOMAIN-SUFFIX,zsjxwj.com,extended-matching
 DOMAIN-SUFFIX,zuowen.hydcd.com,extended-matching
 DOMAIN-SUFFIX,zx.docin.com,extended-matching
+DOMAIN-SUFFIX,d2un76zvb5mgzx.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,d3iih5w7xp5hdg.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,jpg1.oss-cn-beijing.aliyuncs.com,extended-matching
 DOMAIN-SUFFIX,jun01.oss-cn-beijing.aliyuncs.com,extended-matching
