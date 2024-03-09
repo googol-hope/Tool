@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403071032
+## ! Version: 202403091019
 ## ! Title: EasyPrivacy
-## ! Last modified: 07 Mar 2024 10:32 UTC
+## ! Last modified: 09 Mar 2024 10:19 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -122,6 +122,7 @@ DOMAIN-SUFFIX,envato.market,extended-matching
 DOMAIN-SUFFIX,epsilondelta.co,extended-matching
 DOMAIN-SUFFIX,eqy.link,extended-matching
 DOMAIN-SUFFIX,etop.ro,extended-matching
+DOMAIN-SUFFIX,eval.privateapi.click,extended-matching
 DOMAIN-SUFFIX,everesttech.net,extended-matching
 DOMAIN-SUFFIX,experianmatch.info,extended-matching
 DOMAIN-SUFFIX,ezodn.com,extended-matching
@@ -167,6 +168,7 @@ DOMAIN-SUFFIX,g990421676.co,extended-matching
 DOMAIN-SUFFIX,gbqofs.com,extended-matching
 DOMAIN-SUFFIX,geoedge.be,extended-matching
 DOMAIN-SUFFIX,geotargetly-api-*.com,extended-matching
+DOMAIN-SUFFIX,getdeviceinf.com,extended-matching
 DOMAIN-SUFFIX,glamipixel.com,extended-matching
 DOMAIN-SUFFIX,glimr.io,extended-matching
 DOMAIN-SUFFIX,glookup.info,extended-matching
@@ -269,7 +271,6 @@ DOMAIN-SUFFIX,pixmg.com,extended-matching
 DOMAIN-SUFFIX,pixrealm.com,extended-matching
 DOMAIN-SUFFIX,pjstat.com,extended-matching
 DOMAIN-SUFFIX,plausiblecdn.co,extended-matching
-DOMAIN-SUFFIX,privateapi.click,extended-matching
 DOMAIN-SUFFIX,procroanalytics.com,extended-matching
 DOMAIN-SUFFIX,progmxs.com,extended-matching
 DOMAIN-SUFFIX,pushvisit.xyz,extended-matching
@@ -2708,6 +2709,7 @@ DOMAIN-SUFFIX,f-log-at.grammarly.io,extended-matching
 DOMAIN-SUFFIX,f-log-test.grammarly.io,extended-matching
 DOMAIN-SUFFIX,fcmatch.google.com,extended-matching
 DOMAIN-SUFFIX,fcmatch.youtube.com,extended-matching
+DOMAIN-SUFFIX,feliz.data.tm-awx.com,extended-matching
 DOMAIN-SUFFIX,filament-stats.herokuapp.com,extended-matching
 DOMAIN-SUFFIX,fingerprinter-production.herokuapp.com,extended-matching
 DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com,extended-matching
@@ -38997,6 +38999,7 @@ DOMAIN-SUFFIX,data-logdelivery.wconcept.co.kr,extended-matching
 DOMAIN-SUFFIX,hits.zdnet.co.kr,extended-matching
 DOMAIN-SUFFIX,kyson.kakao.com,extended-matching
 DOMAIN-SUFFIX,l.m.naver.com,extended-matching
+DOMAIN-SUFFIX,ljc.coupang.com,extended-matching
 DOMAIN-SUFFIX,log.etoday.co.kr,extended-matching
 DOMAIN-SUFFIX,log.kinolights.com,extended-matching
 DOMAIN-SUFFIX,log.zdnet.co.kr,extended-matching
