@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403111431
+## ! Version: 202403121150
 ## ! Title: EasyPrivacy
-## ! Last modified: 11 Mar 2024 14:31 UTC
+## ! Last modified: 12 Mar 2024 11:50 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,adscore.com,extended-matching
 DOMAIN-SUFFIX,adspsp.com,extended-matching
 DOMAIN-SUFFIX,adstk.io,extended-matching
 DOMAIN-SUFFIX,adultium.com,extended-matching
+DOMAIN-SUFFIX,aggle.net,extended-matching
 DOMAIN-SUFFIX,agkn.com,extended-matching
 DOMAIN-SUFFIX,agma-analytics.de,extended-matching
 DOMAIN-SUFFIX,allvideometrika.com,extended-matching
@@ -83,6 +84,7 @@ DOMAIN-SUFFIX,click360.io,extended-matching
 DOMAIN-SUFFIX,cliquelead.com,extended-matching
 DOMAIN-SUFFIX,cloudwp.io,extended-matching
 DOMAIN-SUFFIX,clrt.ai,extended-matching
+DOMAIN-SUFFIX,cnna.io,extended-matching
 DOMAIN-SUFFIX,cntxtfl.com,extended-matching
 DOMAIN-SUFFIX,confiant-integrations.net,extended-matching
 DOMAIN-SUFFIX,convead.io,extended-matching
@@ -166,6 +168,7 @@ DOMAIN-SUFFIX,g9706132415.co,extended-matching
 DOMAIN-SUFFIX,g990421675.co,extended-matching
 DOMAIN-SUFFIX,g990421676.co,extended-matching
 DOMAIN-SUFFIX,gbqofs.com,extended-matching
+DOMAIN-SUFFIX,gcprivacy.com,extended-matching
 DOMAIN-SUFFIX,geoedge.be,extended-matching
 DOMAIN-SUFFIX,geotargetly-api-*.com,extended-matching
 DOMAIN-SUFFIX,getdeviceinf.com,extended-matching
@@ -3143,6 +3146,7 @@ DOMAIN-SUFFIX,t.sharethis.com,extended-matching
 DOMAIN-SUFFIX,t.signalayer.com,extended-matching
 DOMAIN-SUFFIX,t.skimresources.com,extended-matching
 DOMAIN-SUFFIX,t.smile.eu,extended-matching
+DOMAIN-SUFFIX,t.spbx.app,extended-matching
 DOMAIN-SUFFIX,t.splicky.com,extended-matching
 DOMAIN-SUFFIX,t.spot.im,extended-matching
 DOMAIN-SUFFIX,t2.t2b.click,extended-matching
