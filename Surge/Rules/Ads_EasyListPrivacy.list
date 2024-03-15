@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403141549
+## ! Version: 202403151507
 ## ! Title: EasyPrivacy
-## ! Last modified: 14 Mar 2024 15:49 UTC
+## ! Last modified: 15 Mar 2024 15:07 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4068,6 +4068,7 @@ DOMAIN-SUFFIX,analytics.archive.org,extended-matching
 DOMAIN-SUFFIX,analytics.brave.com,extended-matching
 DOMAIN-SUFFIX,analytics.chase.com,extended-matching
 DOMAIN-SUFFIX,analytics.cookiefirst.dev,extended-matching
+DOMAIN-SUFFIX,analytics.crazygames.com,extended-matching
 DOMAIN-SUFFIX,analytics.designspiration.com,extended-matching
 DOMAIN-SUFFIX,analytics.eip.telegraph.co.uk,extended-matching
 DOMAIN-SUFFIX,analytics.faceitanalytics.com,extended-matching
@@ -4216,6 +4217,7 @@ DOMAIN-SUFFIX,event-collector.moviesanywhere.com,extended-matching
 DOMAIN-SUFFIX,event-router.olympics.com,extended-matching
 DOMAIN-SUFFIX,event.platform.tunein.com,extended-matching
 DOMAIN-SUFFIX,eventlog.jackpot.de,extended-matching
+DOMAIN-SUFFIX,events-ingestion.services.gorgias.com,extended-matching
 DOMAIN-SUFFIX,events-prod.autolist.com,extended-matching
 DOMAIN-SUFFIX,events-tracker.deliveroo.net,extended-matching
 DOMAIN-SUFFIX,events.api.godaddy.com,extended-matching
