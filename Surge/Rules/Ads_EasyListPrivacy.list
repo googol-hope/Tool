@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403161256
+## ! Version: 202403171100
 ## ! Title: EasyPrivacy
-## ! Last modified: 16 Mar 2024 12:56 UTC
+## ! Last modified: 17 Mar 2024 11:00 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -88,7 +88,6 @@ DOMAIN-SUFFIX,cnna.io,extended-matching
 DOMAIN-SUFFIX,cntxtfl.com,extended-matching
 DOMAIN-SUFFIX,confiant-integrations.net,extended-matching
 DOMAIN-SUFFIX,convead.io,extended-matching
-DOMAIN-SUFFIX,conversationalsdevelopment.nl,extended-matching
 DOMAIN-SUFFIX,convertlink.com,extended-matching
 DOMAIN-SUFFIX,cpx.to,extended-matching
 DOMAIN-SUFFIX,crwdcntrl.net,extended-matching
@@ -4195,11 +4194,13 @@ DOMAIN-SUFFIX,dot.nonolive.com,extended-matching
 DOMAIN-SUFFIX,dp.shoprunner.com,extended-matching
 DOMAIN-SUFFIX,dtag.breadfinancial.com,extended-matching
 DOMAIN-SUFFIX,dumpster.cam4.com,extended-matching
+DOMAIN-SUFFIX,e.quizlet.com,extended-matching
 DOMAIN-SUFFIX,ea.epochbase.com,extended-matching
 DOMAIN-SUFFIX,ec.thredup.com,extended-matching
 DOMAIN-SUFFIX,edge.staging.fullstory.com,extended-matching
 DOMAIN-SUFFIX,eec.crunchyroll.com,extended-matching
 DOMAIN-SUFFIX,ejlytics.editorji.com,extended-matching
+DOMAIN-SUFFIX,el.quizlet.com,extended-matching
 DOMAIN-SUFFIX,engagefront.meteomedia.com,extended-matching
 DOMAIN-SUFFIX,engagefront.theweathernetwork.com,extended-matching
 DOMAIN-SUFFIX,engagement.feedly.com,extended-matching
