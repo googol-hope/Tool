@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403171100
+## ! Version: 202403181532
 ## ! Title: EasyPrivacy
-## ! Last modified: 17 Mar 2024 11:00 UTC
+## ! Last modified: 18 Mar 2024 15:32 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3804,6 +3804,7 @@ DOMAIN-SUFFIX,bidder.mediams.mb.softbank.jp,extended-matching
 DOMAIN-SUFFIX,bs.nakanohito.jp,extended-matching
 DOMAIN-SUFFIX,bvr.ast.snva.jp,extended-matching
 DOMAIN-SUFFIX,bvr.snva.jp,extended-matching
+DOMAIN-SUFFIX,cdn.ad-platform.jmty.jp,extended-matching
 DOMAIN-SUFFIX,cookie.sync.usonar.jp,extended-matching
 DOMAIN-SUFFIX,counter2.blog.livedoor.com,extended-matching
 DOMAIN-SUFFIX,crossees.com,extended-matching
@@ -4549,6 +4550,7 @@ DOMAIN-SUFFIX,track.mrgugu.com,extended-matching
 DOMAIN-SUFFIX,track.netzero.net,extended-matching
 DOMAIN-SUFFIX,track.sodapdf.com,extended-matching
 DOMAIN-SUFFIX,track.thesaurus.com,extended-matching
+DOMAIN-SUFFIX,track.ttsave.app,extended-matching
 DOMAIN-SUFFIX,track.ultimate-guitar.com,extended-matching
 DOMAIN-SUFFIX,tracker.affiliate.iqbroker.com,extended-matching
 DOMAIN-SUFFIX,tracker.nbcuas.com,extended-matching
@@ -34476,7 +34478,6 @@ DOMAIN-SUFFIX,9984342.reddoorz.in,extended-matching
 DOMAIN-SUFFIX,9b55.pandasuite.io,extended-matching
 DOMAIN-SUFFIX,9bdb.pandasuite.io,extended-matching
 DOMAIN-SUFFIX,9kvnwwkj.pandasuite.io,extended-matching
-DOMAIN-SUFFIX,_tcp.academyofconsciousleadership.net,extended-matching
 DOMAIN-SUFFIX,a-t.topya.com,extended-matching
 DOMAIN-SUFFIX,a.a23.in,extended-matching
 DOMAIN-SUFFIX,a.careangel.com,extended-matching
