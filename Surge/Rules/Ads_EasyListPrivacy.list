@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403191303
+## ! Version: 202403201347
 ## ! Title: EasyPrivacy
-## ! Last modified: 19 Mar 2024 13:03 UTC
+## ! Last modified: 20 Mar 2024 13:47 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4178,6 +4178,7 @@ DOMAIN-SUFFIX,cryo.socialblade.com,extended-matching
 DOMAIN-SUFFIX,cstats.sankakucomplex.com,extended-matching
 DOMAIN-SUFFIX,cwt.citywire.info,extended-matching
 DOMAIN-SUFFIX,d.skk.moe,extended-matching
+DOMAIN-SUFFIX,d401.dollartree.com,extended-matching
 DOMAIN-SUFFIX,data.allstate.com,extended-matching
 DOMAIN-SUFFIX,data.guide.photobucket.com,extended-matching
 DOMAIN-SUFFIX,data.torry.io,extended-matching
@@ -4271,10 +4272,12 @@ DOMAIN-SUFFIX,gmetrics.getbeamer.com,extended-matching
 DOMAIN-SUFFIX,gnar.grammarly.com,extended-matching
 DOMAIN-SUFFIX,go.pardot.com,extended-matching
 DOMAIN-SUFFIX,gotie.tunein.com,extended-matching
+DOMAIN-SUFFIX,grgnsht.nzxt.com,extended-matching
 DOMAIN-SUFFIX,gtm.wise.com,extended-matching
 DOMAIN-SUFFIX,gtreus.aliexpress.com,extended-matching
 DOMAIN-SUFFIX,gurgle.pcmag.com,extended-matching
 DOMAIN-SUFFIX,gurgle.spiceworks.com,extended-matching
+DOMAIN-SUFFIX,h031.familydollar.com,extended-matching
 DOMAIN-SUFFIX,health-metrics-api.setapp.com,extended-matching
 DOMAIN-SUFFIX,heap.drop.com,extended-matching
 DOMAIN-SUFFIX,hlogger.heraldcorp.com,extended-matching
