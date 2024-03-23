@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403221503
+## ! Version: 202403231529
 ## ! Title: EasyPrivacy
-## ! Last modified: 22 Mar 2024 15:03 UTC
+## ! Last modified: 23 Mar 2024 15:29 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,logicanalytics.io,extended-matching
 DOMAIN-SUFFIX,logtail.com,extended-matching
 DOMAIN-SUFFIX,loopcybersec.com,extended-matching
 DOMAIN-SUFFIX,lsdm.co,extended-matching
+DOMAIN-SUFFIX,lyfnh.io,extended-matching
 DOMAIN-SUFFIX,maggieeatstheangel.com,extended-matching
 DOMAIN-SUFFIX,matheranalytics.com,extended-matching
 DOMAIN-SUFFIX,mathilde-ads.com,extended-matching
@@ -2467,6 +2468,7 @@ DOMAIN-SUFFIX,b7tp47v2nb3x-a.akamaihd.net,extended-matching
 DOMAIN-SUFFIX,bacon.section.io,extended-matching
 DOMAIN-SUFFIX,barium.cheezdev.com,extended-matching
 DOMAIN-SUFFIX,bat.bing.com,extended-matching
+DOMAIN-SUFFIX,baxter.olx.org,extended-matching
 DOMAIN-SUFFIX,bc.marfeelcache.com,extended-matching
 DOMAIN-SUFFIX,beacon.adelphic.com,extended-matching
 DOMAIN-SUFFIX,beacon.affil.walmart.com,extended-matching
@@ -3996,6 +3998,7 @@ DOMAIN-SUFFIX,collector-videoplayer.5centscdn.net,extended-matching
 DOMAIN-SUFFIX,contador.biobiochile.cl,extended-matching
 DOMAIN-SUFFIX,contadores.miarroba.com,extended-matching
 DOMAIN-SUFFIX,contadores.miarroba.es,extended-matching
+DOMAIN-SUFFIX,count.sibbo.net,extended-matching
 DOMAIN-SUFFIX,creatives.sunmedia.tv,extended-matching
 DOMAIN-SUFFIX,ctx.citiservi.es,extended-matching
 DOMAIN-SUFFIX,datanoticias.prisasd.com,extended-matching
@@ -4180,6 +4183,7 @@ DOMAIN-SUFFIX,cstats.sankakucomplex.com,extended-matching
 DOMAIN-SUFFIX,cwt.citywire.info,extended-matching
 DOMAIN-SUFFIX,d.skk.moe,extended-matching
 DOMAIN-SUFFIX,d401.dollartree.com,extended-matching
+DOMAIN-SUFFIX,dabu.askmediagroup.com,extended-matching
 DOMAIN-SUFFIX,data.allstate.com,extended-matching
 DOMAIN-SUFFIX,data.guide.photobucket.com,extended-matching
 DOMAIN-SUFFIX,data.torry.io,extended-matching
