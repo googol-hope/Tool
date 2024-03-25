@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403241530
+## ! Version: 202403251356
 ## ! Title: EasyPrivacy
-## ! Last modified: 24 Mar 2024 15:30 UTC
+## ! Last modified: 25 Mar 2024 13:56 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3003,6 +3003,7 @@ DOMAIN-SUFFIX,rtc.multiscreensite.com,extended-matching
 DOMAIN-SUFFIX,rtxpx-a.akamaihd.net,extended-matching
 DOMAIN-SUFFIX,rum.azion.com,extended-matching
 DOMAIN-SUFFIX,rum.azioncdn.net,extended-matching
+DOMAIN-SUFFIX,rum.corewebvitals.io,extended-matching
 DOMAIN-SUFFIX,rum.ingress.layer0.co,extended-matching
 DOMAIN-SUFFIX,rum.layer0.co,extended-matching
 DOMAIN-SUFFIX,rum.perfops.net,extended-matching
@@ -3490,6 +3491,7 @@ DOMAIN-SUFFIX,dc8na2hxrj29i.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dc8xl0ndzn2cb.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dd6zx4ibq538k.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dggaenaawxe8z.cloudfront.net,extended-matching
+DOMAIN-SUFFIX,dh0c1bz67fuho.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,di2xwvxz1jrvu.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dkupaw9ae63a8.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dl1d2m8ri9v3j.cloudfront.net,extended-matching
@@ -18802,7 +18804,6 @@ DOMAIN-SUFFIX,beaumont.actonservice.com,extended-matching
 DOMAIN-SUFFIX,bersondeanstevens.actonservice.com,extended-matching
 DOMAIN-SUFFIX,bestbuy.actonservice.com,extended-matching
 DOMAIN-SUFFIX,bestinfo.bluetrustloans.com,extended-matching
-DOMAIN-SUFFIX,beyondmeasure.rigoltech.com,extended-matching
 DOMAIN-SUFFIX,bgiamericas.actonservice.com,extended-matching
 DOMAIN-SUFFIX,bi.concordesolutions.com,extended-matching
 DOMAIN-SUFFIX,bigcustomernetwork.actonservice.com,extended-matching
