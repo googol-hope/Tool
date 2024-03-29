@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202403281312
+## ! Version: 202403291227
 ## ! Title: EasyPrivacy
-## ! Last modified: 28 Mar 2024 13:12 UTC
+## ! Last modified: 29 Mar 2024 12:27 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -342,7 +342,6 @@ DOMAIN-SUFFIX,trkbc.com,extended-matching
 DOMAIN-SUFFIX,trkn.us,extended-matching
 DOMAIN-SUFFIX,tru.am,extended-matching
 DOMAIN-SUFFIX,truffle.bid,extended-matching
-DOMAIN-SUFFIX,trx-hub.com,extended-matching
 DOMAIN-SUFFIX,tryzens-analytics.com,extended-matching
 DOMAIN-SUFFIX,turboeagle.co,extended-matching
 DOMAIN-SUFFIX,turbolion.io,extended-matching
@@ -382,6 +381,7 @@ DOMAIN-SUFFIX,zhctrack.net,extended-matching
 DOMAIN-SUFFIX,zippyfrog.co,extended-matching
 DOMAIN-SUFFIX,zononi.com,extended-matching
 DOMAIN-SUFFIX,zqtk.net,extended-matching
+DOMAIN-SUFFIX,109.123.233.251,extended-matching
 DOMAIN-SUFFIX,185.193.38.148,extended-matching
 DOMAIN-SUFFIX,35.194.26.233,extended-matching
 DOMAIN-SUFFIX,35.239.57.233,extended-matching
@@ -415,6 +415,7 @@ DOMAIN-SUFFIX,f1tbit.com,extended-matching
 DOMAIN-SUFFIX,filmoljupci.com,extended-matching
 DOMAIN-SUFFIX,g1thub.com,extended-matching
 DOMAIN-SUFFIX,gay-hotvideo.net,extended-matching
+DOMAIN-SUFFIX,gulf.moneroocean.stream,extended-matching
 DOMAIN-SUFFIX,igrid.org,extended-matching
 DOMAIN-SUFFIX,jscoinminer.com,extended-matching
 DOMAIN-SUFFIX,mi-de-ner-nis3.info,extended-matching
