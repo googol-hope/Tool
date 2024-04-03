@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202404021456
+## ! Version: 202404031456
 ## ! Title: EasyPrivacy
-## ! Last modified: 02 Apr 2024 14:56 UTC
+## ! Last modified: 03 Apr 2024 14:56 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3818,6 +3818,7 @@ HOST-SUFFIX,cookie.sync.usonar.jp,reject,REJECT
 HOST-SUFFIX,counter2.blog.livedoor.com,reject,REJECT
 HOST-SUFFIX,crossees.com,reject,REJECT
 HOST-SUFFIX,cs.nakanohito.jp,reject,REJECT
+HOST-SUFFIX,cv-tracker.stanby.com,reject,REJECT
 HOST-SUFFIX,ev.tpocdm.com,reject,REJECT
 HOST-SUFFIX,ip2c.landscape.co.jp,reject,REJECT
 HOST-SUFFIX,ipcheck.blogsys.jp,reject,REJECT
@@ -4511,6 +4512,7 @@ HOST-SUFFIX,t.freelancer.com,reject,REJECT
 HOST-SUFFIX,t.imgur.com,reject,REJECT
 HOST-SUFFIX,t.indeed.com,reject,REJECT
 HOST-SUFFIX,t.ionos.com,reject,REJECT
+HOST-SUFFIX,t.iwara.tv,reject,REJECT
 HOST-SUFFIX,t.jossandmain.com,reject,REJECT
 HOST-SUFFIX,t.kck.st,reject,REJECT
 HOST-SUFFIX,t.nypost.com,reject,REJECT
