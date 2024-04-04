@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202404031456
+## ! Version: 202404040215
 ## ! Title: EasyPrivacy
-## ! Last modified: 03 Apr 2024 14:56 UTC
+## ! Last modified: 04 Apr 2024 02:15 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4499,6 +4499,7 @@ HOST-SUFFIX,stats.wwitv.com,reject,REJECT
 HOST-SUFFIX,stats2.mytuner.mobi,reject,REJECT
 HOST-SUFFIX,statsegg.cdngeek.com,reject,REJECT
 HOST-SUFFIX,streamstats.prd.dlive.tv,reject,REJECT
+HOST-SUFFIX,svc.eu01.miro.com,reject,REJECT
 HOST-SUFFIX,szrpr.raen.com,reject,REJECT
 HOST-SUFFIX,t.9gag.com,reject,REJECT
 HOST-SUFFIX,t.airasia.com,reject,REJECT
@@ -4586,6 +4587,7 @@ HOST-SUFFIX,tracking.shopstyle.co.uk,reject,REJECT
 HOST-SUFFIX,tracking.shopstyle.com,reject,REJECT
 HOST-SUFFIX,tracking.unrealengine.com,reject,REJECT
 HOST-SUFFIX,trackr.vivenu.com,reject,REJECT
+HOST-SUFFIX,trcksplt.miro.com,reject,REJECT
 HOST-SUFFIX,treatment.grammarly.com,reject,REJECT
 HOST-SUFFIX,tredir.go.com,reject,REJECT
 HOST-SUFFIX,trk.decido.io,reject,REJECT
@@ -38781,6 +38783,8 @@ HOST-SUFFIX,tags.aljazeera.net,reject,REJECT
 HOST-SUFFIX,insight.olx.ba,reject,REJECT
 HOST-SUFFIX,4399stat.5054399.com,reject,REJECT
 HOST-SUFFIX,a.itsmore.cn,reject,REJECT
+HOST-SUFFIX,ac.dun.163.com,reject,REJECT
+HOST-SUFFIX,ac.dun.163yun.com,reject,REJECT
 HOST-SUFFIX,accwww9.53kf.com,reject,REJECT
 HOST-SUFFIX,adstats.tencentmusic.com,reject,REJECT
 HOST-SUFFIX,al.autohome.com.cn,reject,REJECT
@@ -38800,6 +38804,7 @@ HOST-SUFFIX,beacon.qq.com,reject,REJECT
 HOST-SUFFIX,cherry.le.com,reject,REJECT
 HOST-SUFFIX,click.gamersky.com,reject,REJECT
 HOST-SUFFIX,clickcount.cnool.net,reject,REJECT
+HOST-SUFFIX,clientlog.music.163.com,reject,REJECT
 HOST-SUFFIX,count.candou.com,reject,REJECT
 HOST-SUFFIX,count5.pconline.com.cn,reject,REJECT
 HOST-SUFFIX,counter.people.cn,reject,REJECT
@@ -38814,6 +38819,7 @@ HOST-SUFFIX,err.ifengcloud.ifeng.com,reject,REJECT
 HOST-SUFFIX,event.csdn.net,reject,REJECT
 HOST-SUFFIX,fclog.baidu.com,reject,REJECT
 HOST-SUFFIX,flog.pressplay.cc,reject,REJECT
+HOST-SUFFIX,fp-upload.dun.163.com,reject,REJECT
 HOST-SUFFIX,frog.yuanfudao.com,reject,REJECT
 HOST-SUFFIX,ftwo-feedback.autohome.com.cn,reject,REJECT
 HOST-SUFFIX,ftwo-receiver.autohome.com.cn,reject,REJECT
@@ -38860,6 +38866,7 @@ HOST-SUFFIX,rlogs.youdao.com,reject,REJECT
 HOST-SUFFIX,ro.aiwan4399.com,reject,REJECT
 HOST-SUFFIX,s.360.cn,reject,REJECT
 HOST-SUFFIX,sbeacon.sina.com.cn,reject,REJECT
+HOST-SUFFIX,sentry.music.163.com,reject,REJECT
 HOST-SUFFIX,sfp.safe.baidu.com,reject,REJECT
 HOST-SUFFIX,shrek.6.cn,reject,REJECT
 HOST-SUFFIX,sngmta.qq.com,reject,REJECT

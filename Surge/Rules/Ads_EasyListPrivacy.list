@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202404031456
+## ! Version: 202404040215
 ## ! Title: EasyPrivacy
-## ! Last modified: 03 Apr 2024 14:56 UTC
+## ! Last modified: 04 Apr 2024 02:15 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -4499,6 +4499,7 @@ DOMAIN-SUFFIX,stats.wwitv.com,extended-matching
 DOMAIN-SUFFIX,stats2.mytuner.mobi,extended-matching
 DOMAIN-SUFFIX,statsegg.cdngeek.com,extended-matching
 DOMAIN-SUFFIX,streamstats.prd.dlive.tv,extended-matching
+DOMAIN-SUFFIX,svc.eu01.miro.com,extended-matching
 DOMAIN-SUFFIX,szrpr.raen.com,extended-matching
 DOMAIN-SUFFIX,t.9gag.com,extended-matching
 DOMAIN-SUFFIX,t.airasia.com,extended-matching
@@ -4586,6 +4587,7 @@ DOMAIN-SUFFIX,tracking.shopstyle.co.uk,extended-matching
 DOMAIN-SUFFIX,tracking.shopstyle.com,extended-matching
 DOMAIN-SUFFIX,tracking.unrealengine.com,extended-matching
 DOMAIN-SUFFIX,trackr.vivenu.com,extended-matching
+DOMAIN-SUFFIX,trcksplt.miro.com,extended-matching
 DOMAIN-SUFFIX,treatment.grammarly.com,extended-matching
 DOMAIN-SUFFIX,tredir.go.com,extended-matching
 DOMAIN-SUFFIX,trk.decido.io,extended-matching
@@ -38781,6 +38783,8 @@ DOMAIN-SUFFIX,tags.aljazeera.net,extended-matching
 DOMAIN-SUFFIX,insight.olx.ba,extended-matching
 DOMAIN-SUFFIX,4399stat.5054399.com,extended-matching
 DOMAIN-SUFFIX,a.itsmore.cn,extended-matching
+DOMAIN-SUFFIX,ac.dun.163.com,extended-matching
+DOMAIN-SUFFIX,ac.dun.163yun.com,extended-matching
 DOMAIN-SUFFIX,accwww9.53kf.com,extended-matching
 DOMAIN-SUFFIX,adstats.tencentmusic.com,extended-matching
 DOMAIN-SUFFIX,al.autohome.com.cn,extended-matching
@@ -38800,6 +38804,7 @@ DOMAIN-SUFFIX,beacon.qq.com,extended-matching
 DOMAIN-SUFFIX,cherry.le.com,extended-matching
 DOMAIN-SUFFIX,click.gamersky.com,extended-matching
 DOMAIN-SUFFIX,clickcount.cnool.net,extended-matching
+DOMAIN-SUFFIX,clientlog.music.163.com,extended-matching
 DOMAIN-SUFFIX,count.candou.com,extended-matching
 DOMAIN-SUFFIX,count5.pconline.com.cn,extended-matching
 DOMAIN-SUFFIX,counter.people.cn,extended-matching
@@ -38814,6 +38819,7 @@ DOMAIN-SUFFIX,err.ifengcloud.ifeng.com,extended-matching
 DOMAIN-SUFFIX,event.csdn.net,extended-matching
 DOMAIN-SUFFIX,fclog.baidu.com,extended-matching
 DOMAIN-SUFFIX,flog.pressplay.cc,extended-matching
+DOMAIN-SUFFIX,fp-upload.dun.163.com,extended-matching
 DOMAIN-SUFFIX,frog.yuanfudao.com,extended-matching
 DOMAIN-SUFFIX,ftwo-feedback.autohome.com.cn,extended-matching
 DOMAIN-SUFFIX,ftwo-receiver.autohome.com.cn,extended-matching
@@ -38860,6 +38866,7 @@ DOMAIN-SUFFIX,rlogs.youdao.com,extended-matching
 DOMAIN-SUFFIX,ro.aiwan4399.com,extended-matching
 DOMAIN-SUFFIX,s.360.cn,extended-matching
 DOMAIN-SUFFIX,sbeacon.sina.com.cn,extended-matching
+DOMAIN-SUFFIX,sentry.music.163.com,extended-matching
 DOMAIN-SUFFIX,sfp.safe.baidu.com,extended-matching
 DOMAIN-SUFFIX,shrek.6.cn,extended-matching
 DOMAIN-SUFFIX,sngmta.qq.com,extended-matching
