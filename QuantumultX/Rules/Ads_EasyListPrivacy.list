@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202404061242
+## ! Version: 202404071352
 ## ! Title: EasyPrivacy
-## ! Last modified: 06 Apr 2024 12:42 UTC
+## ! Last modified: 07 Apr 2024 13:52 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3492,6 +3492,7 @@ HOST-SUFFIX,danv01ao0kdr2.cloudfront.net,reject,REJECT
 HOST-SUFFIX,daq0d0aotgq0f.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dc8na2hxrj29i.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dc8xl0ndzn2cb.cloudfront.net,reject,REJECT
+HOST-SUFFIX,dcv4p460uqa46.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dd6zx4ibq538k.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dggaenaawxe8z.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dh0c1bz67fuho.cloudfront.net,reject,REJECT
@@ -4173,6 +4174,7 @@ HOST-SUFFIX,collector.githubapp.com,reject,REJECT
 HOST-SUFFIX,collector.megaxh.com,reject,REJECT
 HOST-SUFFIX,collector.pi.spectrum.net,reject,REJECT
 HOST-SUFFIX,collector.taoxh.life,reject,REJECT
+HOST-SUFFIX,collector.xhaccess.com,reject,REJECT
 HOST-SUFFIX,collector.xhamster.com,reject,REJECT
 HOST-SUFFIX,collector.xhamster.desi,reject,REJECT
 HOST-SUFFIX,collector.xhamster2.com,reject,REJECT
@@ -4192,6 +4194,7 @@ HOST-SUFFIX,cstats.sankakucomplex.com,reject,REJECT
 HOST-SUFFIX,cwt.citywire.info,reject,REJECT
 HOST-SUFFIX,d.skk.moe,reject,REJECT
 HOST-SUFFIX,d401.dollartree.com,reject,REJECT
+HOST-SUFFIX,d712.theinformation.com,reject,REJECT
 HOST-SUFFIX,dabu.askmediagroup.com,reject,REJECT
 HOST-SUFFIX,data.allstate.com,reject,REJECT
 HOST-SUFFIX,data.guide.photobucket.com,reject,REJECT
@@ -39146,10 +39149,13 @@ HOST-SUFFIX,g.siliconweek.es,reject,REJECT
 HOST-SUFFIX,geo.emol.cl,reject,REJECT
 HOST-SUFFIX,hits.antena3.com,reject,REJECT
 HOST-SUFFIX,horizon-track.globo.com,reject,REJECT
+HOST-SUFFIX,mega.promodescuentos.com,reject,REJECT
+HOST-SUFFIX,ocular.promodescuentos.com,reject,REJECT
 HOST-SUFFIX,pixel.europapress.net,reject,REJECT
 HOST-SUFFIX,px-intl.ucweb.com,reject,REJECT
 HOST-SUFFIX,realtime.bbcl.cl,reject,REJECT
 HOST-SUFFIX,rvv.emol.com,reject,REJECT
+HOST-SUFFIX,sst.cooperativa.cl,reject,REJECT
 HOST-SUFFIX,statsmp2.emol.com,reject,REJECT
 HOST-SUFFIX,t-pan.triodos.com,reject,REJECT
 HOST-SUFFIX,unm.emol.com,reject,REJECT

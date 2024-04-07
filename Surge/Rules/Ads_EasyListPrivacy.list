@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202404061242
+## ! Version: 202404071352
 ## ! Title: EasyPrivacy
-## ! Last modified: 06 Apr 2024 12:42 UTC
+## ! Last modified: 07 Apr 2024 13:52 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3492,6 +3492,7 @@ DOMAIN-SUFFIX,danv01ao0kdr2.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,daq0d0aotgq0f.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dc8na2hxrj29i.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dc8xl0ndzn2cb.cloudfront.net,extended-matching
+DOMAIN-SUFFIX,dcv4p460uqa46.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dd6zx4ibq538k.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dggaenaawxe8z.cloudfront.net,extended-matching
 DOMAIN-SUFFIX,dh0c1bz67fuho.cloudfront.net,extended-matching
@@ -4173,6 +4174,7 @@ DOMAIN-SUFFIX,collector.githubapp.com,extended-matching
 DOMAIN-SUFFIX,collector.megaxh.com,extended-matching
 DOMAIN-SUFFIX,collector.pi.spectrum.net,extended-matching
 DOMAIN-SUFFIX,collector.taoxh.life,extended-matching
+DOMAIN-SUFFIX,collector.xhaccess.com,extended-matching
 DOMAIN-SUFFIX,collector.xhamster.com,extended-matching
 DOMAIN-SUFFIX,collector.xhamster.desi,extended-matching
 DOMAIN-SUFFIX,collector.xhamster2.com,extended-matching
@@ -4192,6 +4194,7 @@ DOMAIN-SUFFIX,cstats.sankakucomplex.com,extended-matching
 DOMAIN-SUFFIX,cwt.citywire.info,extended-matching
 DOMAIN-SUFFIX,d.skk.moe,extended-matching
 DOMAIN-SUFFIX,d401.dollartree.com,extended-matching
+DOMAIN-SUFFIX,d712.theinformation.com,extended-matching
 DOMAIN-SUFFIX,dabu.askmediagroup.com,extended-matching
 DOMAIN-SUFFIX,data.allstate.com,extended-matching
 DOMAIN-SUFFIX,data.guide.photobucket.com,extended-matching
@@ -39146,10 +39149,13 @@ DOMAIN-SUFFIX,g.siliconweek.es,extended-matching
 DOMAIN-SUFFIX,geo.emol.cl,extended-matching
 DOMAIN-SUFFIX,hits.antena3.com,extended-matching
 DOMAIN-SUFFIX,horizon-track.globo.com,extended-matching
+DOMAIN-SUFFIX,mega.promodescuentos.com,extended-matching
+DOMAIN-SUFFIX,ocular.promodescuentos.com,extended-matching
 DOMAIN-SUFFIX,pixel.europapress.net,extended-matching
 DOMAIN-SUFFIX,px-intl.ucweb.com,extended-matching
 DOMAIN-SUFFIX,realtime.bbcl.cl,extended-matching
 DOMAIN-SUFFIX,rvv.emol.com,extended-matching
+DOMAIN-SUFFIX,sst.cooperativa.cl,extended-matching
 DOMAIN-SUFFIX,statsmp2.emol.com,extended-matching
 DOMAIN-SUFFIX,t-pan.triodos.com,extended-matching
 DOMAIN-SUFFIX,unm.emol.com,extended-matching
