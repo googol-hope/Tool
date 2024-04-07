@@ -1,4 +1,4 @@
-# 2024-03-25 12:35
+# 2024-04-07 22:30
 
 # ======= A ======= #
 # 阿里巴巴
@@ -194,6 +194,11 @@ DOMAIN-SUFFIX,163jiasu.com,extended-matching
 # 微博 开屏广告
 DOMAIN,huodong.weibo.cn,extended-matching
 DOMAIN-SUFFIX,biz.weibo.com,extended-matching
+# 微信
+DOMAIN,finderks.video.qq.com,extended-matching
+DOMAIN,finderv1.video.qq.com,extended-matching
+DOMAIN,wxsnsdy.wxs.qq.com,extended-matching
+DOMAIN,wxsnsdythumb.wxs.qq.com,extended-matching
 
 # ======= X ======= #
 # 小米
