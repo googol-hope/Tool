@@ -1,4 +1,4 @@
-# 2024-04-13 17:00
+# 2024-05-02 14:00
 
 # ======= A ======= #
 # 阿里巴巴
@@ -67,15 +67,18 @@ DOMAIN,pageviewp.icbc.com.cn,extended-matching
 DOMAIN-SUFFIX,mall.icbc.com.cn,extended-matching
 # 广告联盟
 DOMAIN,ad.zijieapi.com,extended-matching
-DOMAIN,i.snssdk.com,extended-matching
+DOMAIN,init.supersonicads.com,extended-matching
 DOMAIN,is.snssdk.com,extended-matching
 DOMAIN,open.e.kuaishou.com,extended-matching
 DOMAIN,open.kuaishou.com,extended-matching
 DOMAIN,pagead2.googlesyndication-cn.com,extended-matching
 DOMAIN,pagead2.googlesyndication.com,extended-matching
+DOMAIN,ws.tapjoyads.com,extended-matching
 DOMAIN,www.googleadservices.com,extended-matching
 DOMAIN-SUFFIX,ads.linkedin.com,extended-matching
 DOMAIN-SUFFIX,adservice.google.com,extended-matching
+DOMAIN-SUFFIX,appsflyer.com,extended-matching
+DOMAIN-SUFFIX,appsflyersdk.com,extended-matching
 DOMAIN-SUFFIX,kuaishouzt.com,extended-matching
 DOMAIN-SUFFIX,miaozhen.com,extended-matching
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
@@ -165,6 +168,8 @@ DOMAIN,id.hadron.ad.gt,extended-matching
 DOMAIN-KEYWORD,-adsystem.com
 
 # ======= T ======= #
+# 太平洋保险
+DOMAIN,a.cpic.com.cn,extended-matching
 # 腾讯
 DOMAIN,adsmind.gdtimg.com,extended-matching
 DOMAIN,info4.video.qq.com,extended-matching
