@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2024-01-23 22:08:30
-# 数量：368条
+# 更新：2024-05-07 08:06:39
+# 数量：370条
 
 # ABC
 HOST-SUFFIX,edgedatg.com,PROXY
@@ -81,12 +81,6 @@ HOST,gamer-cds.cdn.hinet.net,PROXY
 HOST,gamer2-cds.cdn.hinet.net,PROXY
 HOST-SUFFIX,bahamut.com.tw,PROXY
 HOST-SUFFIX,gamer.com.tw,PROXY
-
-# B_Global
-USER-AGENT,app/bstar*,PROXY
-HOST-SUFFIX,bilibili.tv,PROXY
-HOST-SUFFIX,bstarstatic.com,PROXY
-HOST,pic-bstarstatic.akamaized.net,PROXY
 
 # DAZN
 USER-AGENT,DAZN*,PROXY
@@ -342,8 +336,10 @@ HOST-SUFFIX,olevodtv.com,PROXY
 
 # OpenAi
 HOST-KEYWORD,openai,PROXY
+HOST,gemini.google.com,PROXY
 HOST-SUFFIX,auth0.com,PROXY
 HOST-SUFFIX,challenges.cloudflare.com,PROXY
+HOST-SUFFIX,chatgpt.com,PROXY
 HOST-SUFFIX,client-api.arkoselabs.com,PROXY
 HOST-SUFFIX,events.statsigapi.net,PROXY
 HOST-SUFFIX,featuregates.org,PROXY
