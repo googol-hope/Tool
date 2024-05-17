@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202405151336
+## ! Version: 202405171426
 ## ! Title: EasyPrivacy
-## ! Last modified: 15 May 2024 13:36 UTC
+## ! Last modified: 17 May 2024 14:26 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2853,6 +2853,7 @@ DOMAIN-SUFFIX,iabusprivacy.pmc.com,extended-matching
 DOMAIN-SUFFIX,icu.getstorybox.com,extended-matching
 DOMAIN-SUFFIX,iddu1vvb7sk8-a.akamaihd.net,extended-matching
 DOMAIN-SUFFIX,identification.hotmart.com,extended-matching
+DOMAIN-SUFFIX,ihi.flowplayer.com,extended-matching
 DOMAIN-SUFFIX,imp.pvnsolutions.com,extended-matching
 DOMAIN-SUFFIX,impress.vcita.com,extended-matching
 DOMAIN-SUFFIX,impression.clickinc.com,extended-matching
@@ -3318,6 +3319,7 @@ DOMAIN-SUFFIX,track.td3x.com,extended-matching
 DOMAIN-SUFFIX,track.uc.cn,extended-matching
 DOMAIN-SUFFIX,track.untd.com,extended-matching
 DOMAIN-SUFFIX,track.uppromote.com,extended-matching
+DOMAIN-SUFFIX,track.us.org,extended-matching
 DOMAIN-SUFFIX,track.venatusmedia.com,extended-matching
 DOMAIN-SUFFIX,track.vscash.com,extended-matching
 DOMAIN-SUFFIX,track.yfret.com,extended-matching
@@ -3699,6 +3701,7 @@ DOMAIN-SUFFIX,trck.spoteffects.net,extended-matching
 DOMAIN-SUFFIX,trecker.aklamio.com,extended-matching
 DOMAIN-SUFFIX,vtrtl.de,extended-matching
 DOMAIN-SUFFIX,webcounter.goweb.de,extended-matching
+DOMAIN-SUFFIX,wranalytics.wildrocket.io,extended-matching
 DOMAIN-SUFFIX,x.bloggurat.net,extended-matching
 DOMAIN-SUFFIX,zs.dhl.de,extended-matching
 DOMAIN-SUFFIX,abs.proxistore.com,extended-matching
@@ -3839,6 +3842,7 @@ DOMAIN-SUFFIX,statistics.rbi-nl.com,extended-matching
 DOMAIN-SUFFIX,trkr.shoppingminds.net,extended-matching
 DOMAIN-SUFFIX,dnt-userreport.com,extended-matching
 DOMAIN-SUFFIX,tags.op-palvelut.fi,extended-matching
+DOMAIN-SUFFIX,analytics.palitra.ge,extended-matching
 DOMAIN-SUFFIX,links.boom.ge,extended-matching
 DOMAIN-SUFFIX,stats-real-clients.zentech.gr,extended-matching
 DOMAIN-SUFFIX,heartbeat.pmd.444.hu,extended-matching
@@ -39387,6 +39391,7 @@ DOMAIN-SUFFIX,stats.nhk.or.jp,extended-matching
 DOMAIN-SUFFIX,sy.amebame.com,extended-matching
 DOMAIN-SUFFIX,sy.ameblo.jp,extended-matching
 DOMAIN-SUFFIX,t.syosetu.org,extended-matching
+DOMAIN-SUFFIX,temp.twicomi.com,extended-matching
 DOMAIN-SUFFIX,track.buyma.com,extended-matching
 DOMAIN-SUFFIX,track.prod.smash.pet,extended-matching
 DOMAIN-SUFFIX,tracking.ai.rakuten.co.jp,extended-matching
@@ -39506,6 +39511,7 @@ DOMAIN-SUFFIX,sync.rambler.ru,extended-matching
 DOMAIN-SUFFIX,top-staging.mail.ru,extended-matching
 DOMAIN-SUFFIX,xray.mail.ru,extended-matching
 DOMAIN-SUFFIX,yast.rutube.ru,extended-matching
+DOMAIN-SUFFIX,harvester.cms.markiza.sk,extended-matching
 DOMAIN-SUFFIX,go-usertrack-importer.pub.24ur.si,extended-matching
 DOMAIN-SUFFIX,tracker.azet.sk,extended-matching
 DOMAIN-SUFFIX,analytics.bolavip.com,extended-matching

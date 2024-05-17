@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202405151336
+## ! Version: 202405171426
 ## ! Title: EasyPrivacy
-## ! Last modified: 15 May 2024 13:36 UTC
+## ! Last modified: 17 May 2024 14:26 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -2853,6 +2853,7 @@ HOST-SUFFIX,iabusprivacy.pmc.com,reject,REJECT
 HOST-SUFFIX,icu.getstorybox.com,reject,REJECT
 HOST-SUFFIX,iddu1vvb7sk8-a.akamaihd.net,reject,REJECT
 HOST-SUFFIX,identification.hotmart.com,reject,REJECT
+HOST-SUFFIX,ihi.flowplayer.com,reject,REJECT
 HOST-SUFFIX,imp.pvnsolutions.com,reject,REJECT
 HOST-SUFFIX,impress.vcita.com,reject,REJECT
 HOST-SUFFIX,impression.clickinc.com,reject,REJECT
@@ -3318,6 +3319,7 @@ HOST-SUFFIX,track.td3x.com,reject,REJECT
 HOST-SUFFIX,track.uc.cn,reject,REJECT
 HOST-SUFFIX,track.untd.com,reject,REJECT
 HOST-SUFFIX,track.uppromote.com,reject,REJECT
+HOST-SUFFIX,track.us.org,reject,REJECT
 HOST-SUFFIX,track.venatusmedia.com,reject,REJECT
 HOST-SUFFIX,track.vscash.com,reject,REJECT
 HOST-SUFFIX,track.yfret.com,reject,REJECT
@@ -3699,6 +3701,7 @@ HOST-SUFFIX,trck.spoteffects.net,reject,REJECT
 HOST-SUFFIX,trecker.aklamio.com,reject,REJECT
 HOST-SUFFIX,vtrtl.de,reject,REJECT
 HOST-SUFFIX,webcounter.goweb.de,reject,REJECT
+HOST-SUFFIX,wranalytics.wildrocket.io,reject,REJECT
 HOST-SUFFIX,x.bloggurat.net,reject,REJECT
 HOST-SUFFIX,zs.dhl.de,reject,REJECT
 HOST-SUFFIX,abs.proxistore.com,reject,REJECT
@@ -3839,6 +3842,7 @@ HOST-SUFFIX,statistics.rbi-nl.com,reject,REJECT
 HOST-SUFFIX,trkr.shoppingminds.net,reject,REJECT
 HOST-SUFFIX,dnt-userreport.com,reject,REJECT
 HOST-SUFFIX,tags.op-palvelut.fi,reject,REJECT
+HOST-SUFFIX,analytics.palitra.ge,reject,REJECT
 HOST-SUFFIX,links.boom.ge,reject,REJECT
 HOST-SUFFIX,stats-real-clients.zentech.gr,reject,REJECT
 HOST-SUFFIX,heartbeat.pmd.444.hu,reject,REJECT
@@ -39387,6 +39391,7 @@ HOST-SUFFIX,stats.nhk.or.jp,reject,REJECT
 HOST-SUFFIX,sy.amebame.com,reject,REJECT
 HOST-SUFFIX,sy.ameblo.jp,reject,REJECT
 HOST-SUFFIX,t.syosetu.org,reject,REJECT
+HOST-SUFFIX,temp.twicomi.com,reject,REJECT
 HOST-SUFFIX,track.buyma.com,reject,REJECT
 HOST-SUFFIX,track.prod.smash.pet,reject,REJECT
 HOST-SUFFIX,tracking.ai.rakuten.co.jp,reject,REJECT
@@ -39506,6 +39511,7 @@ HOST-SUFFIX,sync.rambler.ru,reject,REJECT
 HOST-SUFFIX,top-staging.mail.ru,reject,REJECT
 HOST-SUFFIX,xray.mail.ru,reject,REJECT
 HOST-SUFFIX,yast.rutube.ru,reject,REJECT
+HOST-SUFFIX,harvester.cms.markiza.sk,reject,REJECT
 HOST-SUFFIX,go-usertrack-importer.pub.24ur.si,reject,REJECT
 HOST-SUFFIX,tracker.azet.sk,reject,REJECT
 HOST-SUFFIX,analytics.bolavip.com,reject,REJECT
