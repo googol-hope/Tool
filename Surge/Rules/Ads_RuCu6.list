@@ -1,4 +1,4 @@
-# 2024-05-18 10:30
+# 2024-05-18 12:40
 
 # ======= A ======= #
 # 阿里巴巴
@@ -77,11 +77,15 @@ DOMAIN,pagead2.googlesyndication.com,extended-matching
 DOMAIN,ws.tapjoyads.com,extended-matching
 DOMAIN,www.googleadservices.com,extended-matching
 DOMAIN-SUFFIX,ads.linkedin.com,extended-matching
+DOMAIN-SUFFIX,ads.vungle.com,extended-matching
 DOMAIN-SUFFIX,adservice.google.com,extended-matching
+DOMAIN-SUFFIX,applovin.com,extended-matching
+DOMAIN-SUFFIX,applvn.com,extended-matching
 DOMAIN-SUFFIX,appsflyer.com,extended-matching
 DOMAIN-SUFFIX,appsflyersdk.com,extended-matching
 DOMAIN-SUFFIX,kuaishouzt.com,extended-matching
 DOMAIN-SUFFIX,miaozhen.com,extended-matching
+DOMAIN-SUFFIX,unityads.unity3d.com,extended-matching
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,ads.g.doubleclick
 DOMAIN-KEYWORD,asiad.byteactivity
