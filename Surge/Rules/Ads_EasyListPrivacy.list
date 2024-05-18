@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202405171426
+## ! Version: 202405180254
 ## ! Title: EasyPrivacy
-## ! Last modified: 17 May 2024 14:26 UTC
+## ! Last modified: 18 May 2024 02:54 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -743,6 +743,7 @@ DOMAIN-SUFFIX,cherriescare.com,extended-matching
 DOMAIN-SUFFIX,cherriescloud.com,extended-matching
 DOMAIN-SUFFIX,chesscherry.com,extended-matching
 DOMAIN-SUFFIX,chesscolor.com,extended-matching
+DOMAIN-SUFFIX,chesscrowd.com,extended-matching
 DOMAIN-SUFFIX,chewcoat.com,extended-matching
 DOMAIN-SUFFIX,chickensstation.com,extended-matching
 DOMAIN-SUFFIX,childlikecook.com,extended-matching
@@ -804,6 +805,7 @@ DOMAIN-SUFFIX,conditionchange.com,extended-matching
 DOMAIN-SUFFIX,conditioncrush.com,extended-matching
 DOMAIN-SUFFIX,confesschairs.com,extended-matching
 DOMAIN-SUFFIX,confusedcart.com,extended-matching
+DOMAIN-SUFFIX,connectashelf.com,extended-matching
 DOMAIN-SUFFIX,consciouschairs.com,extended-matching
 DOMAIN-SUFFIX,consciouscheese.com,extended-matching
 DOMAIN-SUFFIX,consciousdirt.com,extended-matching
@@ -1352,6 +1354,7 @@ DOMAIN-SUFFIX,leaplunchroom.com,extended-matching
 DOMAIN-SUFFIX,learnedmarket.com,extended-matching
 DOMAIN-SUFFIX,leftliquid.com,extended-matching
 DOMAIN-SUFFIX,legalleg.com,extended-matching
+DOMAIN-SUFFIX,lemonsandjoy.com,extended-matching
 DOMAIN-SUFFIX,lettucecopper.com,extended-matching
 DOMAIN-SUFFIX,lettucelimit.com,extended-matching
 DOMAIN-SUFFIX,levelbehavior.com,extended-matching
@@ -1642,6 +1645,7 @@ DOMAIN-SUFFIX,processplantation.com,extended-matching
 DOMAIN-SUFFIX,producecopy.com,extended-matching
 DOMAIN-SUFFIX,producepickle.com,extended-matching
 DOMAIN-SUFFIX,productivepear.com,extended-matching
+DOMAIN-SUFFIX,productsurfer.com,extended-matching
 DOMAIN-SUFFIX,profitrumour.com,extended-matching
 DOMAIN-SUFFIX,profusesupport.com,extended-matching
 DOMAIN-SUFFIX,promiseair.com,extended-matching
@@ -1671,6 +1675,7 @@ DOMAIN-SUFFIX,quaintcan.com,extended-matching
 DOMAIN-SUFFIX,quaintlake.com,extended-matching
 DOMAIN-SUFFIX,quantumlagoon.com,extended-matching
 DOMAIN-SUFFIX,quarterbean.com,extended-matching
+DOMAIN-SUFFIX,queenskart.com,extended-matching
 DOMAIN-SUFFIX,questionableobservation.com,extended-matching
 DOMAIN-SUFFIX,quicksandear.com,extended-matching
 DOMAIN-SUFFIX,quietknowledge.com,extended-matching
@@ -1699,6 +1704,7 @@ DOMAIN-SUFFIX,rangeplayground.com,extended-matching
 DOMAIN-SUFFIX,rapidkittens.com,extended-matching
 DOMAIN-SUFFIX,raresummer.com,extended-matching
 DOMAIN-SUFFIX,raspyteam.com,extended-matching
+DOMAIN-SUFFIX,reactjspdf.com,extended-matching
 DOMAIN-SUFFIX,readgoldfish.com,extended-matching
 DOMAIN-SUFFIX,readingguilt.com,extended-matching
 DOMAIN-SUFFIX,readymoon.com,extended-matching
@@ -1813,6 +1819,7 @@ DOMAIN-SUFFIX,scarfthought.com,extended-matching
 DOMAIN-SUFFIX,scatteredheat.com,extended-matching
 DOMAIN-SUFFIX,scatteredquiver.com,extended-matching
 DOMAIN-SUFFIX,scatteredstream.com,extended-matching
+DOMAIN-SUFFIX,scenicapparel.com,extended-matching
 DOMAIN-SUFFIX,scientificshirt.com,extended-matching
 DOMAIN-SUFFIX,scientificsneeze.com,extended-matching
 DOMAIN-SUFFIX,scintillatingscissors.com,extended-matching
@@ -2992,6 +2999,7 @@ DOMAIN-SUFFIX,page-events-ustats.udemy.com,extended-matching
 DOMAIN-SUFFIX,pages-stats.rbl.ms,extended-matching
 DOMAIN-SUFFIX,pagesense-collect.zoho.com,extended-matching
 DOMAIN-SUFFIX,pagesocket.glam.com,extended-matching
+DOMAIN-SUFFIX,parallax.askmediagroup.com,extended-matching
 DOMAIN-SUFFIX,pbjs-stream.bydata.com,extended-matching
 DOMAIN-SUFFIX,pegasus.unifygroup.com,extended-matching
 DOMAIN-SUFFIX,perf-events.cloud.unity3d.com,extended-matching
@@ -3065,6 +3073,7 @@ DOMAIN-SUFFIX,qubitanalytics.appspot.com,extended-matching
 DOMAIN-SUFFIX,query.petametrics.com,extended-matching
 DOMAIN-SUFFIX,r.skimresources.com,extended-matching
 DOMAIN-SUFFIX,ramp.purch.com,extended-matching
+DOMAIN-SUFFIX,rampjs-cdn.system1.com,extended-matching
 DOMAIN-SUFFIX,reach-id.orbit.tm-awx.com,extended-matching
 DOMAIN-SUFFIX,realm.hearst3pcc.com,extended-matching
 DOMAIN-SUFFIX,receive.wmcdp.io,extended-matching
@@ -3269,6 +3278,7 @@ DOMAIN-SUFFIX,telemetry.tableausoftware.com,extended-matching
 DOMAIN-SUFFIX,telemetry.vtex.com,extended-matching
 DOMAIN-SUFFIX,test.takedwn.ws,extended-matching
 DOMAIN-SUFFIX,timejs.game.163.com,extended-matching
+DOMAIN-SUFFIX,tk.pathmonk.com,extended-matching
 DOMAIN-SUFFIX,tl.tradetracker.net,extended-matching
 DOMAIN-SUFFIX,tm.tradetracker.net,extended-matching
 DOMAIN-SUFFIX,tm.vendemore.com,extended-matching

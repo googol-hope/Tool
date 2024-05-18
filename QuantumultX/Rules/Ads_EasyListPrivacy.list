@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202405171426
+## ! Version: 202405180254
 ## ! Title: EasyPrivacy
-## ! Last modified: 17 May 2024 14:26 UTC
+## ! Last modified: 18 May 2024 02:54 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -743,6 +743,7 @@ HOST-SUFFIX,cherriescare.com,reject,REJECT
 HOST-SUFFIX,cherriescloud.com,reject,REJECT
 HOST-SUFFIX,chesscherry.com,reject,REJECT
 HOST-SUFFIX,chesscolor.com,reject,REJECT
+HOST-SUFFIX,chesscrowd.com,reject,REJECT
 HOST-SUFFIX,chewcoat.com,reject,REJECT
 HOST-SUFFIX,chickensstation.com,reject,REJECT
 HOST-SUFFIX,childlikecook.com,reject,REJECT
@@ -804,6 +805,7 @@ HOST-SUFFIX,conditionchange.com,reject,REJECT
 HOST-SUFFIX,conditioncrush.com,reject,REJECT
 HOST-SUFFIX,confesschairs.com,reject,REJECT
 HOST-SUFFIX,confusedcart.com,reject,REJECT
+HOST-SUFFIX,connectashelf.com,reject,REJECT
 HOST-SUFFIX,consciouschairs.com,reject,REJECT
 HOST-SUFFIX,consciouscheese.com,reject,REJECT
 HOST-SUFFIX,consciousdirt.com,reject,REJECT
@@ -1352,6 +1354,7 @@ HOST-SUFFIX,leaplunchroom.com,reject,REJECT
 HOST-SUFFIX,learnedmarket.com,reject,REJECT
 HOST-SUFFIX,leftliquid.com,reject,REJECT
 HOST-SUFFIX,legalleg.com,reject,REJECT
+HOST-SUFFIX,lemonsandjoy.com,reject,REJECT
 HOST-SUFFIX,lettucecopper.com,reject,REJECT
 HOST-SUFFIX,lettucelimit.com,reject,REJECT
 HOST-SUFFIX,levelbehavior.com,reject,REJECT
@@ -1642,6 +1645,7 @@ HOST-SUFFIX,processplantation.com,reject,REJECT
 HOST-SUFFIX,producecopy.com,reject,REJECT
 HOST-SUFFIX,producepickle.com,reject,REJECT
 HOST-SUFFIX,productivepear.com,reject,REJECT
+HOST-SUFFIX,productsurfer.com,reject,REJECT
 HOST-SUFFIX,profitrumour.com,reject,REJECT
 HOST-SUFFIX,profusesupport.com,reject,REJECT
 HOST-SUFFIX,promiseair.com,reject,REJECT
@@ -1671,6 +1675,7 @@ HOST-SUFFIX,quaintcan.com,reject,REJECT
 HOST-SUFFIX,quaintlake.com,reject,REJECT
 HOST-SUFFIX,quantumlagoon.com,reject,REJECT
 HOST-SUFFIX,quarterbean.com,reject,REJECT
+HOST-SUFFIX,queenskart.com,reject,REJECT
 HOST-SUFFIX,questionableobservation.com,reject,REJECT
 HOST-SUFFIX,quicksandear.com,reject,REJECT
 HOST-SUFFIX,quietknowledge.com,reject,REJECT
@@ -1699,6 +1704,7 @@ HOST-SUFFIX,rangeplayground.com,reject,REJECT
 HOST-SUFFIX,rapidkittens.com,reject,REJECT
 HOST-SUFFIX,raresummer.com,reject,REJECT
 HOST-SUFFIX,raspyteam.com,reject,REJECT
+HOST-SUFFIX,reactjspdf.com,reject,REJECT
 HOST-SUFFIX,readgoldfish.com,reject,REJECT
 HOST-SUFFIX,readingguilt.com,reject,REJECT
 HOST-SUFFIX,readymoon.com,reject,REJECT
@@ -1813,6 +1819,7 @@ HOST-SUFFIX,scarfthought.com,reject,REJECT
 HOST-SUFFIX,scatteredheat.com,reject,REJECT
 HOST-SUFFIX,scatteredquiver.com,reject,REJECT
 HOST-SUFFIX,scatteredstream.com,reject,REJECT
+HOST-SUFFIX,scenicapparel.com,reject,REJECT
 HOST-SUFFIX,scientificshirt.com,reject,REJECT
 HOST-SUFFIX,scientificsneeze.com,reject,REJECT
 HOST-SUFFIX,scintillatingscissors.com,reject,REJECT
@@ -2992,6 +2999,7 @@ HOST-SUFFIX,page-events-ustats.udemy.com,reject,REJECT
 HOST-SUFFIX,pages-stats.rbl.ms,reject,REJECT
 HOST-SUFFIX,pagesense-collect.zoho.com,reject,REJECT
 HOST-SUFFIX,pagesocket.glam.com,reject,REJECT
+HOST-SUFFIX,parallax.askmediagroup.com,reject,REJECT
 HOST-SUFFIX,pbjs-stream.bydata.com,reject,REJECT
 HOST-SUFFIX,pegasus.unifygroup.com,reject,REJECT
 HOST-SUFFIX,perf-events.cloud.unity3d.com,reject,REJECT
@@ -3065,6 +3073,7 @@ HOST-SUFFIX,qubitanalytics.appspot.com,reject,REJECT
 HOST-SUFFIX,query.petametrics.com,reject,REJECT
 HOST-SUFFIX,r.skimresources.com,reject,REJECT
 HOST-SUFFIX,ramp.purch.com,reject,REJECT
+HOST-SUFFIX,rampjs-cdn.system1.com,reject,REJECT
 HOST-SUFFIX,reach-id.orbit.tm-awx.com,reject,REJECT
 HOST-SUFFIX,realm.hearst3pcc.com,reject,REJECT
 HOST-SUFFIX,receive.wmcdp.io,reject,REJECT
@@ -3269,6 +3278,7 @@ HOST-SUFFIX,telemetry.tableausoftware.com,reject,REJECT
 HOST-SUFFIX,telemetry.vtex.com,reject,REJECT
 HOST-SUFFIX,test.takedwn.ws,reject,REJECT
 HOST-SUFFIX,timejs.game.163.com,reject,REJECT
+HOST-SUFFIX,tk.pathmonk.com,reject,REJECT
 HOST-SUFFIX,tl.tradetracker.net,reject,REJECT
 HOST-SUFFIX,tm.tradetracker.net,reject,REJECT
 HOST-SUFFIX,tm.vendemore.com,reject,REJECT
