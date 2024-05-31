@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202405261617
+## ! Version: 202405311106
 ## ! Title: EasyPrivacy
-## ! Last modified: 26 May 2024 16:17 UTC
+## ! Last modified: 31 May 2024 11:06 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -225,6 +225,7 @@ HOST-SUFFIX,log.dance,reject,REJECT
 HOST-SUFFIX,logicanalytics.io,reject,REJECT
 HOST-SUFFIX,logtail.com,reject,REJECT
 HOST-SUFFIX,loopcybersec.com,reject,REJECT
+HOST-SUFFIX,lordofthesuperfrogs.com,reject,REJECT
 HOST-SUFFIX,lsdm.co,reject,REJECT
 HOST-SUFFIX,lyfnh.io,reject,REJECT
 HOST-SUFFIX,maggieeatstheangel.com,reject,REJECT
@@ -1690,6 +1691,7 @@ HOST-SUFFIX,questionableobservation.com,reject,REJECT
 HOST-SUFFIX,quicksandear.com,reject,REJECT
 HOST-SUFFIX,quietknowledge.com,reject,REJECT
 HOST-SUFFIX,quillkick.com,reject,REJECT
+HOST-SUFFIX,quirkybliss.com,reject,REJECT
 HOST-SUFFIX,quirkysugar.com,reject,REJECT
 HOST-SUFFIX,quixoticnebula.com,reject,REJECT
 HOST-SUFFIX,quizzicalpartner.com,reject,REJECT
@@ -2721,10 +2723,6 @@ HOST-SUFFIX,curated.fieldtest.cc,reject,REJECT
 HOST-SUFFIX,customfingerprints.bablosoft.com,reject,REJECT
 HOST-SUFFIX,cws.conviva.com,reject,REJECT
 HOST-SUFFIX,d.shareaholic.com,reject,REJECT
-HOST-SUFFIX,d1tbj6eaenapdy.cloudfront.net,reject,REJECT
-HOST-SUFFIX,d2pt12ct4kmq21.cloudfront.net,reject,REJECT
-HOST-SUFFIX,d2wa5sea6guof0.cloudfront.net,reject,REJECT
-HOST-SUFFIX,d3vebqdofhigrn.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dash.getsitecontrol.com,reject,REJECT
 HOST-SUFFIX,data.circulate.com,reject,REJECT
 HOST-SUFFIX,data.digitalks.az,reject,REJECT
@@ -3070,6 +3068,7 @@ HOST-SUFFIX,player-metrics.instaread.co,reject,REJECT
 HOST-SUFFIX,pm.boostintegrated.com,reject,REJECT
 HOST-SUFFIX,popup-static.unisender.com,reject,REJECT
 HOST-SUFFIX,porpoise.azettl.net,reject,REJECT
+HOST-SUFFIX,pr-bh.ybp.yahoo.com,reject,REJECT
 HOST-SUFFIX,pr.blogflux.com,reject,REJECT
 HOST-SUFFIX,prd-collector-anon.ex.co,reject,REJECT
 HOST-SUFFIX,prd-collector-platform.ex.co,reject,REJECT
@@ -3547,6 +3546,7 @@ HOST-SUFFIX,d1r55yzuc1b1bw.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d1rgnfh960lz2b.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d1ros97qkrwjf5.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d1t9uctetvi0tu.cloudfront.net,reject,REJECT
+HOST-SUFFIX,d1tbj6eaenapdy.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d1vg5xiq7qffdj.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d1wix2gc2cgqis.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d1xfq2052q7thw.cloudfront.net,reject,REJECT
@@ -3570,10 +3570,12 @@ HOST-SUFFIX,d2kdl5wcwrtj90.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2nxi61n77zqpl.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2o67tzzxkqap2.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2oh4tlt9mrke9.cloudfront.net,reject,REJECT
+HOST-SUFFIX,d2pt12ct4kmq21.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2r1yp2w7bby2u.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2rnkf2kqy5m6h.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2t77mnxyo7adj.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2tgfbvjf3q6hn.cloudfront.net,reject,REJECT
+HOST-SUFFIX,d2wa5sea6guof0.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2wu036mkcz52n.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2wy8f7a9ursnm.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2z0bn1jv8xwtk.cloudfront.net,reject,REJECT
@@ -3607,6 +3609,7 @@ HOST-SUFFIX,d3s7ggfq1s6jlj.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d3sbxpiag177w8.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d3tglifpd8whs6.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d3uvwl4wtkgzo1.cloudfront.net,reject,REJECT
+HOST-SUFFIX,d3vebqdofhigrn.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d4ax0r5detcsu.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d761erxl2qywg.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d81mfvml8p5ml.cloudfront.net,reject,REJECT
@@ -3625,6 +3628,7 @@ HOST-SUFFIX,dn34cbtcv9mef.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dniyppubkuut7.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dnn506yrbagrg.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dnxlgencstz4.cloudfront.net,reject,REJECT
+HOST-SUFFIX,dqif5bl25s0bf.cloudfront.net,reject,REJECT
 HOST-SUFFIX,drlimmode9ddd.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dsbahmgppc0j4.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dtxtngytz5im1.cloudfront.net,reject,REJECT
@@ -3866,13 +3870,16 @@ HOST-SUFFIX,statistics.jfmedier.dk,reject,REJECT
 HOST-SUFFIX,trckr.nordiskemedier.dk,reject,REJECT
 HOST-SUFFIX,analytics.belgacom.be,reject,REJECT
 HOST-SUFFIX,apm.tnet.nl,reject,REJECT
+HOST-SUFFIX,ct.beslist.nl,reject,REJECT
 HOST-SUFFIX,dmtgo.upc.biz,reject,REJECT
 HOST-SUFFIX,go.planetnine.com,reject,REJECT
+HOST-SUFFIX,navigator-analytics.tweakwise.com,reject,REJECT
 HOST-SUFFIX,rmgdapfnccsharpprd.azurewebsites.net,reject,REJECT
 HOST-SUFFIX,sp.dpgmedia.net,reject,REJECT
 HOST-SUFFIX,stat.24liveplus.com,reject,REJECT
 HOST-SUFFIX,statistics.rbi-nl.com,reject,REJECT
 HOST-SUFFIX,tags.hilabel.nl,reject,REJECT
+HOST-SUFFIX,tr.mediafin.be,reject,REJECT
 HOST-SUFFIX,trkr.shoppingminds.net,reject,REJECT
 HOST-SUFFIX,dnt-userreport.com,reject,REJECT
 HOST-SUFFIX,tags.op-palvelut.fi,reject,REJECT
@@ -4741,6 +4748,7 @@ HOST-SUFFIX,tracking.digitalocean.com,reject,REJECT
 HOST-SUFFIX,tracking.engineering.cloud.seek.com.au,reject,REJECT
 HOST-SUFFIX,tracking.game8.co,reject,REJECT
 HOST-SUFFIX,tracking.hsn.com,reject,REJECT
+HOST-SUFFIX,tracking.rocketleague.com,reject,REJECT
 HOST-SUFFIX,tracking.shopstyle.co.uk,reject,REJECT
 HOST-SUFFIX,tracking.shopstyle.com,reject,REJECT
 HOST-SUFFIX,tracking.unrealengine.com,reject,REJECT
@@ -4766,6 +4774,7 @@ HOST-SUFFIX,views.arabnews.com,reject,REJECT
 HOST-SUFFIX,views.asurascans.com,reject,REJECT
 HOST-SUFFIX,vortex.hulu.com,reject,REJECT
 HOST-SUFFIX,w3-reporting.reddit.com,reject,REJECT
+HOST-SUFFIX,w6.chabad.org,reject,REJECT
 HOST-SUFFIX,wa.childrensplace.com,reject,REJECT
 HOST-SUFFIX,wa.gmx.co.uk,reject,REJECT
 HOST-SUFFIX,wa.gymboree.com,reject,REJECT
@@ -39484,6 +39493,7 @@ HOST-SUFFIX,iwa.iplsc.com,reject,REJECT
 HOST-SUFFIX,kropka.onet.pl,reject,REJECT
 HOST-SUFFIX,mklik.gazeta.pl,reject,REJECT
 HOST-SUFFIX,p.gazeta.pl,reject,REJECT
+HOST-SUFFIX,p2ro4u.trybawaryjny.pl,reject,REJECT
 HOST-SUFFIX,pixel.wp.pl,reject,REJECT
 HOST-SUFFIX,rek.www.wp.pl,reject,REJECT
 HOST-SUFFIX,stats.teledyski.info,reject,REJECT
@@ -39594,6 +39604,7 @@ HOST-SUFFIX,h.n11.com,reject,REJECT
 HOST-SUFFIX,hstats.hepsiburada.com,reject,REJECT
 HOST-SUFFIX,stats.birgun.net,reject,REJECT
 HOST-SUFFIX,tracker.blutv.com,reject,REJECT
+HOST-SUFFIX,analytics.cosmonova.net,reject,REJECT
 HOST-SUFFIX,counter.nv.ua,reject,REJECT
 HOST-SUFFIX,counter.ukr.net,reject,REJECT
 HOST-SUFFIX,remp.nv.ua,reject,REJECT
