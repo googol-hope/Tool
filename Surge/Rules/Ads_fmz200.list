@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/author/NaiSi_01.png
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/fenliu.list
 #!tg-group=https://t.me/lanjieguanggao
-#!date=2024-06-13 21:00:00
+#!date=2024-06-16 00:10:00
 #!support=约9392行
 #!proxy-select=REJECT
 #############################################
@@ -22,14 +22,15 @@
 # >>>>>>>>>>>>>>> ✅ # ✅ <<<<<<<<<<<<<<
 # > 广告联盟
 DOMAIN-SUFFIX,miaozhen.com,extended-matching
-DOMAIN-KEYWORD,ad-sign.byteimg.com
-DOMAIN-KEYWORD,tos.pstatp.com
+DOMAIN-SUFFIX,ad-sign.byteimg.com,extended-matching
+DOMAIN-SUFFIX,tos.pstatp.com,extended-matching
 DOMAIN-KEYWORD,asiad.byteactivity
 DOMAIN-KEYWORD,pangolin-sdk-toutiao
-DOMAIN-KEYWORD,pangolin.snssdk.com
 DOMAIN-KEYWORD,pglstatp-toutiao
-DOMAIN-KEYWORD,video-cn.snssdk.com
-
+DOMAIN-SUFFIX,pangolin.snssdk.com,extended-matching
+DOMAIN-SUFFIX,video-cn.snssdk.com,extended-matching
+DOMAIN-SUFFIX,getui.com,extended-matching
+DOMAIN-SUFFIX,igexin.com,extended-matching
 # > 收集用户隐私联盟，若有问题自行设置白名单
 DOMAIN-KEYWORD,volc
 
@@ -792,14 +793,15 @@ DOMAIN,adui.tg.meitu.com,extended-matching
 DOMAIN,aaid.uyunad.com,extended-matching
 
 # > 买单吧
-DOMAIN-KEYWORD,c-hzgt2.getui.com
+DOMAIN-SUFFIX,c-hzgt2.getui.com,extended-matching
+DOMAIN-SUFFIX,c-hzgt2.getui.com,extended-matching
+DOMAIN-SUFFIX,gs.getui.com,extended-matching
 
 # > 民生银行
 DOMAIN-KEYWORD,cm-10-134.getui.com
 DOMAIN-KEYWORD,sdk.open.talk.getui.com
 DOMAIN-KEYWORD,cm-10-35.getui.com
 DOMAIN-KEYWORD,c-hzgt2.getui.com
-DOMAIN-SUFFIX,sdk.open.talk.igexin.com,extended-matching
 
 # > 墨迹天气
 DOMAIN-KEYWORD,fds.api.moji.com
@@ -1553,11 +1555,11 @@ DOMAIN,saxn.sina.com.cn,extended-matching
 # >>>>>>>>>>>>>>> ✅ Y ✅ <<<<<<<<<<<<<<
 # > 云闪付
 DOMAIN,ads.95516.com,extended-matching
+DOMAIN,tysdk.95516.com,extended-matching
 DOMAIN,cm-10-138.getui.com,extended-matching
 DOMAIN,sdk.open.talk.getui.net,extended-matching
 DOMAIN,sdk-conf.getui.com,extended-matching
 DOMAIN,switch.cup.com.cn,extended-matching
-DOMAIN,tysdk.95516.com,extended-matching
 
 # > 雅虎
 DOMAIN-SUFFIX,adserver.yahoo.com,extended-matching
@@ -3872,7 +3874,6 @@ DOMAIN-SUFFIX,idcqi.com,extended-matching
 DOMAIN-SUFFIX,idianfang.com,extended-matching
 DOMAIN-SUFFIX,ie8eamus.com,extended-matching
 DOMAIN-SUFFIX,if1512.com,extended-matching
-DOMAIN-SUFFIX,igexin.com,extended-matching
 DOMAIN-SUFFIX,ihualun.com,extended-matching
 DOMAIN-SUFFIX,ihuanmei.com,extended-matching
 DOMAIN-SUFFIX,iiad.com,extended-matching
@@ -6185,8 +6186,6 @@ DOMAIN-SUFFIX,stjzh.gdtarget.com,extended-matching
 DOMAIN-SUFFIX,dspmy.ge95.com,extended-matching
 DOMAIN-SUFFIX,image.gentags.com,extended-matching
 DOMAIN-SUFFIX,sdk.open.talk.gepush.com,extended-matching
-DOMAIN-SUFFIX,c-hzgt2.getui.com,extended-matching
-DOMAIN-SUFFIX,gs.getui.com,extended-matching
 DOMAIN-SUFFIX,js.gewuwen.com,extended-matching
 DOMAIN-SUFFIX,json.gewuwen.com,extended-matching
 DOMAIN-SUFFIX,biz.gexing.com,extended-matching
@@ -6480,13 +6479,14 @@ DOMAIN-SUFFIX,api.newad.ifeng.com,extended-matching
 DOMAIN-SUFFIX,cz.ifeng0.com,extended-matching
 DOMAIN-SUFFIX,c0.ifengimg.com,extended-matching
 DOMAIN-SUFFIX,c1.ifengimg.com,extended-matching
-DOMAIN-SUFFIX,sdk.open.amp.igexin.com,extended-matching
-DOMAIN-SUFFIX,sdk.conf.igexin.com,extended-matching
 DOMAIN-SUFFIX,api.gi.igexin.com,extended-matching
-DOMAIN-SUFFIX,sdk.open.lbs.igexin.com,extended-matching
-DOMAIN-SUFFIX,talk.nz.igexin.com,extended-matching
-DOMAIN-SUFFIX,sdk.open.phone.igexin.com,extended-matching
 DOMAIN-SUFFIX,api.y.igexin.com,extended-matching
+DOMAIN-SUFFIX,talk.nz.igexin.com,extended-matching
+DOMAIN-SUFFIX,sdk.open.lbs.igexin.com,extended-matching
+DOMAIN-SUFFIX,sdk.open.amp.igexin.com,extended-matching
+DOMAIN-SUFFIX,sdk.open.phone.igexin.com,extended-matching
+DOMAIN-SUFFIX,sdk.open.talk.igexin.com,extended-matching
+DOMAIN-SUFFIX,sdk.conf.igexin.com,extended-matching
 DOMAIN-SUFFIX,fimserve.ign.com,extended-matching
 DOMAIN-SUFFIX,prerollads.ign.com,extended-matching
 DOMAIN-SUFFIX,unicast.ign.com,extended-matching
