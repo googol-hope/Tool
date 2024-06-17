@@ -936,7 +936,7 @@ DOMAIN,adclick.tencentmusic.com,extended-matching
 DOMAIN,otheve.beacon.qq.com,extended-matching
 DOMAIN,monitor.music.qq.com,extended-matching
 DOMAIN,stat.y.qq.com,extended-matching
-DOMAIN,tmead.y.qq.com-NO-DROP,extended-matching
+DOMAIN,tmead.y.qq.com,extended-matching
 DOMAIN,oth.str.mdt.qq.com,extended-matching
 DOMAIN,h.trace.qq.com,extended-matching
 DOMAIN,sdk.e.qq.com,extended-matching
