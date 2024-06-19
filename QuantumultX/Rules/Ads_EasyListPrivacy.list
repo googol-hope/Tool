@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202405311106
+## ! Version: 202406190215
 ## ! Title: EasyPrivacy
-## ! Last modified: 31 May 2024 11:06 UTC
+## ! Last modified: 19 Jun 2024 02:15 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -16,6 +16,7 @@
 
 
 HOST-SUFFIX,00px.net,reject,REJECT
+HOST-SUFFIX,1bliq.io,reject,REJECT
 HOST-SUFFIX,1cros.net,reject,REJECT
 HOST-SUFFIX,2cnt.net,reject,REJECT
 HOST-SUFFIX,2l6ddsmnm.de,reject,REJECT
@@ -128,7 +129,9 @@ HOST-SUFFIX,envato.market,reject,REJECT
 HOST-SUFFIX,epsilondelta.co,reject,REJECT
 HOST-SUFFIX,eqy.link,reject,REJECT
 HOST-SUFFIX,etop.ro,reject,REJECT
+HOST-SUFFIX,eu-1-id5-sync.com,reject,REJECT
 HOST-SUFFIX,everesttech.net,reject,REJECT
+HOST-SUFFIX,ew3.io,reject,REJECT
 HOST-SUFFIX,experianmatch.info,reject,REJECT
 HOST-SUFFIX,ezodn.com,reject,REJECT
 HOST-SUFFIX,ezstat.ru,reject,REJECT
@@ -385,6 +388,7 @@ HOST-SUFFIX,wlt-alice.de,reject,REJECT
 HOST-SUFFIX,wlt-jupiter.de,reject,REJECT
 HOST-SUFFIX,wmgroup.us,reject,REJECT
 HOST-SUFFIX,woodpeckerlog.com,reject,REJECT
+HOST-SUFFIX,xanalytics.vip,reject,REJECT
 HOST-SUFFIX,yardianalytics.com,reject,REJECT
 HOST-SUFFIX,yndhi.com,reject,REJECT
 HOST-SUFFIX,yottlyscript.com,reject,REJECT
@@ -1182,6 +1186,7 @@ HOST-SUFFIX,goldfishgrowth.com,reject,REJECT
 HOST-SUFFIX,gondolagnome.com,reject,REJECT
 HOST-SUFFIX,gorgeousedge.com,reject,REJECT
 HOST-SUFFIX,gorgeousground.com,reject,REJECT
+HOST-SUFFIX,gracefulmilk.com,reject,REJECT
 HOST-SUFFIX,gracefulsock.com,reject,REJECT
 HOST-SUFFIX,grainmass.com,reject,REJECT
 HOST-SUFFIX,grandfatherguitar.com,reject,REJECT
@@ -1525,6 +1530,7 @@ HOST-SUFFIX,oafishobservation.com,reject,REJECT
 HOST-SUFFIX,obscenesidewalk.com,reject,REJECT
 HOST-SUFFIX,observantice.com,reject,REJECT
 HOST-SUFFIX,oldfashionedoffer.com,reject,REJECT
+HOST-SUFFIX,omgthink.com,reject,REJECT
 HOST-SUFFIX,omniscientfeeling.com,reject,REJECT
 HOST-SUFFIX,omniscientspark.com,reject,REJECT
 HOST-SUFFIX,onlywoofs.com,reject,REJECT
@@ -1672,6 +1678,7 @@ HOST-SUFFIX,puffyloss.com,reject,REJECT
 HOST-SUFFIX,puffypaste.com,reject,REJECT
 HOST-SUFFIX,puffypull.com,reject,REJECT
 HOST-SUFFIX,puffypurpose.com,reject,REJECT
+HOST-SUFFIX,pulsatingmeadow.com,reject,REJECT
 HOST-SUFFIX,pumpedpancake.com,reject,REJECT
 HOST-SUFFIX,pumpedpurpose.com,reject,REJECT
 HOST-SUFFIX,punyplant.com,reject,REJECT
@@ -1685,6 +1692,7 @@ HOST-SUFFIX,quaintborder.com,reject,REJECT
 HOST-SUFFIX,quaintcan.com,reject,REJECT
 HOST-SUFFIX,quaintlake.com,reject,REJECT
 HOST-SUFFIX,quantumlagoon.com,reject,REJECT
+HOST-SUFFIX,quantumshine.com,reject,REJECT
 HOST-SUFFIX,quarterbean.com,reject,REJECT
 HOST-SUFFIX,queenskart.com,reject,REJECT
 HOST-SUFFIX,questionableobservation.com,reject,REJECT
@@ -2318,6 +2326,7 @@ HOST-SUFFIX,voraciousgrip.com,reject,REJECT
 HOST-SUFFIX,voyagepotato.com,reject,REJECT
 HOST-SUFFIX,vq1qi.pw,reject,REJECT
 HOST-SUFFIX,waggishpig.com,reject,REJECT
+HOST-SUFFIX,waitingnumber.com,reject,REJECT
 HOST-SUFFIX,wakefulcook.com,reject,REJECT
 HOST-SUFFIX,wantingwindow.com,reject,REJECT
 HOST-SUFFIX,warmafterthought.com,reject,REJECT
@@ -2404,6 +2413,7 @@ HOST-SUFFIX,a.getflowbox.com,reject,REJECT
 HOST-SUFFIX,a.hcaptcha.com,reject,REJECT
 HOST-SUFFIX,a.mobify.com,reject,REJECT
 HOST-SUFFIX,a.opumo.net,reject,REJECT
+HOST-SUFFIX,a.vturb.net,reject,REJECT
 HOST-SUFFIX,activity-flow.vtex.com,reject,REJECT
 HOST-SUFFIX,activity.wisepops.com,reject,REJECT
 HOST-SUFFIX,ad.aloodo.com,reject,REJECT
@@ -2411,6 +2421,7 @@ HOST-SUFFIX,ade.googlesyndication.com,reject,REJECT
 HOST-SUFFIX,adfox.yandex.ru,reject,REJECT
 HOST-SUFFIX,adlog.com.com,reject,REJECT
 HOST-SUFFIX,ads-trk.vidible.tv,reject,REJECT
+HOST-SUFFIX,adv-analytics-collector.videograph.ai,reject,REJECT
 HOST-SUFFIX,affiliate-api.raptive.com,reject,REJECT
 HOST-SUFFIX,affiliates.minglematch.com,reject,REJECT
 HOST-SUFFIX,akatracking.esearchvision.com,reject,REJECT
@@ -2599,6 +2610,7 @@ HOST-SUFFIX,beamanalytics.b-cdn.net,reject,REJECT
 HOST-SUFFIX,bee.tc.easebar.com,reject,REJECT
 HOST-SUFFIX,behavior.tongdun.net,reject,REJECT
 HOST-SUFFIX,bento.agoda.com,reject,REJECT
+HOST-SUFFIX,bi.heyloyalty.com,reject,REJECT
 HOST-SUFFIX,bi.medscape.com,reject,REJECT
 HOST-SUFFIX,bmrg.reflected.net,reject,REJECT
 HOST-SUFFIX,bonfire.spklw.com,reject,REJECT
@@ -2642,6 +2654,7 @@ HOST-SUFFIX,client-logger.beta.salemove.com,reject,REJECT
 HOST-SUFFIX,client-logger.salemove.com,reject,REJECT
 HOST-SUFFIX,clouderrorreporting.googleapis.com,reject,REJECT
 HOST-SUFFIX,cloudfront-labs.amazonaws.com,reject,REJECT
+HOST-SUFFIX,cloudmetrics.xenforo.com,reject,REJECT
 HOST-SUFFIX,cltgtstor001.blob.core.windows.net,reject,REJECT
 HOST-SUFFIX,cnt.3dmy.net,reject,REJECT
 HOST-SUFFIX,cnt.mastorage.net,reject,REJECT
@@ -3063,6 +3076,7 @@ HOST-SUFFIX,pixels.afcdn.com,reject,REJECT
 HOST-SUFFIX,pl.connatix.com,reject,REJECT
 HOST-SUFFIX,pla.fwdcdn.com,reject,REJECT
 HOST-SUFFIX,platform.iteratehq.com,reject,REJECT
+HOST-SUFFIX,plausible.server.hakai.app,reject,REJECT
 HOST-SUFFIX,play.adtonos.com,reject,REJECT
 HOST-SUFFIX,player-metrics.instaread.co,reject,REJECT
 HOST-SUFFIX,pm.boostintegrated.com,reject,REJECT
@@ -3186,6 +3200,7 @@ HOST-SUFFIX,stats.curds.io,reject,REJECT
 HOST-SUFFIX,stats.datahjaelp.net,reject,REJECT
 HOST-SUFFIX,stats.edicy.com,reject,REJECT
 HOST-SUFFIX,stats.esecured.net,reject,REJECT
+HOST-SUFFIX,stats.flixhq.live,reject,REJECT
 HOST-SUFFIX,stats.fomo.com,reject,REJECT
 HOST-SUFFIX,stats.gifs.com,reject,REJECT
 HOST-SUFFIX,stats.heyoya.com,reject,REJECT
@@ -3567,6 +3582,7 @@ HOST-SUFFIX,d2ibu2ug0mt5qp.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2j1fszo1axgmp.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2j74sjmqqyf26.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2kdl5wcwrtj90.cloudfront.net,reject,REJECT
+HOST-SUFFIX,d2lxqodqbpy7c2.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2nxi61n77zqpl.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2o67tzzxkqap2.cloudfront.net,reject,REJECT
 HOST-SUFFIX,d2oh4tlt9mrke9.cloudfront.net,reject,REJECT
@@ -3636,6 +3652,17 @@ HOST-SUFFIX,du4rq1xqh3i1k.cloudfront.net,reject,REJECT
 HOST-SUFFIX,duu8lzqdm8tsz.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dy2xcjk8s1dbz.cloudfront.net,reject,REJECT
 HOST-SUFFIX,dzgwautxzdtn9.cloudfront.net,reject,REJECT
+HOST-SUFFIX,anal.sataniskwijt.be,reject,REJECT
+HOST-SUFFIX,analytics.code.dccouncil.gov,reject,REJECT
+HOST-SUFFIX,count.vidsrc.pro,reject,REJECT
+HOST-SUFFIX,goat.hepicgamerz.com,reject,REJECT
+HOST-SUFFIX,goat.nhimmeo.cf,reject,REJECT
+HOST-SUFFIX,goat.skeetstats.xyz,reject,REJECT
+HOST-SUFFIX,goat.tailspace.net,reject,REJECT
+HOST-SUFFIX,st.mapleranks.com,reject,REJECT
+HOST-SUFFIX,stats.afrocave.com,reject,REJECT
+HOST-SUFFIX,stats.boringproxy.io,reject,REJECT
+HOST-SUFFIX,stats.how.wtf,reject,REJECT
 HOST-SUFFIX,am-vid-events.taboola.com,reject,REJECT
 HOST-SUFFIX,convsgmp.taboola.com,reject,REJECT
 HOST-SUFFIX,la-sync.taboola.com,reject,REJECT
@@ -3965,6 +3992,7 @@ HOST-SUFFIX,log.gs3.goo.ne.jp,reject,REJECT
 HOST-SUFFIX,log.popin.cc,reject,REJECT
 HOST-SUFFIX,log000.goo.ne.jp,reject,REJECT
 HOST-SUFFIX,logger.torimochi-ad.net,reject,REJECT
+HOST-SUFFIX,metrics.streaks.jp,reject,REJECT
 HOST-SUFFIX,omt.shinobi.jp,reject,REJECT
 HOST-SUFFIX,panda.kasika.io,reject,REJECT
 HOST-SUFFIX,ping.paidy.com,reject,REJECT
@@ -4623,6 +4651,7 @@ HOST-SUFFIX,sjc.cloud.optable.co,reject,REJECT
 HOST-SUFFIX,slipstream.skyscanner.net,reject,REJECT
 HOST-SUFFIX,smetrics.couponcabin.com,reject,REJECT
 HOST-SUFFIX,smetrics.ralphlauren.com,reject,REJECT
+HOST-SUFFIX,sofire.terabox.app,reject,REJECT
 HOST-SUFFIX,sp.cargurus.co.uk,reject,REJECT
 HOST-SUFFIX,sp.ecosia.org,reject,REJECT
 HOST-SUFFIX,sp.welcometothejungle.com,reject,REJECT
@@ -4753,9 +4782,11 @@ HOST-SUFFIX,tracking.shopstyle.co.uk,reject,REJECT
 HOST-SUFFIX,tracking.shopstyle.com,reject,REJECT
 HOST-SUFFIX,tracking.unrealengine.com,reject,REJECT
 HOST-SUFFIX,trackr.vivenu.com,reject,REJECT
+HOST-SUFFIX,trck.coomeet.com,reject,REJECT
 HOST-SUFFIX,trcksplt.miro.com,reject,REJECT
 HOST-SUFFIX,treatment.grammarly.com,reject,REJECT
 HOST-SUFFIX,tredir.go.com,reject,REJECT
+HOST-SUFFIX,trends.privacywall.org,reject,REJECT
 HOST-SUFFIX,trk.decido.io,reject,REJECT
 HOST-SUFFIX,trk.tirto.id,reject,REJECT
 HOST-SUFFIX,trx3.famousfix.com,reject,REJECT
@@ -39170,6 +39201,7 @@ HOST-SUFFIX,analytics.clubic.com,reject,REJECT
 HOST-SUFFIX,bmly.impots.gouv.fr,reject,REJECT
 HOST-SUFFIX,cdtm.cdiscount.com,reject,REJECT
 HOST-SUFFIX,compteur.developpez.com,reject,REJECT
+HOST-SUFFIX,datalayer.orange.fr,reject,REJECT
 HOST-SUFFIX,dd.leboncoin.fr,reject,REJECT
 HOST-SUFFIX,e.legalstart.fr,reject,REJECT
 HOST-SUFFIX,events-logs.doctolib.com,reject,REJECT
@@ -39180,6 +39212,7 @@ HOST-SUFFIX,hlms.ecologie.gouv.fr,reject,REJECT
 HOST-SUFFIX,insights.decathlon.net,reject,REJECT
 HOST-SUFFIX,kwgs.letudiant.fr,reject,REJECT
 HOST-SUFFIX,logstash-3.radio-canada.ca,reject,REJECT
+HOST-SUFFIX,metrics-broker.prod.p.tf1.fr,reject,REJECT
 HOST-SUFFIX,ocular.dealabs.com,reject,REJECT
 HOST-SUFFIX,p.pagesjaunes.fr,reject,REJECT
 HOST-SUFFIX,pixel.dugwood.com,reject,REJECT
@@ -39394,6 +39427,7 @@ HOST-SUFFIX,ma.register.it,reject,REJECT
 HOST-SUFFIX,stats.splinder.com,reject,REJECT
 HOST-SUFFIX,stats.stylight.it,reject,REJECT
 HOST-SUFFIX,stats.suedtirolerjobs.it,reject,REJECT
+HOST-SUFFIX,t.mediaset.it,reject,REJECT
 HOST-SUFFIX,tla.traderlink.com,reject,REJECT
 HOST-SUFFIX,track.tesiteca.it,reject,REJECT
 HOST-SUFFIX,tracker.stileo.it,reject,REJECT
@@ -39411,7 +39445,6 @@ HOST-SUFFIX,bc.nhk.jp,reject,REJECT
 HOST-SUFFIX,beacon.watch.impress.co.jp,reject,REJECT
 HOST-SUFFIX,beat.yourtv.jp,reject,REJECT
 HOST-SUFFIX,count.upc.rakuten.co.jp,reject,REJECT
-HOST-SUFFIX,counter.wikiwiki.jp,reject,REJECT
 HOST-SUFFIX,d-log.asahi.co.jp,reject,REJECT
 HOST-SUFFIX,d-log.bs-asahi.tv,reject,REJECT
 HOST-SUFFIX,d-log.tv-asahi.co.jp,reject,REJECT
@@ -39576,6 +39609,7 @@ HOST-SUFFIX,g.siliconweek.es,reject,REJECT
 HOST-SUFFIX,geo.emol.cl,reject,REJECT
 HOST-SUFFIX,hits.antena3.com,reject,REJECT
 HOST-SUFFIX,horizon-track.globo.com,reject,REJECT
+HOST-SUFFIX,logs.openbank.com,reject,REJECT
 HOST-SUFFIX,mega.promodescuentos.com,reject,REJECT
 HOST-SUFFIX,ocular.promodescuentos.com,reject,REJECT
 HOST-SUFFIX,pixel.europapress.net,reject,REJECT
