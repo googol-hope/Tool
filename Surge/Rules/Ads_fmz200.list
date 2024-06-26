@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/fenliu.list
 #!tg-group=https://t.me/lanjieguanggao
-#!date=2024-06-17 22:10:00
+#!date=2024-06-26 17:10:00
 #!support=约9392行
 #!proxy-select=REJECT
 #############################################
@@ -461,8 +461,8 @@ DOMAIN,tnc3-aliec2.snssdk.com,extended-matching
 DOMAIN,is.snssdk.com,extended-matching
 DOMAIN,i.snssdk.com,extended-matching
 DOMAIN,v6-novelapp.ixigua.com,extended-matching
-DOMAIN,*novelapp.ixigua.com,extended-matching
-DOMAIN,*default.ixigua.com,extended-matching
+DOMAIN-SUFFIX,novelapp.ixigua.com,extended-matching
+DOMAIN-SUFFIX,default.ixigua.com,extended-matching
 DOMAIN,msync-im1-vip6-std.easemob.com,extended-matching
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,extended-matching
 DOMAIN,api.iegadp.qq.com,extended-matching
