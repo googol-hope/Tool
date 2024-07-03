@@ -1171,7 +1171,6 @@ HOST-SUFFIX,adnxs.com,REJECT
 HOST-SUFFIX,adobe-dns.adobe.com,REJECT
 HOST-SUFFIX,adobe-dns-2.adobe.com,REJECT
 HOST-SUFFIX,adobe-dns-3.adobe.com,REJECT
-HOST-SUFFIX,adobe.io,REJECT
 HOST-SUFFIX,adomv.com,REJECT
 HOST-SUFFIX,adp.cnool.net,REJECT
 HOST-SUFFIX,adp.s8bbs.com,REJECT
