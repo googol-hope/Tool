@@ -1,4 +1,4 @@
-# 2024-07-13 22:40
+# 2024-07-19 15:15
 
 # ======= A ======= #
 # 阿里巴巴
@@ -45,6 +45,7 @@ IP-CIDR,180.76.76.200/32,no-resolve
 
 # ======= C ======= #
 # 彩云天气
+DOMAIN,abyss.cyapi.cn,extended-matching
 DOMAIN,ad.cyapi.cn,extended-matching
 # 昌原云充
 DOMAIN,m.adyounger.com,extended-matching
@@ -72,15 +73,24 @@ DOMAIN,pageviewp.icbc.com.cn,extended-matching
 DOMAIN-SUFFIX,mall.icbc.com.cn,extended-matching
 # 广告联盟
 DOMAIN,ad.zijieapi.com,extended-matching
+DOMAIN,adapi.izuiyou.com,extended-matching
 DOMAIN,adtracker.adfunlink.com,extended-matching
+DOMAIN,dig.bdurl.net,extended-matching
+DOMAIN,dsp-x.jd.com,extended-matching
+DOMAIN,et.tanx.com,extended-matching
+DOMAIN,gdfp.gifshow.com,extended-matching
 DOMAIN,init.supersonicads.com,extended-matching
 DOMAIN,is.snssdk.com,extended-matching
+DOMAIN,janapi.jd.com,extended-matching
+DOMAIN,mercury-gateway.ixiaochuan.cn,extended-matching
 DOMAIN,open.e.kuaishou.com,extended-matching
 DOMAIN,open.kuaishou.com,extended-matching
 DOMAIN,pagead2.googlesyndication-cn.com,extended-matching
 DOMAIN,pagead2.googlesyndication.com,extended-matching
+DOMAIN,sdk.e.qq.com,extended-matching
 DOMAIN,ws.tapjoyads.com,extended-matching
 DOMAIN,www.googleadservices.com,extended-matching
+DOMAIN,xlog.jd.com,extended-matching
 DOMAIN-SUFFIX,ads.linkedin.com,extended-matching
 DOMAIN-SUFFIX,ads.vungle.com,extended-matching
 DOMAIN-SUFFIX,adservice.google.com,extended-matching
@@ -91,7 +101,9 @@ DOMAIN-SUFFIX,appsflyer.com,extended-matching
 DOMAIN-SUFFIX,appsflyersdk.com,extended-matching
 DOMAIN-SUFFIX,kuaishouzt.com,extended-matching
 DOMAIN-SUFFIX,miaozhen.com,extended-matching
+DOMAIN-SUFFIX,ubixioe.com,extended-matching
 DOMAIN-SUFFIX,unityads.unity3d.com,extended-matching
+DOMAIN-SUFFIX,zijieapi.com,extended-matching
 DOMAIN-KEYWORD,-ad-sign.byteimg.com
 DOMAIN-KEYWORD,ads.g.doubleclick
 DOMAIN-KEYWORD,asiad.byteactivity
