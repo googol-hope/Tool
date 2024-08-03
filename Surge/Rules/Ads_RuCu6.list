@@ -1,4 +1,4 @@
-# 2024-08-02 16:45
+# 2024-08-03 08:30
 
 # ======= A ======= #
 # 阿里巴巴
@@ -132,7 +132,6 @@ DOMAIN,api.liquidlink.cn,extended-matching
 # ======= K ======= #
 # 酷狗音乐
 DOMAIN,ads.service.kugou.com,extended-matching
-DOMAIN,adserviceretry.kglink.cn,extended-matching
 DOMAIN,adserviceretry.kugou.com,extended-matching
 # 酷我音乐
 DOMAIN,ad.tencentmusic.com,extended-matching
