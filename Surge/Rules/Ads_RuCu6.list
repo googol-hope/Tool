@@ -1,4 +1,4 @@
-# 2024-08-03 08:30
+# 2024-08-08 08:50
 
 # ======= A ======= #
 # 阿里巴巴
@@ -88,6 +88,7 @@ DOMAIN,open.kuaishou.com,extended-matching
 DOMAIN,pagead2.googlesyndication-cn.com,extended-matching
 DOMAIN,pagead2.googlesyndication.com,extended-matching
 DOMAIN,sdk.e.qq.com,extended-matching
+DOMAIN,tangram.e.qq.com,extended-matching
 DOMAIN,ws.tapjoyads.com,extended-matching
 DOMAIN,www.googleadservices.com,extended-matching
 DOMAIN-SUFFIX,ads.linkedin.com,extended-matching
