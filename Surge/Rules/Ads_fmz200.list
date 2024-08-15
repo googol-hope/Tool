@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/fenliu.list
 #!tg-group=https://t.me/lanjieguanggao
-#!date=2024-08-07 20:10:00
+#!date=2024-08-15 19:10:00
 #!support=约9392行
 #!proxy-select=REJECT
 #############################################
@@ -648,7 +648,7 @@ DOMAIN,dns.jd.com,extended-matching
 IP-CIDR,101.124.19.122/32,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
 
-# 建行生活
+# > 建行生活
 # 内置饿了么外卖弹窗
 DOMAIN,o2o-ad-log-gateway.alibaba.com,extended-matching
 
@@ -953,7 +953,17 @@ DOMAIN,us.l.qq.com,extended-matching
 DOMAIN,tangram.e.qq.com,extended-matching
 DOMAIN,tmeadbak.y.qq.com,extended-matching
 DOMAIN-SUFFIX,imtmp.net,extended-matching
-
+DOMAIN,tmeadcomm.y.qq.com,extended-matching
+DOMAIN,ad.tencentmusic.com,extended-matching
+DOMAIN,adstats.tencentmusic.com,extended-matching
+DOMAIN,tmead.y.qq.com,extended-matching
+DOMAIN-SUFFIX,rqd.qq.com,extended-matching
+DOMAIN-SUFFIX,wup.imtt.qq.com,extended-matching
+DOMAIN-SUFFIX,gdt.qq.com,extended-matching
+DOMAIN-SUFFIX,android.rqd.qq.com,extended-matching
+DOMAIN-SUFFIX,e.qq.com,extended-matching
+DOMAIN-SUFFIX,beacon.qq.com,extended-matching
+DOMAIN-SUFFIX,v.gdt.qq.com,extended-matching
 
 # > 蜻蜓FM
 DOMAIN,ad.qingting.fm,extended-matching
@@ -984,18 +994,6 @@ DOMAIN,adm1.autoimg.cn,extended-matching
 DOMAIN,adm2.autoimg.cn,extended-matching
 DOMAIN,adm3.autoimg.cn,extended-matching
 
-# > QQ音乐广告
-DOMAIN,tmeadcomm.y.qq.com,extended-matching
-DOMAIN,ad.tencentmusic.com,extended-matching
-DOMAIN,adstats.tencentmusic.com,extended-matching
-DOMAIN,tmead.y.qq.com,extended-matching
-DOMAIN-SUFFIX,rqd.qq.com,extended-matching
-DOMAIN-SUFFIX,wup.imtt.qq.com,extended-matching
-DOMAIN-SUFFIX,gdt.qq.com,extended-matching
-DOMAIN-SUFFIX,android.rqd.qq.com,extended-matching
-DOMAIN-SUFFIX,e.qq.com,extended-matching
-DOMAIN-SUFFIX,beacon.qq.com,extended-matching
-DOMAIN-SUFFIX,v.gdt.qq.com,extended-matching
 
 
 
@@ -1410,8 +1408,31 @@ DOMAIN-KEYWORD,paradisestatic.vivo.com.cn
 
 
 # >>>>>>>>>>>>>>> ✅ W ✅ <<<<<<<<<<<<<<
-# > 万能钥匙专业版 感谢#All in 梭哈分享
+# > 万能钥匙专业版
+# 感谢【All in 梭哈】分享
 DOMAIN-SUFFIX,mi.gdt.qq.com,extended-matching
+# 去除导航栏免费短剧
+DOMAIN,taichi.51y5.net,extended-matching
+
+# > WiFi万能钥匙
+DOMAIN-KEYWORD,app.51y5.net
+DOMAIN-KEYWORD,apiinit.amap.com
+DOMAIN-KEYWORD,c.51y5.net
+DOMAIN-KEYWORD,msg.push.51y5.net
+DOMAIN-KEYWORD,a.wkanx.com
+DOMAIN-KEYWORD,c.wkanx.com
+DOMAIN-KEYWORD,c1.wkanx.com
+DOMAIN-KEYWORD,ap.51y5.net
+DOMAIN-KEYWORD,dc.51y5.net
+DOMAIN-KEYWORD,push-dc.51y5.net
+DOMAIN-KEYWORD,news-log.51y5.net
+DOMAIN-KEYWORD,login.push.51y5.net
+DOMAIN-KEYWORD,news.51y5.net
+DOMAIN-KEYWORD,cds.51y5.net
+DOMAIN-KEYWORD,insurance.lianwifi.com
+DOMAIN-KEYWORD,config.51y5.net
+DOMAIN-KEYWORD,static.wkanx.com
+DOMAIN-KEYWORD,config.y5en.com
 
 # > 微博
 DOMAIN-SUFFIX,fastimage.uve.weibo.com,extended-matching
@@ -1474,26 +1495,6 @@ DOMAIN-SUFFIX,ads2.msn.com,extended-matching
 DOMAIN-SUFFIX,bingads.microsoft.com,extended-matching
 DOMAIN-SUFFIX,rads.msn.com,extended-matching
 DOMAIN,mobileads.msn.com,extended-matching
-
-# > WiFi万能钥匙
-DOMAIN-KEYWORD,app.51y5.net
-DOMAIN-KEYWORD,apiinit.amap.com
-DOMAIN-KEYWORD,c.51y5.net
-DOMAIN-KEYWORD,msg.push.51y5.net
-DOMAIN-KEYWORD,a.wkanx.com
-DOMAIN-KEYWORD,c.wkanx.com
-DOMAIN-KEYWORD,c1.wkanx.com
-DOMAIN-KEYWORD,ap.51y5.net
-DOMAIN-KEYWORD,dc.51y5.net
-DOMAIN-KEYWORD,push-dc.51y5.net
-DOMAIN-KEYWORD,news-log.51y5.net
-DOMAIN-KEYWORD,login.push.51y5.net
-DOMAIN-KEYWORD,news.51y5.net
-DOMAIN-KEYWORD,cds.51y5.net
-DOMAIN-KEYWORD,insurance.lianwifi.com
-DOMAIN-KEYWORD,config.51y5.net
-DOMAIN-KEYWORD,static.wkanx.com
-DOMAIN-KEYWORD,config.y5en.com
 
 # > 威锋 广告联盟已包含
 
