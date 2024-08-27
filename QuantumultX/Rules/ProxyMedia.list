@@ -1,5 +1,5 @@
 # 内容：国外媒体列表
-# 更新：2024-06-30 11:02:56
+# 更新：2024-08-27 13:51:18
 # 数量：367条
 
 # ABC
@@ -336,7 +336,6 @@ HOST-SUFFIX,olevodtv.com,PROXY
 
 # OpenAi
 HOST-KEYWORD,openai,PROXY
-HOST,gemini.google.com,PROXY
 HOST-SUFFIX,auth0.com,PROXY
 HOST-SUFFIX,challenges.cloudflare.com,PROXY
 HOST-SUFFIX,chatgpt.com,PROXY
