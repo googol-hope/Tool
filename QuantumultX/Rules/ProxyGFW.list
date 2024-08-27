@@ -212,6 +212,7 @@ HOST-SUFFIX,accim.org,PROXY
 HOST-SUFFIX,accountkit.com,PROXY
 HOST-SUFFIX,aceros-de-hispania.com,PROXY
 HOST-SUFFIX,acevpn.com,PROXY
+HOST-SUFFIX,acg.rip,PROXY
 HOST-SUFFIX,acg18.me,PROXY
 HOST-SUFFIX,acgbox.org,PROXY
 HOST-SUFFIX,acgkj.com,PROXY
@@ -3334,6 +3335,7 @@ HOST-SUFFIX,middle-way.net,PROXY
 HOST-SUFFIX,mihk.hk,PROXY
 HOST-SUFFIX,mihr.com,PROXY
 HOST-SUFFIX,mihua.org,PROXY
+HOST-SUFFIX,mikanani.me,PROXY
 HOST-SUFFIX,mikesoltys.com,PROXY
 HOST-SUFFIX,mikocon.com,PROXY
 HOST-SUFFIX,milph.net,PROXY
@@ -6171,6 +6173,9 @@ IP-CIDR,220.181.174.34/32,PROXY
 HOST-SUFFIX,cdninstagram.com,PROXY
 HOST-SUFFIX,instagram.com,PROXY
 HOST-SUFFIX,instagr.am,PROXY
+
+# Iwara
+HOST-SUFFIX,iwara.tv,PROXY
 
 # Kakao Talk
 HOST-SUFFIX,kakao.com,PROXY
