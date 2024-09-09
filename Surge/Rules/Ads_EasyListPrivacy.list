@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202409051614
+## ! Version: 202409081436
 ## ! Title: EasyPrivacy
-## ! Last modified: 05 Sep 2024 16:14 UTC
+## ! Last modified: 08 Sep 2024 14:36 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1881,6 +1881,7 @@ DOMAIN-SUFFIX,rambunctiousflock.com,extended-matching
 DOMAIN-SUFFIX,rambunctiousvoyage.com,extended-matching
 DOMAIN-SUFFIX,rangecake.com,extended-matching
 DOMAIN-SUFFIX,rangeplayground.com,extended-matching
+DOMAIN-SUFFIX,rangergustav.com,extended-matching
 DOMAIN-SUFFIX,rapidkittens.com,extended-matching
 DOMAIN-SUFFIX,raresummer.com,extended-matching
 DOMAIN-SUFFIX,reactjspdf.com,extended-matching
@@ -4354,6 +4355,7 @@ DOMAIN-SUFFIX,0.myikas.com,extended-matching
 DOMAIN-SUFFIX,analitik.bik.gov.tr,extended-matching
 DOMAIN-SUFFIX,analytics.faprika.net,extended-matching
 DOMAIN-SUFFIX,analytics.kkb.com.tr,extended-matching
+DOMAIN-SUFFIX,analytics.qushad.com,extended-matching
 DOMAIN-SUFFIX,c.keltis.com,extended-matching
 DOMAIN-SUFFIX,collector.wawlabs.com,extended-matching
 DOMAIN-SUFFIX,log.collectaction.com,extended-matching
@@ -4373,6 +4375,7 @@ DOMAIN-SUFFIX,tracking.aita.gov.vn,extended-matching
 DOMAIN-SUFFIX,tracking3.vnncdn.net,extended-matching
 DOMAIN-SUFFIX,za.zalo.me,extended-matching
 DOMAIN-SUFFIX,za.zdn.vn,extended-matching
+DOMAIN-SUFFIX,a-da.invideo.io,extended-matching
 DOMAIN-SUFFIX,a-reporting.nytimes.com,extended-matching
 DOMAIN-SUFFIX,a.electerious.com,extended-matching
 DOMAIN-SUFFIX,a.tellonym.me,extended-matching
@@ -4395,6 +4398,7 @@ DOMAIN-SUFFIX,ampltd.top.gg,extended-matching
 DOMAIN-SUFFIX,ampltd2.medal.tv,extended-matching
 DOMAIN-SUFFIX,anal.doubledouble.top,extended-matching
 DOMAIN-SUFFIX,analytics-batch.blitz.gg,extended-matching
+DOMAIN-SUFFIX,analytics-dataplane.invideo.io,extended-matching
 DOMAIN-SUFFIX,analytics-proxy.springboard.com,extended-matching
 DOMAIN-SUFFIX,analytics-server.arras.cx,extended-matching
 DOMAIN-SUFFIX,analytics-tracking.meetup.com,extended-matching
@@ -4577,6 +4581,7 @@ DOMAIN-SUFFIX,eventlog.jackpot.de,extended-matching
 DOMAIN-SUFFIX,events-prod.autolist.com,extended-matching
 DOMAIN-SUFFIX,events-tracker.deliveroo.net,extended-matching
 DOMAIN-SUFFIX,events.api.godaddy.com,extended-matching
+DOMAIN-SUFFIX,events.baselime.io,extended-matching
 DOMAIN-SUFFIX,events.clips4sale.com,extended-matching
 DOMAIN-SUFFIX,events.framer.com,extended-matching
 DOMAIN-SUFFIX,events.mercadolibre.com,extended-matching
@@ -4753,6 +4758,7 @@ DOMAIN-SUFFIX,pingback.issuu.com,extended-matching
 DOMAIN-SUFFIX,pingo.staticmoly.me,extended-matching
 DOMAIN-SUFFIX,pixel.archivecaslytosk.onion,extended-matching
 DOMAIN-SUFFIX,pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion,extended-matching
+DOMAIN-SUFFIX,pixel.clutter.com,extended-matching
 DOMAIN-SUFFIX,pixel.convertize.io,extended-matching
 DOMAIN-SUFFIX,pixel.facebook.com,extended-matching
 DOMAIN-SUFFIX,pixel.honestjohn.co.uk,extended-matching
@@ -4851,6 +4857,7 @@ DOMAIN-SUFFIX,stat.vulkanvegas.com,extended-matching
 DOMAIN-SUFFIX,statistics.streamdav.com,extended-matching
 DOMAIN-SUFFIX,stats.aerotime.aero,extended-matching
 DOMAIN-SUFFIX,stats.calcalist.co.il,extended-matching
+DOMAIN-SUFFIX,stats.chromatone.center,extended-matching
 DOMAIN-SUFFIX,stats.codeur.com,extended-matching
 DOMAIN-SUFFIX,stats.davidickedelivery.com,extended-matching
 DOMAIN-SUFFIX,stats.gateio.ch,extended-matching

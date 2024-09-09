@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202409051614
+## ! Version: 202409081436
 ## ! Title: EasyPrivacy
-## ! Last modified: 05 Sep 2024 16:14 UTC
+## ! Last modified: 08 Sep 2024 14:36 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -1881,6 +1881,7 @@ HOST-SUFFIX,rambunctiousflock.com,reject,REJECT
 HOST-SUFFIX,rambunctiousvoyage.com,reject,REJECT
 HOST-SUFFIX,rangecake.com,reject,REJECT
 HOST-SUFFIX,rangeplayground.com,reject,REJECT
+HOST-SUFFIX,rangergustav.com,reject,REJECT
 HOST-SUFFIX,rapidkittens.com,reject,REJECT
 HOST-SUFFIX,raresummer.com,reject,REJECT
 HOST-SUFFIX,reactjspdf.com,reject,REJECT
@@ -4354,6 +4355,7 @@ HOST-SUFFIX,0.myikas.com,reject,REJECT
 HOST-SUFFIX,analitik.bik.gov.tr,reject,REJECT
 HOST-SUFFIX,analytics.faprika.net,reject,REJECT
 HOST-SUFFIX,analytics.kkb.com.tr,reject,REJECT
+HOST-SUFFIX,analytics.qushad.com,reject,REJECT
 HOST-SUFFIX,c.keltis.com,reject,REJECT
 HOST-SUFFIX,collector.wawlabs.com,reject,REJECT
 HOST-SUFFIX,log.collectaction.com,reject,REJECT
@@ -4373,6 +4375,7 @@ HOST-SUFFIX,tracking.aita.gov.vn,reject,REJECT
 HOST-SUFFIX,tracking3.vnncdn.net,reject,REJECT
 HOST-SUFFIX,za.zalo.me,reject,REJECT
 HOST-SUFFIX,za.zdn.vn,reject,REJECT
+HOST-SUFFIX,a-da.invideo.io,reject,REJECT
 HOST-SUFFIX,a-reporting.nytimes.com,reject,REJECT
 HOST-SUFFIX,a.electerious.com,reject,REJECT
 HOST-SUFFIX,a.tellonym.me,reject,REJECT
@@ -4395,6 +4398,7 @@ HOST-SUFFIX,ampltd.top.gg,reject,REJECT
 HOST-SUFFIX,ampltd2.medal.tv,reject,REJECT
 HOST-SUFFIX,anal.doubledouble.top,reject,REJECT
 HOST-SUFFIX,analytics-batch.blitz.gg,reject,REJECT
+HOST-SUFFIX,analytics-dataplane.invideo.io,reject,REJECT
 HOST-SUFFIX,analytics-proxy.springboard.com,reject,REJECT
 HOST-SUFFIX,analytics-server.arras.cx,reject,REJECT
 HOST-SUFFIX,analytics-tracking.meetup.com,reject,REJECT
@@ -4577,6 +4581,7 @@ HOST-SUFFIX,eventlog.jackpot.de,reject,REJECT
 HOST-SUFFIX,events-prod.autolist.com,reject,REJECT
 HOST-SUFFIX,events-tracker.deliveroo.net,reject,REJECT
 HOST-SUFFIX,events.api.godaddy.com,reject,REJECT
+HOST-SUFFIX,events.baselime.io,reject,REJECT
 HOST-SUFFIX,events.clips4sale.com,reject,REJECT
 HOST-SUFFIX,events.framer.com,reject,REJECT
 HOST-SUFFIX,events.mercadolibre.com,reject,REJECT
@@ -4753,6 +4758,7 @@ HOST-SUFFIX,pingback.issuu.com,reject,REJECT
 HOST-SUFFIX,pingo.staticmoly.me,reject,REJECT
 HOST-SUFFIX,pixel.archivecaslytosk.onion,reject,REJECT
 HOST-SUFFIX,pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion,reject,REJECT
+HOST-SUFFIX,pixel.clutter.com,reject,REJECT
 HOST-SUFFIX,pixel.convertize.io,reject,REJECT
 HOST-SUFFIX,pixel.facebook.com,reject,REJECT
 HOST-SUFFIX,pixel.honestjohn.co.uk,reject,REJECT
@@ -4851,6 +4857,7 @@ HOST-SUFFIX,stat.vulkanvegas.com,reject,REJECT
 HOST-SUFFIX,statistics.streamdav.com,reject,REJECT
 HOST-SUFFIX,stats.aerotime.aero,reject,REJECT
 HOST-SUFFIX,stats.calcalist.co.il,reject,REJECT
+HOST-SUFFIX,stats.chromatone.center,reject,REJECT
 HOST-SUFFIX,stats.codeur.com,reject,REJECT
 HOST-SUFFIX,stats.davidickedelivery.com,reject,REJECT
 HOST-SUFFIX,stats.gateio.ch,reject,REJECT
