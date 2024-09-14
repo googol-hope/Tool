@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202409081436
+## ! Version: 202409132119
 ## ! Title: EasyPrivacy
-## ! Last modified: 08 Sep 2024 14:36 UTC
+## ! Last modified: 13 Sep 2024 21:19 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3640,6 +3640,7 @@ DOMAIN-SUFFIX,try.abtasty.com,extended-matching
 DOMAIN-SUFFIX,ts.tradetracker.net,extended-matching
 DOMAIN-SUFFIX,ucounter.ucoz.net,extended-matching
 DOMAIN-SUFFIX,uid.mediacorp.sg,extended-matching
+DOMAIN-SUFFIX,uilogging.tcdevops.com,extended-matching
 DOMAIN-SUFFIX,uim.tifbs.net,extended-matching
 DOMAIN-SUFFIX,umami.aigenerations.net,extended-matching
 DOMAIN-SUFFIX,units.knotch.it,extended-matching
@@ -4703,6 +4704,7 @@ DOMAIN-SUFFIX,mcs-va.tiktokv.com,extended-matching
 DOMAIN-SUFFIX,mcs.tiktokv.us,extended-matching
 DOMAIN-SUFFIX,mcs.tiktokw.us,extended-matching
 DOMAIN-SUFFIX,mcs.us.tiktokv.com,extended-matching
+DOMAIN-SUFFIX,mdt.crateandbarrel.com,extended-matching
 DOMAIN-SUFFIX,megatron.igraal.com,extended-matching
 DOMAIN-SUFFIX,metrics.audius.co,extended-matching
 DOMAIN-SUFFIX,metrics.bangbros.com,extended-matching
@@ -4856,6 +4858,7 @@ DOMAIN-SUFFIX,stat.turb.pw,extended-matching
 DOMAIN-SUFFIX,stat.vulkanvegas.com,extended-matching
 DOMAIN-SUFFIX,statistics.streamdav.com,extended-matching
 DOMAIN-SUFFIX,stats.aerotime.aero,extended-matching
+DOMAIN-SUFFIX,stats.allenai.org,extended-matching
 DOMAIN-SUFFIX,stats.calcalist.co.il,extended-matching
 DOMAIN-SUFFIX,stats.chromatone.center,extended-matching
 DOMAIN-SUFFIX,stats.codeur.com,extended-matching
@@ -38711,7 +38714,6 @@ DOMAIN-SUFFIX,go.petmire.com,extended-matching
 DOMAIN-SUFFIX,go.piccolo.mobi,extended-matching
 DOMAIN-SUFFIX,go.picsart.com,extended-matching
 DOMAIN-SUFFIX,go.pinoy.innovatedating.com,extended-matching
-DOMAIN-SUFFIX,go.playbackbone.com,extended-matching
 DOMAIN-SUFFIX,go.player2app.com,extended-matching
 DOMAIN-SUFFIX,go.poland.innovatedating.com,extended-matching
 DOMAIN-SUFFIX,go.polen-app.com,extended-matching
@@ -41334,6 +41336,7 @@ DOMAIN-SUFFIX,track.exame.com,extended-matching
 DOMAIN-SUFFIX,track.olx.com.br,extended-matching
 DOMAIN-SUFFIX,tracker.bt.uol.com.br,extended-matching
 DOMAIN-SUFFIX,tracker.publico.pt,extended-matching
+DOMAIN-SUFFIX,unleash.livepix.gg,extended-matching
 DOMAIN-SUFFIX,analytics.okazii.ro,extended-matching
 DOMAIN-SUFFIX,views.b1tv.ro,extended-matching
 DOMAIN-SUFFIX,views.romaniatv.net,extended-matching

@@ -1,7 +1,7 @@
 ## [Adblock Plus 1.1]
-## ! Version: 202409081436
+## ! Version: 202409132119
 ## ! Title: EasyPrivacy
-## ! Last modified: 08 Sep 2024 14:36 UTC
+## ! Last modified: 13 Sep 2024 21:19 UTC
 ## ! Expires: 4 days (update frequency)
 ## ! *** easylist:template_header.txt ***
 ## ! 
@@ -3640,6 +3640,7 @@ HOST-SUFFIX,try.abtasty.com,reject,REJECT
 HOST-SUFFIX,ts.tradetracker.net,reject,REJECT
 HOST-SUFFIX,ucounter.ucoz.net,reject,REJECT
 HOST-SUFFIX,uid.mediacorp.sg,reject,REJECT
+HOST-SUFFIX,uilogging.tcdevops.com,reject,REJECT
 HOST-SUFFIX,uim.tifbs.net,reject,REJECT
 HOST-SUFFIX,umami.aigenerations.net,reject,REJECT
 HOST-SUFFIX,units.knotch.it,reject,REJECT
@@ -4703,6 +4704,7 @@ HOST-SUFFIX,mcs-va.tiktokv.com,reject,REJECT
 HOST-SUFFIX,mcs.tiktokv.us,reject,REJECT
 HOST-SUFFIX,mcs.tiktokw.us,reject,REJECT
 HOST-SUFFIX,mcs.us.tiktokv.com,reject,REJECT
+HOST-SUFFIX,mdt.crateandbarrel.com,reject,REJECT
 HOST-SUFFIX,megatron.igraal.com,reject,REJECT
 HOST-SUFFIX,metrics.audius.co,reject,REJECT
 HOST-SUFFIX,metrics.bangbros.com,reject,REJECT
@@ -4856,6 +4858,7 @@ HOST-SUFFIX,stat.turb.pw,reject,REJECT
 HOST-SUFFIX,stat.vulkanvegas.com,reject,REJECT
 HOST-SUFFIX,statistics.streamdav.com,reject,REJECT
 HOST-SUFFIX,stats.aerotime.aero,reject,REJECT
+HOST-SUFFIX,stats.allenai.org,reject,REJECT
 HOST-SUFFIX,stats.calcalist.co.il,reject,REJECT
 HOST-SUFFIX,stats.chromatone.center,reject,REJECT
 HOST-SUFFIX,stats.codeur.com,reject,REJECT
@@ -38711,7 +38714,6 @@ HOST-SUFFIX,go.petmire.com,reject,REJECT
 HOST-SUFFIX,go.piccolo.mobi,reject,REJECT
 HOST-SUFFIX,go.picsart.com,reject,REJECT
 HOST-SUFFIX,go.pinoy.innovatedating.com,reject,REJECT
-HOST-SUFFIX,go.playbackbone.com,reject,REJECT
 HOST-SUFFIX,go.player2app.com,reject,REJECT
 HOST-SUFFIX,go.poland.innovatedating.com,reject,REJECT
 HOST-SUFFIX,go.polen-app.com,reject,REJECT
@@ -41334,6 +41336,7 @@ HOST-SUFFIX,track.exame.com,reject,REJECT
 HOST-SUFFIX,track.olx.com.br,reject,REJECT
 HOST-SUFFIX,tracker.bt.uol.com.br,reject,REJECT
 HOST-SUFFIX,tracker.publico.pt,reject,REJECT
+HOST-SUFFIX,unleash.livepix.gg,reject,REJECT
 HOST-SUFFIX,analytics.okazii.ro,reject,REJECT
 HOST-SUFFIX,views.b1tv.ro,reject,REJECT
 HOST-SUFFIX,views.romaniatv.net,reject,REJECT
