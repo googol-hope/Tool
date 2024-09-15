@@ -5,7 +5,7 @@
 #!icon=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/gif/naisi-01.gif
 #!raw-url=https://github.com/fmz200/wool_scripts/raw/main/QuantumultX/filter/fenliu.list
 #!tg-group=https://t.me/lanjieguanggao
-#!date=2024-08-17 23:10:00
+#!date=2024-09-15 11:10:00
 #!support=约9392行
 #!proxy-select=REJECT
 #############################################
@@ -467,7 +467,7 @@ DOMAIN,mcs.snssdk.com,extended-matching
 DOMAIN,tnc3-alisc1.snssdk.com,extended-matching
 DOMAIN,security-lq.snssdk.com,extended-matching
 DOMAIN,tnc3-aliec2.snssdk.com,extended-matching
-DOMAIN,is.snssdk.com,extended-matching
+#DOMAIN,is.snssdk.com
 DOMAIN,i.snssdk.com,extended-matching
 DOMAIN,v6-novelapp.ixigua.com,extended-matching
 DOMAIN-SUFFIX,novelapp.ixigua.com,extended-matching
@@ -477,7 +477,7 @@ DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,extended-matching
 DOMAIN,api.iegadp.qq.com,extended-matching
 DOMAIN-SUFFIX,byteorge.com,extended-matching
 DOMAIN-SUFFIX,bytegoofy.com,extended-matching
-DOMAIN-SUFFIX,bytedance.com,extended-matching
+#DOMAIN-SUFFIX,bytedance.com
 IP-CIDR,49.71.37.101/32,no-resolve
 IP-CIDR,117.71.105.23/32,no-resolve
 IP-CIDR,218.94.207.205/32,no-resolve
