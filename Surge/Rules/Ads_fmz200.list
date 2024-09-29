@@ -659,6 +659,7 @@ DOMAIN,o2o-ad-log-gateway.alibaba.com,extended-matching
 # > keep
 DOMAIN,apm.gotokeep.com,extended-matching
 DOMAIN,kad.gotokeep.com,extended-matching
+DOMAIN,hc-ssp.sm.cn,extended-matching
 
 # > 快乐广播
 DOMAIN,ad.hpplay.cn,extended-matching
